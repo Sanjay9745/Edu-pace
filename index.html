@@ -31,7 +31,7 @@
           <div class="sidebar-logo">
             
             <span class="logo-name">Edu Pace Langauge Academy</span>
-            <i class="fa-solid fa-bars"></i>
+            <i class="fa-solid fa-bars close-bars"></i>
           </div>
           
           <ul class="links">
@@ -262,13 +262,15 @@
 
       // sidebar open close js code
       let navLinks = document.querySelector(".nav-links");
-      let menuOpenBtn = document.querySelector(".navbar .fa-bars");
-      let menuCloseBtn = document.querySelector(".nav-links .fa-bars");
+      let menuOpenBtn = document.querySelector(".navbar .open-bars");
+      let menuCloseBtn = document.querySelector(".nav-links .close-bars");
       menuOpenBtn.onclick = function () {
         navLinks.style.left = "0";
+        menuOpenBtn.style.opacity = "0";
       };
       menuCloseBtn.onclick = function () {
         navLinks.style.left = "-100%";
+        menuOpenBtn.style.opacity = "1";
       };
 
       // sidebar submenu open close js code
