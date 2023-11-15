@@ -16,13 +16,13 @@ nav{
   width: 100%;
   height: 100%;
   height: 70px;
-  background: #3E8DA8;
+  background: white;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
   z-index: 99;
 }
 nav .navbar{
   height: 100%;
-  max-width: 1250px;
+  max-width: 1450px;
   width: 100%;
   display: flex;
   align-items: center;
@@ -31,15 +31,25 @@ nav .navbar{
   /* background: red; */
   padding: 0 50px;
 }
+
+
+
+
 .navbar .fa-bars{
     display:none;
 }
 .navbar .logo a{
-  font-size: 30px;
-  color: #fff;
+  font-size: 20px;
+  color: #101663;
   text-decoration: none;
   font-weight: 600;
 }
+
+.navbar .logo img{
+  width: 70%;
+  height: auto;
+}
+
 nav .navbar .nav-links{
   line-height: 70px;
   height: 100%;
@@ -53,13 +63,13 @@ nav .navbar .links li{
   align-items: center;
   justify-content: space-between;
   list-style: none;
-  padding: 0 14px;
+  padding: 0 25px;
 }
 nav .navbar .links li a{
   height: 100%;
   text-decoration: none;
   white-space: nowrap;
-  color: #fff;
+  color: #101663;
   font-size: 15px;
   font-weight: 500;
 }
@@ -75,7 +85,7 @@ nav .navbar .links li .arrow{
   line-height: 70px;
   text-align: center;
   display: inline-block;
-  color: #fff;
+  color: #101663;
   transition: all 0.3s ease;
 }
 nav .navbar .links li .sub-menu{
@@ -83,7 +93,7 @@ nav .navbar .links li .sub-menu{
   top: 70px;
   left: 0;
   line-height: 40px;
-  background: #3E8DA8;
+  background: white;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
   border-radius: 0 0 4px 4px;
   display: none;
@@ -98,7 +108,7 @@ nav .navbar .links li:hover .js-sub-menu{
   border-bottom: 1px solid rgba(255,255,255,0.1);
 }
 .navbar .links li .sub-menu a{
-  color: #fff;
+  color: #101663;
   font-size: 15px;
   font-weight: 500;
 }
@@ -142,7 +152,7 @@ nav .navbar .links li:hover .js-sub-menu{
   top: 80px;
   height: 60px;
   width: 300px;
-  background: #3E8DA8;
+  background: white;
   border-radius: 6px;
   opacity: 0;
   pointer-events: none;
@@ -152,14 +162,14 @@ nav .navbar .links li:hover .js-sub-menu{
   top: 65px;
   opacity: 1;
   pointer-events: auto;
-  background: #3E8DA8;
+  background: white;
 }
 .search-box .input-box::before{
   content: '';
   position: absolute;
   height: 20px;
   width: 20px;
-  background: #3E8DA8;
+  background: white;
   right: 10px;
   top: -6px;
   transform: rotate(45deg);
@@ -183,6 +193,56 @@ nav .navbar .links li:hover .js-sub-menu{
 .navbar .bx-menu{
   display: none;
 }
+
+/* button */
+
+/* CSS */
+.button-9 {
+  appearance: button;
+  backface-visibility: hidden;
+  background-color: #101663;
+  border-radius: 6px;
+  border-width: 0;
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset,rgba(50, 50, 93, .1) 0 2px 5px 0,rgba(0, 0, 0, .07) 0 1px 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  font-family: -apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Ubuntu,sans-serif;
+  font-size: 100%;
+  height: 44px;
+  line-height: 1.15;
+  /* margin: 12px 0 0; */
+  outline: none;
+  overflow: hidden;
+  padding: 0 25px;
+  position: relative;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  text-transform: none;
+  transform: translateZ(0);
+  transition: all .2s,box-shadow .08s ease-in;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 100%;
+  white-space: nowrap;
+}
+
+.button-9:disabled {
+  cursor: default;
+}
+
+.button-9:focus {
+  box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .2) 0 6px 15px 0, rgba(0, 0, 0, .1) 0 2px 2px 0, rgba(50, 151, 211, .3) 0 0 0 4px;
+}
+
+.mobbutton-9{
+  display: none;
+}
+
+/* end */
+
 @media (max-width:920px) {
   nav .navbar{
     max-width: 100%;
@@ -190,7 +250,7 @@ nav .navbar .links li:hover .js-sub-menu{
   }
 
   nav .navbar .logo a{
-    font-size: 27px;
+    font-size: 15px;
   }
   nav .navbar .links li{
     padding: 0 10px;
@@ -206,6 +266,15 @@ nav .navbar .links li:hover .js-sub-menu{
   }
   .navbar .fa-bars{
     display: block;
+
+    cursor: pointer;
+  }
+  .navbar .fa-bars.open-bars{
+    display: block;
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    right: 0;
   }
   nav .navbar .nav-links{
     position: fixed;
@@ -214,26 +283,34 @@ nav .navbar .links li:hover .js-sub-menu{
     display: block;
     max-width: 270px;
     width: 100%;
-    background:  #3E8DA8;
+    background:  #ffffff;
     line-height: 40px;
     padding: 20px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
     transition: all 0.5s ease;
     z-index: 1000;
   }
+
+  .navbar .logo img{
+    width: 70%;
+    height: auto;
+  }
+  
+
   .navbar .nav-links .sidebar-logo{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    position: relative;
   }
   .sidebar-logo .logo-name{
-    font-size: 25px;
-    color: #fff;
+    font-size: 20px;
+    color: #101663;
   }
     .sidebar-logo  i,
     .navbar .bx-menu{
       font-size: 25px;
-      color: #fff;
+      color: #101663;
     }
   nav .navbar .links{
     display: block;
@@ -298,6 +375,52 @@ nav .navbar .links li .sub-menu li{
     .navbar .nav-links.show2 .links .more-arrow{
       transform: rotate(90deg);
     }
+
+    .mobbutton-9 {
+      appearance: button;
+      backface-visibility: hidden;
+      background-color: #101663;
+      border-radius: 6px;
+      border-width: 0;
+      box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset,rgba(50, 50, 93, .1) 0 2px 5px 0,rgba(0, 0, 0, .07) 0 1px 1px 0;
+      box-sizing: border-box;
+      color: #fff;
+      cursor: pointer;
+      font-family: -apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Ubuntu,sans-serif;
+      font-size: 100%;
+      height: 44px;
+      line-height: 1.15;
+      /* margin: 12px 0 0; */
+      outline: none;
+      overflow: hidden;
+      padding: 0 25px;
+      position: relative;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+      text-transform: none;
+      transform: translateZ(0);
+      transition: all .2s,box-shadow .08s ease-in;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+     
+    }
+    
+    .mobbutton-9:disabled {
+      cursor: default;
+    }
+    
+    .mobbutton-9:focus {
+      box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .2) 0 6px 15px 0, rgba(0, 0, 0, .1) 0 2px 2px 0, rgba(50, 151, 211, .3) 0 0 0 4px;
+    }
+
+    .button-9{
+      display: none;
+    }
+    
+
+
 }
 @media (max-width:370px){
   nav .navbar .nav-links{

@@ -5,8 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link rel="stylesheet" href="index.css" />
     <link rel="stylesheet" href="navbar.css" />
     <link rel="stylesheet" href="home.css" />
+    <link rel="stylesheet" href="home-mobile.css" />
+    <link rel="stylesheet" href="footer.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
@@ -18,15 +21,21 @@
   <body>
     <nav>
       <div class="navbar">
-        <i class="fa-solid fa-bars"></i>
-        <div class="logo"><a href="#">CodingLab</a></div>
+        <i class="fa-solid fa-bars open-bars"></i>
+        <div class="logo">
+          <img src="/assets/images/edupace-logo.png" alt="">
+          <!-- <a href="#">Edu Pace Langauge Academy</a> -->
+        </div>
+        <button class="mobbutton-9" role="button">Get Started</button>
         <div class="nav-links">
           <div class="sidebar-logo">
-            <span class="logo-name">CodingLab</span>
+            
+            <span class="logo-name">Edu Pace Langauge Academy</span>
             <i class="fa-solid fa-bars"></i>
           </div>
+          
           <ul class="links">
-            <li><a href="#">HOME</a></li>
+            <li class="active"><a href="#">HOME</a></li>
             <li>
               <a href="#">HTML & CSS</a>
               <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
@@ -59,6 +68,9 @@
             </li>
             <li><a href="#">ABOUT US</a></li>
             <li><a href="#">CONTACT US</a></li>
+            <li>
+              <button class="button-9" role="button">Get Started</button>
+            </li>
           </ul>
         </div>
         <div class="search-box">
@@ -74,12 +86,12 @@
         <div class="hero-top-content">
           <div class="hero-top-left">
             <h1>
-              We Listen And Work Together To Create A Truly Unique Experience
+              We Listen And Work Together<br/> To Create A Truly Unique Experience
             </h1>
             <p>Driven by passion to achieve higher studies</p>
             <div class="hero-top-left-content-button">
-              <button>Find Demo Class</button>
-              <button>See More</button>
+              <button class="with-bg-btn">Find Demo Class <i class="fa-solid fa-arrow-up"></i></button>
+              <buttonSee class="without-bg-btn">See More</button>
             </div>
           </div>
           <div class="hero-top-right">
@@ -87,13 +99,151 @@
               <img class="woman" src="./assets/images/pic 1.png" alt="" />
               <img class="tri1" src="./assets/images/triagle 2.png" alt="" />
               <img class="tri2" src="./assets/images/triagle 1.png" alt="" />
-              <img class="bg-tri" src="./assets/images/back-triangle5.png" alt="">
+              <img
+                class="bg-tri"
+                src="./assets/images/back-triangle5.png"
+                alt=""
+              />
+            </div>
+          </div>
+        </div>
+        <div class="hero-bottom-content">
+          <div class="hero-bottom-left">
+            <img src="./assets/images/pic 2.png" alt="" />
+          </div>
+          <div class="hero-bottom-right">
+            <img src="./assets/images/pic 3.png" alt="" />
+          </div>
+        </div>
+      </div>
+      <div class="our-company-container">
+        <div class="our-company-content">
+          <h3>DISCOVER OUR COMPANY</h3>
+          <h2>Our Purpose Is To Deliver Excellence In Service And Execution</h2>
+          <p>
+            EDU PACE LANGUAGE ACADEMY, is a service provider in human resources
+            solutions in the Middle East, India, Georgia , and the Philippines.
+            We execute your HR strategy the way you imagine it. In the last 7
+            years, we have served as a one-stop solutions for all types of HR
+            needs to various government institutions and multinational
+            organizations. Our clients no longer have to worry about the talent
+            sourcing aspect of their business, and we manage all processes. We
+            now offer more services to assist our clients to build their teams
+            in the most optimal way.
+          </p>
+        </div>
+      </div>
+      <div class="what-does-container">
+        <div class="what-does-content">
+          <p class="what-does-content-desc">What does EDU PACE Offers</p>
+          <h1>
+            We Listen And Work Together To Create A Truly Unique Experience
+          </h1>
+          <div class="what-does-cards">
+            <div class="what-does-card" style="background:url('./assets/images/img1.png')">
+              <div class="what-does-card-content">
+                <div>
+                  <h3>Rachel</h3>
+                  <p>A student Review</p>
+                </div>
+                <div class="what-does-card-button">
+                  <i class="fa-solid fa-play"></i>
+                </div>
+              </div>
+              <h2>Education</h2>
+            </div>
+            <div class="what-does-card" style="background:url('./assets/images/img2.png')">
+              <div class="what-does-card-content">
+                <div class="what-does-card-desc">
+                  <h3>Rachel</h3>
+                  <p>A student Review</p>
+                </div>
+                <div class="what-does-card-button">
+                  <i class="fa-solid fa-play"></i>
+                </div>
+              </div>
+              <h2>Education</h2>
+            </div>
+            <div class="what-does-card" style="background:url('./assets/images/img3.png')">
+              <div class="what-does-card-content">
+                <div>
+                  <h3>Rachel</h3>
+                  <p>A student Review</p>
+                </div>
+                <div class="what-does-card-button">
+                  <i class="fa-solid fa-play"></i>
+                </div>
+              </div>
+              <h2>Education</h2>
             </div>
           </div>
         </div>
       </div>
-    </div>
 
+      <div class="choose-us-container">
+        <h1>WHY CHOOSE US ?</h1>
+        <div class="slider1-container">
+
+          <div class="slider1">
+              <div class="card1 choose-us-card">
+                <h3>We prepare you for 
+                  B2 Examination</h3>
+              </div>
+              <div class="card1 choose-us-card">
+                <h3>We prepare you for 
+                  B2 Examination</h3>
+              </div>
+              <div class="card1 choose-us-card">
+                <h3>We prepare you for 
+                  B2 Examination</h3>
+              </div>
+              <div class="card1 choose-us-card">
+                <h3>We prepare you for 
+                  B2 Examination</h3>
+              </div>
+          
+        
+          
+              <i class="fa-solid fa-arrow-left" onclick="scrollslider1(-1)"></i>
+              <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
+          </div>
+      </div>
+
+      </div>
+      <div class="comments-pannel-container" >
+        <img src="./assets/images/comment-panel.png" alt="">
+      </div>
+      <div class="footer">
+        <div class="footer-row1">
+          <div class="contact">
+            <h3>CONTACT INFO</h3>
+            <p>EDU PACE LANGUAGE ACADEMY, <br>
+                Thrissur, Kerala 682304 </p>
+             <p>edupaceinfo@gmail.com </p> 
+             <p>Phone: +91 999 000 3000 </p> 
+             <p>Phone: +91 900 000 2000</p>
+            </p>        
+          </div>
+          <div class="partner">
+            <h3>OUR PARTNER</h3> <br>
+            <p>PLUS IT PARK THRISSUR, Kerala 682304</p>
+             <p>edupaceinfo@gmail.com</p> 
+             <p>Phone: +91 999 000 3000</p> 
+             <p>Phone: +91 900 000 2000</p>
+              </p>
+          </div>
+        </div>
+        <div class="footer-row2">
+          <p>Copyright © 2023 Software Company. All rights reserved.</p>
+          <div class="social-icons">
+            <i class="fa-brands fa-instagram"></i>
+            <i class="fa-brands fa-facebook"></i>
+            <i class="fa-brands fa-twitter"></i>
+            <i class="fa-brands fa-youtube"></i>
+          </div>
+        </div>
+      </div>
+    </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
     <script>
       // search-box open close js code
@@ -134,55 +284,46 @@
       jsArrow.onclick = function () {
         navLinks.classList.toggle("show3");
       };
+
+      const slider1 = document.querySelector(".slider1");
+        const card1 = document.querySelectorAll(".card1");
+        let card1Width = card1[0].offsetWidth;
+    
+        // Clone the slider1 content for continuous scrolling
+        slider1.innerHTML += slider1.innerHTML;
+    
+        function scrollslider1(direction) {
+            if (direction === 1) {
+                slider1.scrollBy({
+                    left: card1Width + 20,
+                    behavior: 'smooth'
+                });
+            } else if (direction === -1) {
+                slider1.scrollBy({
+                    left: -card1Width - 20,
+                    behavior: 'smooth'
+                });
+            } else {
+                slider1.scrollBy({
+                    left: card1Width + 20,
+                    behavior: 'smooth'
+                });
+            }
+    
+            // Reset scroll position to the beginning when it reaches the cloned set
+            if (slider1.scrollLeft >= slider1.scrollWidth / 2) {
+                slider1.scrollLeft = 0;
+            }
+        }
+    
+        // Automatic scroll every 3 seconds
+        setInterval(function() {scrollslider1(1)}, 3000);
+
     </script>
     <script>
       const t1 = gsap.timeline();
-      gsap.from(".tri1", {
-        opacity: 0,
-        top: 170,
-        left: 200,
-        duration: 4,
-        ease: "power4.in",
-      });
-      gsap.from(".tri2", {
-        opacity: 0,
-        top: 170,
-        left: 120,
-        duration: 1,
-        ease: "power4.in",
-      });
-      gsap.to(".tri1", {
-        opacity: 1,
-        rotate: -100,
-        duration: 1,
-        top: 60,
-        left: 180,
-        ease: "power4.out",
-      });
-      gsap.to(".tri2", {
-        opacity: 1,
-        rotate: 100,
-        top: 60,
-        left: 180,
-        duration: 1,
-        ease: "power4.out",
-      });
-      gsap.to(".tri1", {
-        duration: 1,
-        x: 10,
-        y: 10,
-        repeat: -1,
-        yoyo: true,
-        ease: "linear",
-      });
-      gsap.to(".tri2", {
-        duration: 1,
-        x: -10,
-        y: 10,
-        repeat: -1,
-        yoyo: true,
-        ease: "linear",
-      });
+
+ 
     </script>
   </body>
 </html>
