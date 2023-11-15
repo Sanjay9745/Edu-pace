@@ -234,6 +234,8 @@ line-height: 2;
   bottom: -50px;
 left: 50%;
 transform: translateX(-50%);
+white-space: nowrap;
+color: var(--dark-blue);
 }
 .what-does-card-content{
     width: 100%;
