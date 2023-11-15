@@ -8,7 +8,34 @@
     height: 150vh;
     background: url('./assets/images/bg.png');  
     background-position: center;
-    margin-top: 80px;
+    margin-top: 60px;
+    position: relative;
+}
+.hero-search-container{
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40%;
+    height:50px;
+    background:var(--white);  
+    background-position: center;
+    margin-top: 50px;
+    color: gray;
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    border-radius: 25px;
+}
+.hero-search-container input{
+width: 100%;
+border: none;
+outline: none;
+padding-left: 20px;
+border-radius: 25px;
+}
+.hero-search-container i{
+padding-right: 20px;
 }
 .hero-top-content{
     display:flex;
@@ -71,6 +98,7 @@ transform: rotate(30deg);
 .hero-top-right-content{
     width: 40vw;
     position: relative;
+    top: 100px;
 }
 .bg-tri{
     position: absolute;
@@ -89,18 +117,33 @@ transform: rotate(30deg);
     z-index: 10;
 }
 
-.tri1{
+.tri1 {
     width: 100px;
     height: 100px;
     position: absolute;
     z-index: 2;
-}
-.tri2{
+    top: 159px;
+    left: 223px;
+    scale: 4;
+
+  }
+  .tri2 {
+    width: 100px;
+    position: absolute;
+    z-index: 1;
+    top: 154px;
+    left: 182px;
+    scale: 4;
+  }
+  .tri3 {
     width: 100px;
     height: 100px;
     position: absolute;
-    z-index: 2;
-}
+    z-index: 1;
+    top: 154px;
+    left: 182px;
+    scale: 4;
+  }
 
 .hero-bottom-content{
     width: 100%;
@@ -183,6 +226,8 @@ line-height: 2;
     align-items: flex-end;
     border-radius: 20px;
     position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .what-does-card h2{
   position: absolute;

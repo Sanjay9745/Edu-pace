@@ -15,6 +15,10 @@
     background-position: center;
     margin-top: 50px;
   }
+  .hero-search-container{
+    width: 70%;
+    height: 40px;
+}
   .hero-top-content {
     display: flex;
     flex-direction: column;
@@ -98,18 +102,7 @@
     z-index: 10;
   }
 
-  .tri1 {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    z-index: 2;
-  }
-  .tri2 {
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    z-index: 2;
-  }
+  
 
   .hero-bottom-content {
     width: 100%;
@@ -198,6 +191,8 @@
     align-items: flex-end;
     border-radius: 20px;
     position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .what-does-card h2 {
     position: absolute;
@@ -223,25 +218,9 @@
     padding-top: 50px;
   }
   .choose-us-container {
-    width: 100%;
-    margin-top: 50px;
+  display: none;
   }
-  .choose-us-container h1 {
-    font-weight: 500;
-    color: var(--dark-blue);
-    text-align: center;
-    margin: 50px 0;
-  }
-  .choose-us-card {
-    width: 35%;
-    height: 250px;
-    background-color: #3b3838;
-    border-radius: 25px;
-    color: var(--white);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+ 
   .comments-pannel-container {
     width: 100%;
     background-image: url("./assets/images/b3.png");
@@ -305,4 +284,10 @@
       object-fit: cover;
     }
   }
+}
+@media screen and (min-width:400px) and (max-width:1200px) {
+  
+    .hero-bottom-left img {
+        display: none;
+    }
 }

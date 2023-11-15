@@ -260,7 +260,10 @@ nav .navbar .links li:hover .js-sub-menu{
     font-size: 15px;
   }
 }
-@media (max-width:800px){
+.nav-mob-btn{
+  display: none;
+}
+@media (max-width:1200px){
   nav{
     /* position: relative; */
   }
@@ -377,10 +380,17 @@ nav .navbar .links li .sub-menu li{
     .navbar .nav-links.show2 .links .more-arrow{
       transform: rotate(90deg);
     }
-
+    .nav-mob-btn{
+      display: block;
+      padding:10px 10px;
+      background-color:var(--dark-blue);
+      color: var(--white);
+      white-space: nowrap;
+      border-radius: 5px;
+    }
     .mobbutton-9 {
-      appearance: button;
-      backface-visibility: hidden;
+      width: 100%;
+
       background-color: #101663;
       border-radius: 6px;
       border-width: 0;
@@ -389,7 +399,7 @@ nav .navbar .links li .sub-menu li{
       color: #fff;
       cursor: pointer;
       font-family: -apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Ubuntu,sans-serif;
-      font-size: 100%;
+      font-size: 1rem;
       height: 44px;
       line-height: 1.15;
       /* margin: 12px 0 0; */
@@ -406,7 +416,7 @@ nav .navbar .links li .sub-menu li{
       user-select: none;
       -webkit-user-select: none;
       touch-action: manipulation;
-     
+     white-space: nowrap;
     }
     
     .mobbutton-9:disabled {
