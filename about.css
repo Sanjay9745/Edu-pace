@@ -1,5 +1,6 @@
-html,body{
-    overflow-x: hidden;
+html,
+body {
+  overflow-x: hidden;
 }
 .about-container {
   width: 100%;
@@ -116,7 +117,18 @@ html,body{
   align-items: center;
   text-align: center;
   width: 450px;
+  position: relative;
 }
+.about-success-card::after {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 80%;
+    background: var(--white);
+    top: 20%;
+    right: 0;
+    
+    }
 .about-success-card p {
   width: 80%;
   line-height: 1.8;
@@ -209,35 +221,178 @@ p.about-success-card-3-p {
   font-size: 1.3rem;
   color: var(--orange);
 }
-.about-study-us-right button{
-    width: 200px;
-    height: 50px;
-    background: var(--dark-blue);
-    color: var(--white);
-    border: none;
-    outline: none;
-    border-radius: 25px;
-    font-size: 1.2rem;
-    font-weight: 500;
-    cursor: pointer;
+.about-study-us-right button {
+  width: 200px;
+  height: 50px;
+  background: var(--dark-blue);
+  color: var(--white);
+  border: none;
+  outline: none;
+  border-radius: 25px;
+  font-size: 1.2rem;
+  font-weight: 500;
+  cursor: pointer;
 }
-.about-study-us-left{
+.about-study-us-left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.about-study-us-left-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.about-study-us-left-content h4 {
+  font-size: 2rem;
+  color: var(--dark-blue);
+}
+.about-study-us-left-content h3 {
+  font-size: 3rem;
+  color: var(--orange);
+}
+.about-story-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.about-story-content {
+  width: 90%;
+  height: 500px;
+  display: grid;
+  grid-template-columns: 0.8fr 1fr;
+  border-radius:25px;
+  background-image: url("./assets/images/map.png");
+  backdrop-filter: blur(10px); /* Adjust the blur amount as needed */
+  background-color: rgba(74, 74, 74, 0.497); /* Adjust the background color and opacity */
+  color: var(--white);
+  padding: 0 30px;
+}
+.about-story-content::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: inherit;
+    filter: blur(10px); /* Adjust the blur amount as needed */
+    z-index: -1; /* Place the blurred overlay behind the content */
+  }
+.about-story-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+
+position: relative;
+}
+.about-story-right::after {
+content: "";
+position: absolute;
+width: 2px;
+height: 80%;
+background: var(--white);
+top: 10%;
+right: 0;
+
+}
+.about-story-right-top h4{
+font-weight: 500;
+font-size: 1.2rem;
+}
+.about-story-right-top h2{
+font-weight: 600;
+font-size: 2.3rem;
+}
+.about-story-right-bottom{
     display: flex;
-    justify-content: center;
     align-items: center;
-    flex-direction: column;
-    
 }
-.about-study-us-left-content{
+.about-story-left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 15px;
+}
+.about-story-right-bottom h3{
+    font-weight: 600;
+    font-size: 2.3rem;
+}
+.about-story-right-bottom p{
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+.about-story-right-bottom-1{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 20px;
+    border-right:2px solid var(--white);
+    padding-right: 15px;
+}
+.about-story-right-bottom-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: flex-end;
+    margin-left: 20px;
+  
 }
-.about-study-us-left-content h4{
-font-size: 2rem;
-color: var(--dark-blue);
+.slider1-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
 }
-.about-study-us-left-content h3{
-font-size: 3rem;
-color: var(--orange);
+
+.slider1 {
+  width: 100%;
+  overflow-x: scroll;
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  scroll-behavior: smooth;
+}
+
+.slider1 .card1 {
+  flex: 0 0 auto;
+}
+
+.slider1 .card1 img {
+  width: 100%;
+
+  object-fit: cover;
+}
+
+.slider1::-webkit-scrollbar {
+  display: none;
+}
+
+.slider1-container .fa-arrow-left {
+  position: absolute;
+  top: 50%;
+  left: 30px;
+  font-size: 30px;
+  color: #3b3838;
+  cursor: pointer;
+}
+
+.slider1-container .fa-arrow-right {
+  position: absolute;
+  top: 50%;
+  right: 30px;
+  font-size: 30px;
+  color: #312f2f;
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  .slider1 .card1 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
 }

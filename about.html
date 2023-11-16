@@ -147,24 +147,57 @@
         </div>
       </div>
       <div class="about-story-container">
-        <div class="about-story-right">
-            <div class="about-story-right-top">
-                <h4>Our Happy Customers</h4>
-                <h2>Our Successful Stories</h2>
-            </div>
-            <div class="about-story-right-bottom">
-                <div class="about-story-right-bottom-1">
-                    
-                </div>
-                <div class="about-story-right-bottom-2">
+        <div class="about-story-content">
 
+            <div class="about-story-right">
+                <div class="about-story-right-top">
+                    <h4>Our Happy Customers</h4>
+                    <h2>Our Successful<br> Stories</h2>
+                </div>
+                <div class="about-story-right-bottom">
+                    <div class="about-story-right-bottom-1">
+                        <h3>1573</h3>
+                        <p>Trained Individuals</p>
+                    </div>
+                    <div class="about-story-right-bottom-2">
+                        <h3>1573</h3>
+                        <p>Trained Individuals</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="about-story-left">
-
+            <div class="about-story-left">
+                <div class="slider1-container">
+    
+                    <div class="slider1">
+                        <div class="card1">
+                            <img src="./assets/images/UAE-Candidates.png" alt="">
+                        </div>
+                        <div class="card1">
+                            <img src="./assets/images/UAE-Candidates.png" alt="">
+                        </div>
+                        <div class="card1">
+                            <img src="./assets/images/UAE-Candidates.png" alt="">
+                        </div>
+                        <div class="card1">
+                            <img src="./assets/images/UAE-Candidates.png" alt="">
+                        </div>
+                        <div class="card1">
+                            <img src="./assets/images/UAE-Candidates.png" alt="">
+                        </div>
+                        <div class="card1">
+                            <img src="./assets/images/UAE-Candidates.png" alt="">
+                        </div>
+                        <div class="card1">
+                            <img src="./assets/images/UAE-Candidates.png" alt="">
+                        </div>
+                        <i class="fa-solid fa-arrow-left" onclick="scrollslider1(-1)"></i>
+                        <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
+                    </div>
+                </div>
+            </div>
         </div>
       </div>
+
       <div id="footer"></div>
     </div>
     <script>
@@ -174,7 +207,39 @@
          fetch('./footer.html')
       .then(response => response.text())
       .then(html => document.getElementById('footer').innerHTML = html);
-
+        const slider1 = document.querySelector(".slider1");
+        const card1 = document.querySelectorAll(".card1");
+        let card1Width = card1[0].offsetWidth;
+    
+        // Clone the slider1 content for continuous scrolling
+        slider1.innerHTML += slider1.innerHTML;
+    
+        function scrollslider1(direction) {
+            if (direction === 1) {
+                slider1.scrollBy({
+                    left: card1Width + 20,
+                    behavior: 'smooth'
+                });
+            } else if (direction === -1) {
+                slider1.scrollBy({
+                    left: -card1Width - 20,
+                    behavior: 'smooth'
+                });
+            } else {
+                slider1.scrollBy({
+                    left: card1Width + 20,
+                    behavior: 'smooth'
+                });
+            }
+    
+            // Reset scroll position to the beginning when it reaches the cloned set
+            if (slider1.scrollLeft >= slider1.scrollWidth / 2) {
+                slider1.scrollLeft = 0;
+            }
+        }
+    
+        // Automatic scroll every 3 seconds
+        setInterval(function() {scrollslider1(1)}, 3000);
     </script>
   </body>
 </html>
