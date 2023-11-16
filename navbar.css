@@ -269,17 +269,16 @@ nav .navbar .links li:hover .js-sub-menu{
   }
   .navbar .fa-bars{
     display: block;
-    
     cursor: pointer;
   }
   .navbar .fa-bars.open-bars{
     display: block;
     position: absolute;
     cursor: pointer;
-    bottom: -50px;
+    bottom: -70px;
     right: 20px;
     font-size: 1.5rem;
-    color: var(--white);
+    color: var(--dark-blue);
   }
   nav .navbar .nav-links{
     position: fixed;
@@ -438,6 +437,9 @@ nav .navbar .links li .sub-menu li{
   nav .navbar .nav-links{
   max-width: 100%;
 } 
+.navbar .fa-bars.open-bars{
+  bottom: -60px;
+}
 }
 
 

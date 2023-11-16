@@ -69,7 +69,7 @@
                 </li>
               </ul>
             </li>
-            <li><a href="#"></a></li>
+          
             <li><a href="#">CONTACT US</a></li>
             <li>
               <button class="button-9" role="button">Get Started</button>
@@ -104,9 +104,11 @@
           <div class="hero-top-right">
             <div class="hero-top-right-content">
               <img class="woman" src="./assets/images/pic 1.png" alt="" />
+              <img class="woman-mob" src="./assets/images/woman-mob.png" alt="" />
               <img class="tri1" src="./assets/images/triagle 2.png" alt="" />
               <img class="tri2" src="./assets/images/triagle 1.png" alt="" />
               <img class="tri3" src="./assets/images/tiagle3.png" alt="" />
+              <img class="tri4" src="./assets/images/triangle4.png" alt="" />
               <img
                 class="bg-tri"
                 src="./assets/images/back-triangle5.png"
@@ -193,19 +195,19 @@
         <div class="slider1-container">
 
           <div class="slider1">
-              <div class="card1 choose-us-card">
+              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll1.png');background-size: cover;">
                 <h3>We prepare you for 
                   B2 Examination</h3>
               </div>
-              <div class="card1 choose-us-card">
+              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll2.png');background-size: cover;">
                 <h3>We prepare you for 
                   B2 Examination</h3>
               </div>
-              <div class="card1 choose-us-card">
+              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll3.png');background-size: cover;">
                 <h3>We prepare you for 
                   B2 Examination</h3>
               </div>
-              <div class="card1 choose-us-card">
+              <div class="card1 choose-us-card"  style="background:url('./assets/images/Scroll4.png');background-size: cover;">
                 <h3>We prepare you for 
                   B2 Examination</h3>
               </div>
@@ -216,14 +218,36 @@
               <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
           </div>
       </div>
-      <div class="choose-us-mob-container">
-
+      
+    </div>
+    <div class="choose-us-mob-container">
+      <h1>WHY CHOOSE US ?</h1>
+      <div class="choose-us-mob-cards">
+        <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll1.png');background-size: cover;">
+          <h3>We prepare you for 
+            B2 Examination</h3>
+        </div>
+        <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll2.png');background-size: cover;">
+          <h3>We prepare you for 
+            B2 Examination</h3>
+        </div>
+        <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll3.png');background-size: cover;">
+          <h3>We prepare you for 
+            B2 Examination</h3>
+        </div>
+        <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll4.png');background-size: cover;">
+          <h3>We prepare you for 
+            B2 Examination</h3>
+        </div>
       </div>
-
-      </div>
+    </div>
       <div class="comments-pannel-container" >
         <img src="./assets/images/comment-panel.png" alt="">
+        
+        <textarea name="" id="" cols="30" rows="10" class="comments-pannel-textarea" placeholder="Your message Make Us better"></textarea>
+        <button class="comments-pannel-btn">Post Your Comment</button>
       </div>
+      
       <div class="footer">
         <div class="footer-row1">
           <div class="contact">
@@ -343,7 +367,7 @@ gsap.from(".tri1",{
    scale: 0,
 
   rotate:180,
-  delay:1,
+
   ease: "power2.out",
 
 })
@@ -352,9 +376,9 @@ gsap.from(".tri1",{
         top: 159,
         left: 223,
          scale: 4,
-        duration:3,
+        duration:2,
         rotate:0,
-        delay:4,
+ 
         ease: "power2.in",
       })
 gsap.from(".tri3",{
@@ -364,7 +388,7 @@ gsap.from(".tri3",{
    scale: 0,
 
   rotate:180,
-  delay:1,
+
   ease: "power2.out",
 
 })
@@ -374,7 +398,29 @@ gsap.from(".tri3",{
         top: 154,
     left: 182,
          scale: 4,
-        duration:3,
+        duration:2,
+      
+        rotate:0,
+        ease: "power2.in",
+      })
+gsap.from(".tri4",{
+  opacity:0,
+  top: 259,
+  left: 223,
+   scale: 0,
+
+  rotate:180,
+
+  ease: "power2.out",
+
+})
+
+      gsap.to(".tri4",{
+        opacity:1,
+        top: 154,
+    left: 400,
+         scale: 4,
+        duration:2,
       
         rotate:0,
         ease: "power2.in",
@@ -387,6 +433,13 @@ gsap.from(".tri3",{
       ease: "power2.in",
       })
       gsap.to(".tri3",{
+       x:5,
+       y:-5,
+       repeat:-1,
+       yoyo:true,
+      ease: "power2.in",
+      })
+      gsap.to(".tri4",{
        x:5,
        y:-5,
        repeat:-1,
