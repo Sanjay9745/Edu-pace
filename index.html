@@ -19,71 +19,7 @@
     />
   </head>
   <body>
-    <nav>
-      <div class="navbar">
-        <i class="fa-solid fa-bars open-bars"></i>
-        <div class="logo">
-          <img src="./assets/images/edupace-logo.png" alt="">
-          <!-- <a href="#">Edu Pace Langauge Academy</a> -->
-        </div>
-        <button class="mobbutton-9" role="button">Get Started</button>
-        <button class="nav-mob-btn" role="button">Get Started</button>
-        <div class="nav-links">
-          <div class="sidebar-logo">
-            
-          
-            <i class="fa-solid fa-xmark close-bars"></i>
-          </div>
-          
-          <ul class="links">
-            <li class="active"><a href="#">HOME</a></li>
-              <li><a href="#">About Us</a></li>
-         
-            <li>
-              <a href="#">Education</a>
-              <i class="fa-solid fa-chevron-down arrow js-arrow arrow"></i>
-              <ul class="js-sub-menu sub-menu">
-                <li><a href="#">Dynamic Clock</a></li>
-                <li><a href="#">Form Validation</a></li>
-                <li><a href="#">Card Slider</a></li>
-                <li><a href="#">Complete Website</a></li>
-              </ul>
-            </li>
-               <li>
-              <a href="#">Study Abroad</a>
-              <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
-              <ul class="htmlCss-sub-menu sub-menu">
-                <li><a href="#">Web De</a></li>
-                <li><a href="#">Login Forms</a></li>
-                <li><a href="#">Card Design</a></li>
-                <li class="more">
-                  <span
-                    ><a href="#">More</a>
-                    <i class="fa-solid fa-chevron-down arrow more-arrow"></i>
-                  </span>
-                  <ul class="more-sub-menu sub-menu">
-                    <li><a href="#">Neumorphism</a></li>
-                    <li><a href="#">Pre-loader</a></li>
-                    <li><a href="#">Glassmorphism</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </li>
-          
-            <li><a href="#">CONTACT US</a></li>
-            <li>
-              <button class="button-9" role="button">Get Started</button>
-            </li>
-          </ul>
-        </div>
-        <div class="search-box">
-          <i class="bx bx-search"></i>
-          <div class="input-box">
-            <input type="text" placeholder="Search..." />
-          </div>
-        </div>
-      </div>
-    </nav>
+    <div id="header"></div>
     <div class="home-container">
       <div class="hero-container">
         <div class="hero-search-container">
@@ -246,79 +182,17 @@
         <button class="comments-pannel-btn">Post Your Comment</button>
       </div>
       
-      <div class="footer">
-        <div class="footer-row1">
-          <div class="contact">
-            <h3>CONTACT INFO</h3>
-            <p>EDU PACE LANGUAGE ACADEMY, <br>
-                Thrissur, Kerala 682304 </p>
-             <p>edupaceinfo@gmail.com </p> 
-             <p>Phone: +91 999 000 3000 </p> 
-             <p>Phone: +91 900 000 2000</p>
-            </p>        
-          </div>
-          <div class="partner">
-            <h3>OUR PARTNER</h3> <br>
-            <p>PLUS IT PARK THRISSUR, Kerala 682304</p>
-             <p>edupaceinfo@gmail.com</p> 
-             <p>Phone: +91 999 000 3000</p> 
-             <p>Phone: +91 900 000 2000</p>
-              </p>
-          </div>
-        </div>
-        <div class="footer-row2">
-          <p>Copyright © 2023 Software Company. All rights reserved.</p>
-          <div class="social-icons">
-            <i class="fa-brands fa-instagram"></i>
-            <i class="fa-brands fa-facebook"></i>
-            <i class="fa-brands fa-twitter"></i>
-            <i class="fa-brands fa-youtube"></i>
-          </div>
-        </div>
-      </div>
+      <div id="footer"></div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
     <script>
-      // search-box open close js code
-      let navbar = document.querySelector(".navbar");
-      let searchBox = document.querySelector(".search-box .bx-search");
-      // let searchBoxCancel = document.querySelector(".search-box .bx-x");
+         fetch('./header.html')
+      .then(response => response.text())
+      .then(html => document.getElementById('header').innerHTML = html);
+      fetch('./footer.html')
+      .then(response => response.text())
+      .then(html => document.getElementById('footer').innerHTML = html);
 
-      searchBox.addEventListener("click", () => {
-        navbar.classList.toggle("showInput");
-        if (navbar.classList.contains("showInput")) {
-          searchBox.classList.replace("bx-search", "fa-bars");
-        } else {
-          searchBox.classList.replace("fa-bars", "bx-search");
-        }
-      });
-
-      // sidebar open close js code
-      let navLinks = document.querySelector(".nav-links");
-      let menuOpenBtn = document.querySelector(".navbar .open-bars");
-      let menuCloseBtn = document.querySelector(".nav-links .close-bars");
-      menuOpenBtn.onclick = function () {
-        navLinks.style.left = "0";
-        menuOpenBtn.style.opacity = "0";
-      };
-      menuCloseBtn.onclick = function () {
-        navLinks.style.left = "-100%";
-        menuOpenBtn.style.opacity = "1";
-      };
-
-      // sidebar submenu open close js code
-      let htmlcssArrow = document.querySelector(".htmlcss-arrow");
-      htmlcssArrow.onclick = function () {
-        navLinks.classList.toggle("show1");
-      };
-      let moreArrow = document.querySelector(".more-arrow");
-      moreArrow.onclick = function () {
-        navLinks.classList.toggle("show2");
-      };
-      let jsArrow = document.querySelector(".js-arrow");
-      jsArrow.onclick = function () {
-        navLinks.classList.toggle("show3");
-      };
 
       const slider1 = document.querySelector(".slider1");
         const card1 = document.querySelectorAll(".card1");
