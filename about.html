@@ -7,6 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="index.css" />
     <link rel="stylesheet" href="about.css" />
+    <link rel="stylesheet" href="about-mobile.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
@@ -204,7 +205,7 @@
         </div>
         <div class="about-faq-section2">
           <div class="about-section-content1">
-            <img src="images/faq.png" alt="" />
+            <img src="./assets/images/about-avatar-group.png" alt="" />
             <h4>Still have questions?</h4>
             <p>
               Can’t find the answer you’re looking for? <br />
@@ -329,46 +330,56 @@
       </div>
       <div id="footer"></div>
     </div>
-    <script>
-         fetch('./header.html')
-      .then(response => response.text())
-      .then(html => document.getElementById('header').innerHTML = html);
-         fetch('./footer.html')
-      .then(response => response.text())
-      .then(html => document.getElementById('footer').innerHTML = html);
+    <script defer>
+      fetch('./header.html')
+        .then(response => response.text())
+        .then(html => document.getElementById('header').innerHTML = html);
+    
+      fetch('./footer.html')
+        .then(response => response.text())
+        .then(html => document.getElementById('footer').innerHTML = html);
+    
+      document.addEventListener("DOMContentLoaded", function () {
+        // sidebar open close js code
+        let navLinks = document.querySelector(".nav-links");
+        let menuOpenBtn = document.querySelector(".navbar .open-bars");
+        let menuCloseBtn = document.querySelector(".nav-links .close-bars");
+        menuOpenBtn.onclick = function () {
+          console.log("hello");
+          navLinks.style.left = "0";
+          menuOpenBtn.style.opacity = "0";
+        };
+        menuCloseBtn.onclick = function () {
+          console.log("hello");
+          navLinks.style.left = "-100%";
+          menuOpenBtn.style.opacity = "1";
+        };
+    
         const slider1 = document.querySelector(".slider1");
         const card1 = document.querySelectorAll(".card1");
-        let card1Width = card1[0].offsetWidth;
+        let card1Width = card1[0].offsetWidth + 20; // Add margin to the card width
     
         // Clone the slider1 content for continuous scrolling
         slider1.innerHTML += slider1.innerHTML;
     
         function scrollslider1(direction) {
-            if (direction === 1) {
-                slider1.scrollBy({
-                    left: card1Width + 20,
-                    behavior: 'smooth'
-                });
-            } else if (direction === -1) {
-                slider1.scrollBy({
-                    left: -card1Width - 20,
-                    behavior: 'smooth'
-                });
-            } else {
-                slider1.scrollBy({
-                    left: card1Width + 20,
-                    behavior: 'smooth'
-                });
-            }
+          slider1.scrollBy({
+            left: direction * card1Width,
+            behavior: 'smooth'
+          });
     
-            // Reset scroll position to the beginning when it reaches the cloned set
-            if (slider1.scrollLeft >= slider1.scrollWidth / 2) {
-                slider1.scrollLeft = 0;
-            }
+          // Reset scroll position to the beginning when it reaches the cloned set
+          if (direction === 1 && slider1.scrollLeft >= slider1.scrollWidth / 2) {
+            slider1.scrollLeft = 0;
+          }
         }
     
         // Automatic scroll every 3 seconds
-        setInterval(function() {scrollslider1(1)}, 3000);
+        setInterval(function () {
+          scrollslider1(1);
+        }, 3000);
+      });
     </script>
+    
   </body>
 </html>
