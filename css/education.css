@@ -131,9 +131,14 @@ display: flex;
     border-radius: 15px;
     margin: 10px;
     padding: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
     transition: all 0.3s ease;
     cursor: pointer;
+}
+
+.edu-card:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    scale: 1.05;
 }
 
 
