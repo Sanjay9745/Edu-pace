@@ -4,7 +4,7 @@ body {
 }
 .about-container {
   width: 100%;
-  background: url("./assets/images/About-US-BG.svg");
+  background: url("../assets/images/About-US-BG.svg");
   margin-top: 60px;
 }
 .about-search-container {
@@ -40,7 +40,7 @@ body {
 .about-hero-content {
   width: 100vw;
   height: 100vh;
-  background: url("./assets/images/about-hero.png");
+  background: url("../assets/images/about-hero.png");
   background-size: cover;
   background-position: center;
 }
@@ -265,7 +265,7 @@ p.about-success-card-3-p {
   display: grid;
   grid-template-columns: 0.8fr 1fr;
   border-radius:25px;
-  background-image: url("./assets/images/map.png");
+  background-image: url("../assets/images/map.png");
   backdrop-filter: blur(10px); /* Adjust the blur amount as needed */
   background-color: rgba(74, 74, 74, 0.497); /* Adjust the background color and opacity */
   color: var(--white);
