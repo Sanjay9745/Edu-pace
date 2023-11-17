@@ -354,31 +354,42 @@
           navLinks.style.left = "-100%";
           menuOpenBtn.style.opacity = "1";
         };
-    
-        const slider1 = document.querySelector(".slider1");
+
+      });
+          
+      const slider1 = document.querySelector(".slider1");
         const card1 = document.querySelectorAll(".card1");
-        let card1Width = card1[0].offsetWidth + 20; // Add margin to the card width
+        let card1Width = card1[0].offsetWidth;
     
         // Clone the slider1 content for continuous scrolling
         slider1.innerHTML += slider1.innerHTML;
     
         function scrollslider1(direction) {
-          slider1.scrollBy({
-            left: direction * card1Width,
-            behavior: 'smooth'
-          });
+            if (direction === 1) {
+                slider1.scrollBy({
+                    left: card1Width + 20,
+                    behavior: 'smooth'
+                });
+            } else if (direction === -1) {
+                slider1.scrollBy({
+                    left: -card1Width - 20,
+                    behavior: 'smooth'
+                });
+            } else {
+                slider1.scrollBy({
+                    left: card1Width + 20,
+                    behavior: 'smooth'
+                });
+            }
     
-          // Reset scroll position to the beginning when it reaches the cloned set
-          if (direction === 1 && slider1.scrollLeft >= slider1.scrollWidth / 2) {
-            slider1.scrollLeft = 0;
-          }
+            // Reset scroll position to the beginning when it reaches the cloned set
+            if (slider1.scrollLeft >= slider1.scrollWidth / 2) {
+                slider1.scrollLeft = 0;
+            }
         }
     
         // Automatic scroll every 3 seconds
-        setInterval(function () {
-          scrollslider1(1);
-        }, 3000);
-      });
+        setInterval(function() {scrollslider1(1)}, 3000);
     </script>
     
   </body>
