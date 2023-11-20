@@ -341,4 +341,9 @@ gap:20px;
   .german-section1-right {
     width: 80%;
   }
+
+  .button-6 {
+    white-space: nowrap;
+    width: 50%;
+  }
 }
