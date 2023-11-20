@@ -104,6 +104,92 @@
   background: url("../assets/images/bg2.svg") no-repeat center;
 }
 
+.registered-nurses {
+  display: flex;
+  /* width: 100%; */
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 10%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.registered-nurses h1 {
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.registered-nurses h4{
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+.registered-nurses p {
+  line-height: 1.8;
+  padding-top: 5%;
+}
+
+.registered-nurses ul {
+ 
+  padding-top: 2%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  line-height: 2;
+}
+
+
+/* CSS */
+.button-6 {
+  align-items: center;
+  background-color: #FFFFFF;
+  border: 1px solid rgba(0, 0, 0, 0.611);
+  border-radius: .55rem;
+  box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.85);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui,-apple-system,system-ui,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 1.25;
+  margin: 0;
+  min-height: 3rem;
+  padding: calc(.875rem - 1px) calc(1.5rem - 1px);
+  position: relative;
+  text-decoration: none;
+  transition: all 250ms;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  width: 15%;
+}
+
+.button-6:hover,
+.button-6:focus {
+  border-color: #FF7A00  ;
+  box-shadow: #4400ffcc
+  0 4px 12px;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.button-6:hover {
+  transform: translateY(-1px);
+}
+
+.button-6:active {
+  background-color: #F0F0F1;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: rgba(0, 0, 0, 0.06) 0 2px 4px;
+  color: rgba(0, 0, 0, 0.65);
+  transform: translateY(0);
+}
+
+
+
 .german-program {
   display: flex;
   /* width: 100%; */
