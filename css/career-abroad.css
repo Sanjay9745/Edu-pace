@@ -171,7 +171,8 @@
 .button-6:hover,
 .button-6:focus {
   border-color: #FF7A00  ;
-  box-shadow: #4400ffcc 0 4px 12px;
+  box-shadow: #4400ffcc
+  0 4px 12px;
   color: rgba(0, 0, 0, 0.65);
 }
 
@@ -339,10 +340,5 @@ gap:20px;
 
   .german-section1-right {
     width: 80%;
-  }
-
-  .button-6 {
-
-    width: 55%;
   }
 }
