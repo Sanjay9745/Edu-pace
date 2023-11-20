@@ -134,6 +134,7 @@ display: flex;
 
     transition: all 0.3s ease;
     cursor: pointer;
+    box-shadow: 0px 10px 27px 0px rgba(0, 0, 0, 0.1);
 }
 
 .edu-card:hover{
@@ -154,7 +155,7 @@ display: flex;
 
 .edu-card-top img{
     width: 100%;
-    height: 200px;
+    height: 250px;
     object-fit: cover;
     border-radius: 15px;
 }
@@ -179,6 +180,76 @@ display: flex;
     text-align: left;
     color: #666;
 }
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+
+@media only screen and (max-width: 600px) {
+  #mobile {
+    align-items: center;
+    justify-content: center;
+    font-size: 7px;
+  }
+}
+
+.body-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+.content {
+  position: relative;
+}
+
+.content .h2 {
+  color: #4b0082;
+  font-size: 3.5em;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
+.content .h2:nth-child(1) {
+  color: transparent;
+  -webkit-text-stroke: 2px var(--dark-blue);
+}
+
+.content .h2:nth-child(2) {
+  color: var(--dark-blue);
+  animation: animate 4s ease-in-out infinite;
+}
+
+@keyframes animate {
+  0%,
+  100% {
+    clip-path: polygon(
+      0% 45%,
+      16% 44%,
+      33% 50%,
+      54% 60%,
+      70% 61%,
+      84% 59%,
+      100% 52%,
+      100% 100%,
+      0% 100%
+    );
+  }
+
+  50% {
+    clip-path: polygon(
+      0% 60%,
+      15% 65%,
+      34% 66%,
+      51% 62%,
+      67% 50%,
+      84% 45%,
+      100% 46%,
+      100% 100%,
+      0% 100%
+    );
+  }
+}
+
 @media screen and (max-width:1200px) {
     .education-card-container{
         width: 100%;
@@ -194,6 +265,10 @@ display: flex;
         width: 90%;
         height: 700px;
     }
-    
+    .education-diff-change-container p {
+      font-size: 1rem;
+      color: var(--dark-blue);
+      padding-left: 20px;
+  }
       
 }

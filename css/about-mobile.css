@@ -573,5 +573,11 @@ body {
         
         details[open] .control-icon-expand {
           display: none;
-        }     
+        }  
+        .about-study-us-container .arrow{
+          display: none;
+           }
+           .about-our-profile-container .arrow{
+            display: none;
+          }   
 }
