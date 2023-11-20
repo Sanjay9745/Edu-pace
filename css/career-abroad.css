@@ -231,7 +231,20 @@
 .german-section-left img {
   background-color: #d9d9d9;
   height: auto;
+  width: 250px;
+  border-radius: 15px;
+  animation: scaleAnimation 2s infinite alternate; /* 2s duration, infinite loop, alternate direction */
 }
+
+@keyframes scaleAnimation {
+  from {
+    transform: scale(1); /* Initial scale */
+  }
+  to {
+    transform: scale(1.2); /* Final scale */
+  }
+}
+
 
 .german-section-right {
   width: 50%;
@@ -262,6 +275,18 @@
 .german-section1-left img {
   background-color: #d9d9d9;
   height: auto;
+  width: 250px;
+  border-radius: 15px;
+  animation: scaleAnimation 2s infinite alternate; /* 2s duration, infinite loop, alternate direction */
+}
+
+@keyframes scaleAnimation {
+  from {
+    transform: scale(1); /* Initial scale */
+  }
+  to {
+    transform: scale(1.2); /* Final scale */
+  }
 }
 
 .german-section1-right {
@@ -271,6 +296,10 @@
 
 .german-section1-right ul {
   line-height: 1.8;
+}
+
+.german-gallery{
+  display: none;
 }
 
 @media only screen and (max-width: 700px) {
@@ -309,8 +338,18 @@ gap:20px;
   .german-section-left {
     display: flex;
     width: 80%;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
+    gap: 20px;
+  }
+
+  .german-section-left img {
+    background-color: #d9d9d9;
+    height: auto;
+    gap: 20px;
+    width: 200px;
+    animation: none;
+    
   }
 
   .german-section-right {
@@ -328,14 +367,19 @@ gap:20px;
   .german-section1-left {
     display: flex;
     width: 80%;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     padding-left: 10%;
+    gap: 20px;
   }
 
   .german-section1-left img {
     background-color: #d9d9d9;
     height: auto;
+    gap: 20px;
+    width: 200px;
+    animation: none;
+    
   }
 
   .german-section1-right {
@@ -346,4 +390,6 @@ gap:20px;
     white-space: nowrap;
     width: 50%;
   }
+
+
 }
