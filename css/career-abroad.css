@@ -223,15 +223,16 @@
 
 .german-section-left {
   display: flex;
-  width: 50%;
+  width: 49%;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 10%;
 }
 
 .german-section-left img {
   background-color: #d9d9d9;
   height: auto;
-  width: 250px;
+  width: 200px;
   border-radius: 15px;
   animation: scaleAnimation 2s infinite alternate; /* 2s duration, infinite loop, alternate direction */
 }
@@ -247,7 +248,7 @@
 
 
 .german-section-right {
-  width: 50%;
+  width: 49%;
   padding-right: 5%;
 }
 
@@ -267,15 +268,16 @@
 
 .german-section1-left {
   display: flex;
-  width: 50%;
+  width: 49%;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 10%;
 }
 
 .german-section1-left img {
   background-color: #d9d9d9;
   height: auto;
-  width: 250px;
+  width: 200px;
   border-radius: 15px;
   animation: scaleAnimation 2s infinite alternate; /* 2s duration, infinite loop, alternate direction */
 }
@@ -290,7 +292,7 @@
 }
 
 .german-section1-right {
-  width: 50%;
+  width: 49%;
   padding-left: 10%;
 }
 
