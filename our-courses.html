@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edu pace</title>
+    <link rel="stylesheet" href="./css/our-courses.css">
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+    <div id="header"></div>
+    <div class="courses-container">
+        <div class="courses-search-container">
+            <input type="text" placeholder="Find Courses" />
+            <i class="fa-solid fa-magnifying-glass"></i>
+          </div>
+        <div class="courses-hero-container">
+            <div class="courses-hero-content">
+                <section class="body-1" id="mobile">
+                    <div class="content">
+                      <h2 class="h2">Our Courses</h2>
+                      <h2 class="h2">Our Courses</h2>
+                      
+                    </div>
+                  </section>
+            </div>
+        </div>
+        <div id="footer"></div>
+
+    </div>
+    <script>
+         fetch('./header.html')
+        .then(response => response.text())
+        .then(html => document.getElementById('header').innerHTML = html);
+    
+      fetch('./footer.html')
+        .then(response => response.text())
+        .then(html => document.getElementById('footer').innerHTML = html);
+    
+    </script>
+</body>
+</html>
