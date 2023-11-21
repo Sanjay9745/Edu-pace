@@ -77,6 +77,11 @@
 
 /* aboard content */
 
+.abroad-bg{
+    background-image: url('../assets/images/bg2.svg');
+    background-position: center;
+}
+
 .about-program-container{
     display: flex;
     width: 95%;
@@ -86,6 +91,8 @@
     padding-right: 5%;
     padding-top: 5%;
     padding-bottom: 5%;
+    
+    
 }
 
 .about-program-container h1{
@@ -98,11 +105,27 @@
 
 .studyaboard-content{
     display: flex;
-    width: 95%;
-    flex-direction: column;
+    width: 100%;
+    flex-direction: row;
     justify-content: center;
     padding-left: 10%;
     padding-right: 5%;
+    gap: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+.studyaboard-content-left{
+    width: 60%;
+}
+
+.studyaboard-content-right{
+    width: 40%;
+}
+
+.studyaboard-content img{
+    width: 300px;
+    height: auto;
 }
 
 .studyaboard-content h1{
@@ -201,5 +224,32 @@
 
     .slider1-container{
         padding: 20px;
+    }
+
+    .studyaboard-content{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+
+    .studyaboard-content-left{
+        width: 100%;
+
+    }
+
+    .studyaboard-content-right{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        
+    }
+
+    .studyaboard-content img{
+        width: 50%;
+        height: auto;
+        object-fit: cover;
+        
+
     }
 }
