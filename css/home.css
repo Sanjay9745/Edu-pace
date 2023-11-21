@@ -245,8 +245,10 @@ line-height: 2;
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
+
+
 .what-does-card h2{
   position: absolute;
   bottom: -50px;
