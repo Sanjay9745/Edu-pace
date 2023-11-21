@@ -113,11 +113,13 @@
   padding-right: 5%;
   padding-top: 5%;
   padding-bottom: 5%;
+  gap: 20px;
 }
 
 .registered-nurses h1 {
-  line-height: 1.5;
+  line-height: 1.2;
   font-weight: 600;
+  
 }
 
 .registered-nurses h4{
@@ -202,7 +204,7 @@
 }
 
 .german-program h1 {
-  line-height: 1.5;
+  line-height: 1.2;
   font-weight: 600;
 }
 
