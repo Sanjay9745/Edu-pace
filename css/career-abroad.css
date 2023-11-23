@@ -139,8 +139,12 @@
   padding-left: 5%;
   line-height: 2;
 }
-
-
+.journey-content .journey-cards{
+  transition:all .5s ease;
+}
+.journey-content .journey-cards:hover{
+  scale:(1.01);
+}
 /* CSS */
 .button-6 {
   align-items: center;
