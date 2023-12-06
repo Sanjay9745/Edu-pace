@@ -164,26 +164,35 @@ transform: rotate(30deg);
 
 .hero-bottom-content{
     width: 100%;
-
+    margin-top: 5%;
     display:flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 100px;
+
 }
 .hero-bottom-left{
-    width: 100%;
+    width: 50%;
     display:flex;
     justify-content: center;
     align-items:flex-start;
+    /* background-image: url('../assets/images/wave.png'); */
+    
 }
 .hero-bottom-left img{
-width: 50%;
+    width: 50%;
 }
 .hero-bottom-right img{
-width: 80%;
+    width: 60%;
+    position: absolute;
+    right: 10%;
+    bottom: -25%;
+    object-fit: cover;
+    object-position: center;
+    
+    
 }
 .hero-bottom-right {
-    width: 100%;
+    width: 50%;
     display:flex;
     justify-content: flex-end;
 }
