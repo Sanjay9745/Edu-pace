@@ -1,6 +1,9 @@
 .career-container {
   width: 100%;
   margin-top: 60px;
+  background: url("../assets/images/bg2.svg");
+  background-size: cover;
+
 }
 .career-search-container {
   position: absolute;
