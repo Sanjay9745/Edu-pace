@@ -201,23 +201,28 @@ transform: rotate(30deg);
     width: 100%;
 }
 .our-company-content{
-    padding:200px 100px 50px 100px;
-    
+    padding:5%;
+    width: 100%;
+    padding-left: 12%;
     display: flex;
     flex-direction: column;
-    gap: 12px;
+    gap: 20px;
 }
 .our-company-content h3{
     color:var(--orange);
+    font-size: 1.6rem;
+    font-weight: 400;
     
 }
 .our-company-content h2{
     color:var(--dark-blue);
-    width: 40%;
+    width: 50%;
+    font-size: 2.1rem;
 }
 .our-company-content p{
     width: 90%;
-line-height: 2;
+    line-height: 2;
+    font-size: 1.2rem;
 }
 .what-does-container{
     width: 100%;
@@ -233,10 +238,17 @@ line-height: 2;
     align-items: center;
 }
 
+.what-does-content p{
+    
+    line-height: 2;
+    font-size: 1.3rem;
+}
+
 .what-does-content h1{
     width: 50%;
     text-align: center;
     color: var(--dark);
+    font-size: 2.1rem;
 }
 .what-does-cards{
     width: 100%;
@@ -256,6 +268,13 @@ line-height: 2;
     background-size: cover;
 
 }
+
+.what-does-card:hover{
+    scale: 1.05;
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+}
+
 
 
 .what-does-card h2{
@@ -283,6 +302,16 @@ color: var(--dark-blue);
 .what-does-content-desc{
     padding-top: 50px;
 }
+
+.what-does-card-button i:hover{
+    cursor: pointer;
+    background-color: white;
+    color: var(--dark-blue);
+    transition: all .5s ease-in-out;
+    
+}
+
+
 .choose-us-container{
     width: 100%;
     margin-top: 50px;
