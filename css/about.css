@@ -189,7 +189,6 @@ p.about-success-card-3-p {
 .about-our-profile-left p {
   font-size: 1.1rem;
   color: var(--dark);
-  font-weight: 500;
   line-height: 1.6;
   padding-right: 50px;
 }
@@ -221,12 +220,12 @@ p.about-success-card-3-p {
   gap: 50px;
   padding-left: 10%;
   font-size: 1.2rem;
-  font-weight: 500;
+
 }
 .about-study-us-right p {
   line-height: 1.8;
-  width: 80%;
   font-size: 1.3rem;
+  width: 80%;
 }
 .about-study-us-right ul {
   list-style: none; /* Remove default list styles */

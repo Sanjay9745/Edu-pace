@@ -2,6 +2,12 @@ html,
 body {
   overflow-x: hidden;
 }
+
+p {
+    line-height: 1.8;
+    font-size: 1.1rem;
+}
+
 .courses-container {
     width: 100%;
     margin-top: 60px;
@@ -139,7 +145,8 @@ body {
 }
 
 .german-course p{
-    line-height: 1.5;
+  line-height: 1.8;
+  font-size: 1.1rem;
 }
 
 .german-course-content{
@@ -160,10 +167,12 @@ body {
     justify-content: center;
     align-items: center;
     width: 70%;
+    padding-top: 3%;
 }
 
 .german-content-left p{
-    line-height: 1.6;
+    line-height: 1.8;
+    font-size: 1.1rem;
 }
 
 .german-content-right{
@@ -188,6 +197,7 @@ body {
     padding-left: 10%;
     padding-right: 5%;
     padding-bottom: 2%;
+    font-size: 1.1rem;
 }
 
 .german-content1 ul{
@@ -199,6 +209,8 @@ body {
 .german-content1 li{
   list-style: none;
   line-height: 1.9;
+  line-height: 1.8;
+  font-size: 1.1rem;
  
 }
 .german-content1 li::before {
@@ -211,6 +223,7 @@ body {
 .german-lang-a1 li{
   list-style: none;
   line-height: 1.9;
+
 }
 
 .german-lang-a1 li::before {
@@ -239,9 +252,7 @@ body {
     padding: 20px 0 20px 0;
 }
 
-.german-lang-a1 p{
-    line-height: 1.5;
-}
+
 
 .german-lang-a1 p i{
   line-height: 1.5;
