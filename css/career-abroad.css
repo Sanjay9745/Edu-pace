@@ -157,7 +157,7 @@
 /* CSS */
 .button-6 {
   align-items: center;
-  background-color: #FFFFFF;
+  background-color: #ffffff00;
   border: 1px solid rgba(0, 0, 0, 0.611);
   border-radius: .55rem;
   box-shadow: rgba(0, 0, 0, 0.02) 0 1px 3px 0;
@@ -337,9 +337,16 @@
   .journey-container{
     margin: 30px 0;
   }
+
+.journey-container h1{
+  font-size: 2rem;
+  padding: 40px;
+  color: white;
+}
+
   .journey-container .journey-content{
-flex-direction: column;
-gap:20px;
+      flex-direction: column;
+      gap:20px;
 
 }
 .journey-content .journey-cards {
