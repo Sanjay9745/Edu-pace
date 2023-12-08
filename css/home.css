@@ -400,6 +400,7 @@ color: var(--dark-blue);
 
 .slider1 .card1 {
     flex: 0 0 auto;
+    background-color: #a9a6a6;
 }
 
 
