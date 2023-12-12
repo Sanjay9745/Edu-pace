@@ -74,7 +74,8 @@ nav .navbar .links li a{
   font-weight: 500;
 }
 .links li:hover .htmlcss-arrow,
-.links li:hover .js-arrow{
+.links li:hover .js-arrow,
+.links li:hover .node-arrow{
   transform: rotate(180deg);
   }
 
@@ -100,7 +101,8 @@ nav .navbar .links li .sub-menu{
   z-index: 2;
 }
 nav .navbar .links li:hover .htmlCss-sub-menu,
-nav .navbar .links li:hover .js-sub-menu{
+nav .navbar .links li:hover .js-sub-menu,
+nav .navbar .links li:hover .node-sub-menu{
   display: block;
 }
 .navbar .links li .sub-menu li{
@@ -347,7 +349,8 @@ nav .navbar .links li .sub-menu li{
   justify-content: space-between;
 }
 .links li:hover .htmlcss-arrow,
-.links li:hover .js-arrow{
+.links li:hover .js-arrow,
+.links li:hover .node-arrow{
   transform: rotate(0deg);
   }
   .navbar .links li .sub-menu .more-sub-menu{
@@ -364,16 +367,19 @@ nav .navbar .links li .sub-menu li{
     display: none;
   }
   nav .navbar .links li:hover .htmlCss-sub-menu,
-  nav .navbar .links li:hover .js-sub-menu{
+  nav .navbar .links li:hover .js-sub-menu,
+  nav .navbar .links li:hover .node-sub-menu{
     display: none;
   }
 .navbar .nav-links.show1 .links .htmlCss-sub-menu,
   .navbar .nav-links.show3 .links .js-sub-menu,
+  .navbar .nav-links.show4 .links .node-sub-menu,
   .navbar .nav-links.show2 .links .more .more-sub-menu{
       display: block;
     }
     .navbar .nav-links.show1 .links .htmlcss-arrow,
-    .navbar .nav-links.show3 .links .js-arrow{
+    .navbar .nav-links.show3 .links .js-arrow,
+    .navbar .nav-links.show4 .links .node-arrow{
         transform: rotate(180deg);
 }
     .navbar .nav-links.show2 .links .more-arrow{
