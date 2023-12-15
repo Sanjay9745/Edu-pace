@@ -15,8 +15,9 @@
 .hero-container{
     width: 100%;
     height: 150vh;
-    background: url('../assets/images/bg1.svg');  
-    background-position-y:bottom ;
+    background: url('../assets/images/1st\ BG.png');  
+    background-position:center ;
+    background-size: cover;
     margin-top: 60px;
     position: relative;
 }
@@ -115,6 +116,7 @@ transform: rotate(30deg);
     width: 40vw;
     position: relative;
     top: 100px;
+    
 
 }
 .bg-tri{
@@ -236,6 +238,59 @@ transform: rotate(30deg);
     line-height: 2;
     font-size: 1.2rem;
 }
+
+.missionvision-container{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.mission{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.mission p{
+    
+    line-height: 2;
+    font-size: 1.2rem;
+}
+
+.mission h3{
+    color: var(--dark-blue);
+    font-size: 2.1rem;
+}
+
+.vision{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.vision-left{
+    margin-left: 120px;
+}
+
+.vision p{
+    width: 90%;
+    line-height: 2;
+    font-size: 1.2rem;
+    
+}
+
+.vision h3{
+    color: var(--dark-blue);
+    font-size: 2.1rem;
+}
+
+
 .what-does-container{
     width: 100%;
     margin-top: 50px;

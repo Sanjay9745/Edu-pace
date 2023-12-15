@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="./css/home.css" />
     <link rel="stylesheet" href="./css/home-mobile.css" />
     <link rel="stylesheet" href="./css/footer.css" />
+    <link rel="stylesheet" href="./css/blob.css">
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
@@ -43,10 +44,10 @@
               <a href="education.html">Education</a>
               <i class="fa-solid fa-chevron-down arrow js-arrow"></i>
               <ul class="js-sub-menu sub-menu">
-                <li><a href="/our-courses.html">Our Course</a></li>
-                <li><a href="#">Course Details</a></li>
-                <li><a href="#">Study with Us</a></li>
-                <li><a href="#">FAQs</a></li>
+                <li><a href="/our-courses.html">English</a></li>
+                <li><a href="#">German</a></li>
+                <li><a href="#">Spanish</a></li>
+                <li><a href="#">French</a></li>
               </ul>
             </li>
                <li>
@@ -113,9 +114,35 @@
           </div>
           <div class="hero-top-right">
             <div class="hero-top-right-content">
-              <img class="woman" src="./assets/images/pic 1.png" alt="" />
+              <!-- blob animation -->
+              <svg class="blob" width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+                <g class="blob-1">    
+                  <path stroke="none" stroke-width="0">
+                  <animate repeatCount="indefinite" attributeName="d" dur="10s"
+                   
+                  values="M136.2,-114.1C167,-69.9,176.1,-13.8,167.5,44C158.9,101.79999999999998,132.6,161.3,97.5,163.1C62.29999999999999,164.9,18.400000000000006,109,-39.3,81.4C-97,53.69999999999999,-168.4,54.2,-183.3,30.1C-198.2,5.899999999999999,-156.6,-42.9,-116.6,-89.1C-76.6,-135.4,-38.3,-179.2,7.199999999999999,-184.9C52.6,-190.6,105.3,-158.3,136.2,-114.1Z;
+                          M180.1,-156.8C206,-111.2,180.5,-37.9,154,17.9C127.5,73.7,100,112.1,53.5,149.2C6.9,186.2,-58.6,221.9,-114.4,206.8C-170.09999999999997,191.7,-216.2,125.8,-214.2,68C-212.1,10.199999999999996,-162,-39.5,-118.2,-89.1C-74.5,-138.8,-37.3,-188.4,19.900000000000002,-204.3C77.1,-220.2,154.3,-202.4,180.1,-156.8Z;
+                          M134.5,-117.79999999999998C161.6,-73.2,162.2,-18,152.5,38.8C142.7,95.7,122.5,154.1,76.9,186.4C31.2,218.6,-39.9,224.6,-103.5,199.8C-167,175,-222.9,119.3,-226.8,63C-230.7,6.699999999999999,-182.6,-50.3,-136.1,-99.2C-89.70000000000002,-148.2,-44.8,-189.1,4.4,-192.6C53.7,-196.1,107.4,-162.3,134.5,-117.79999999999998Z;
+                          M136.2,-114.1C167,-69.9,176.1,-13.8,167.5,44C158.9,101.79999999999998,132.6,161.3,97.5,163.1C62.29999999999999,164.9,18.400000000000006,109,-39.3,81.4C-97,53.69999999999999,-168.4,54.2,-183.3,30.1C-198.2,5.899999999999999,-156.6,-42.9,-116.6,-89.1C-76.6,-135.4,-38.3,-179.2,7.199999999999999,-184.9C52.6,-190.6,105.3,-158.3,136.2,-114.1Z;
+                          "/>
+                    </path>
+                </g>
+                <g class="blob-2">    
+                  <path stroke="none" stroke-width="0">
+                  <animate repeatCount="indefinite" attributeName="d" dur="10s"
+                   
+                  values="M134.5,-117.79999999999998C161.6,-73.2,162.2,-18,152.5,38.8C142.7,95.7,122.5,154.1,76.9,186.4C31.2,218.6,-39.9,224.6,-103.5,199.8C-167,175,-222.9,119.3,-226.8,63C-230.7,6.699999999999999,-182.6,-50.3,-136.1,-99.2C-89.70000000000002,-148.2,-44.8,-189.1,4.4,-192.6C53.7,-196.1,107.4,-162.3,134.5,-117.79999999999998Z;
+                          M180.1,-156.8C206,-111.2,180.5,-37.9,154,17.9C127.5,73.7,100,112.1,53.5,149.2C6.9,186.2,-58.6,221.9,-114.4,206.8C-170.09999999999997,191.7,-216.2,125.8,-214.2,68C-212.1,10.199999999999996,-162,-39.5,-118.2,-89.1C-74.5,-138.8,-37.3,-188.4,19.900000000000002,-204.3C77.1,-220.2,154.3,-202.4,180.1,-156.8Z;
+                          M136.2,-114.1C167,-69.9,176.1,-13.8,167.5,44C158.9,101.79999999999998,132.6,161.3,97.5,163.1C62.29999999999999,164.9,18.400000000000006,109,-39.3,81.4C-97,53.69999999999999,-168.4,54.2,-183.3,30.1C-198.2,5.899999999999999,-156.6,-42.9,-116.6,-89.1C-76.6,-135.4,-38.3,-179.2,7.199999999999999,-184.9C52.6,-190.6,105.3,-158.3,136.2,-114.1Z;
+                          M134.5,-117.79999999999998C161.6,-73.2,162.2,-18,152.5,38.8C142.7,95.7,122.5,154.1,76.9,186.4C31.2,218.6,-39.9,224.6,-103.5,199.8C-167,175,-222.9,119.3,-226.8,63C-230.7,6.699999999999999,-182.6,-50.3,-136.1,-99.2C-89.70000000000002,-148.2,-44.8,-189.1,4.4,-192.6C53.7,-196.1,107.4,-162.3,134.5,-117.79999999999998Z;
+                          "/>
+                    </path>
+                </g>
+              </svg>
+             <!--  -->
+              <img class="woman" src="./assets/images/lady.png" alt="" />
               <img class="woman-mob" src="./assets/images/woman-mob.png" alt="" />
-              <img class="tri1" src="./assets/images/triagle 2.png" alt="" />
+              <!-- <img class="tri1" src="./assets/images/triagle 2.png" alt="" />
               <img class="tri2" src="./assets/images/triagle 1.png" alt="" />
               <img class="tri3" src="./assets/images/tiagle3.png" alt="" />
               <img class="tri4" src="./assets/images/triangle4.png" alt="" />
@@ -123,7 +150,7 @@
                 class="bg-tri"
                 src="./assets/images/back-triangle5.png"
                 alt=""
-              />
+              /> -->
             </div>
           </div>
         </div>
@@ -151,6 +178,34 @@
             now offer more services to assist our clients to build their teams
             in the most optimal way.
           </p>
+        </div>
+      </div>
+
+      <div class="missionvision-container">
+        <div class="mission">
+          <div class="mission-left">
+            <img src="./assets/images/mission.png" alt="">
+          </div>
+          <div class="mission-right">
+            <h3>Mission</h3>
+            <p>
+              Since our launch, our mission has been to ease the process of study visa applications and help students pass 
+              competitive exams with the highest scores.
+            </p>
+          </div>
+        </div>
+        <div class="vision">
+          <div class="vision-left">
+            <h3>Vision</h3>
+            <p>
+              Our aim is to reach a larger global audience by expanding our services. A number of branches in different 
+              countries and serving a wide variety of ethnicities are our dreams
+            </p>
+          </div>
+          <div class="vision-right">
+            <img src="./assets/images/vision.png" alt="">
+          </div>
+
         </div>
       </div>
       <div class="what-does-container">

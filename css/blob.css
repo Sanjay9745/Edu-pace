@@ -1,0 +1,28 @@
+.blob g{
+    transform: translateX(69%) translateY(254px);
+  }
+  
+  .blob g path{
+    fill: rgba(22, 19, 81, 0.451);
+    animation-name: rotate;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+  
+  .blob-2{
+    transform: translateX(339px) translateY(266px) rotatez(180deg) !important;
+  }
+  
+  .blob-2 path{
+    fill: rgba(6, 147, 227, .2) !important;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotatez(0deg);
+    }
+    100% {
+      transform: rotatez(360deg);
+    }
+  }
