@@ -127,10 +127,10 @@ transform: rotate(30deg);
     z-index: 1;
 }
 .hero-top-right-content .woman{
-    width: 100%;
+    width: 400px;
     position: absolute;
     top: 0;
-    left: 0;
+    left: 18%;
     object-fit: cover;
     object-position: center;
     z-index: 10;
