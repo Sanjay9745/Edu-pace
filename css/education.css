@@ -490,3 +490,36 @@ ul.tabs li.selected a
       padding: 0;
   }
 }
+
+
+@media only screen and (min-width: 767px) and (max-width: 1277px) {
+  .edu-horizondal-tab{
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 50px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.599);
+      
+
+  }
+
+  .ul.tabs{
+    line-height: 3;
+  }
+
+  ul.tabs li a {
+    padding: 16px 55px;
+  }
+
+  .tabcontents{
+    width: 80%;
+    padding: 10px;
+  }
+
+}
