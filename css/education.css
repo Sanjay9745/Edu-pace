@@ -1,8 +1,10 @@
 .education-container{
     width: 100%;
     margin-top: 60px;
-    background: url("../assets/images/About-US-BG.svg");
+    background: url("../assets/images/1st\ BG.png");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
 }
 .education-search-container{
@@ -180,7 +182,7 @@ ul.tabs li a
 ul.tabs li a:hover
 {
     
-    background:#E0E0E0;
+    background:#dfecf9;
 }
         
 ul.tabs li.selected a
@@ -188,7 +190,7 @@ ul.tabs li.selected a
     position: relative;
     top: 0px;
     font-weight:bold;
-    background: rgb(236, 235, 235);
+    background: #dfecf9;
    
    
 }
@@ -437,8 +439,8 @@ ul.tabs li.selected a
       align-items: center;
       justify-content: center;
       margin-bottom: 50px;
-      box-sizing: border-box;
-      box-shadow: 0px 10px 27px 0px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.599);
+      scale: 1.05;
 
   }
 
@@ -467,14 +469,14 @@ ul.tabs li.selected a
   }
 
   ul.tabs li:hover {
-      background-color: var(--light-blue);
+      background:#dfecf9;
       color: white;
       border-radius: 5px;
 
   }
 
   ul.tabs li.current {
-      background-color: var(--light-blue);
+    background:#dfecf9;
       color: white;
       border-radius: 5px;
 
