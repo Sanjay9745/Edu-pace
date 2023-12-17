@@ -11,6 +11,11 @@
     <link rel="stylesheet" href="./css/home-mobile.css" />
     <link rel="stylesheet" href="./css/footer.css" />
     <link rel="stylesheet" href="./css/blob.css">
+
+    <!-- <link rel="stylesheet" href="./css/education.css" /> -->
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
@@ -20,11 +25,12 @@
     />
   </head>
   <body>
+
     <nav>
       <div class="navbar">
         <i class="fa-solid fa-bars open-bars"></i>
         <div class="logo">
-          <img src="./assets/images/edupace-logo.png" alt="">
+          <img src="./assets/images/edupace-logo.png" style="width: 250px; height: auto;" alt="">
           <!-- <a href="#">Edu Pace Langauge Academy</a> -->
         </div>
         <button class="mobbutton-9" role="button">Get Started</button>
@@ -41,10 +47,10 @@
               <li><a href="about.html">About Us</a></li>
          
             <li>
-              <a href="education.html">Education</a>
+              <a href="education.html">Language Training</a>
               <i class="fa-solid fa-chevron-down arrow js-arrow"></i>
               <ul class="js-sub-menu sub-menu">
-                <li><a href="/our-courses.html">English</a></li>
+                <li><a href="training/english.html">English</a></li>
                 <li><a href="#">German</a></li>
                 <li><a href="#">Spanish</a></li>
                 <li><a href="#">French</a></li>
@@ -54,7 +60,7 @@
               <a href="study-abroad.html">Study Abroad</a>
               <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
               <ul class="htmlCss-sub-menu sub-menu">
-                <li><a href="/our-courses.html">Our Course</a></li>
+                <li><a href="/education.html">Our Course</a></li>
                 <li><a href="#">Course Details</a></li>
                 <li><a href="#">Study with Us</a></li>
                 <li><a href="#">FAQs</a></li>
@@ -71,7 +77,7 @@
                 </li> -->
               </ul>
             </li>
-            <li><a href="carrer-abroad.html">Career Abroad</a>
+            <li><a href="carrer-abroad.html">Careers</a>
               <i class="fa-solid fa-chevron-down node-arrow arrow "></i>
               <ul class="node-sub-menu sub-menu">
                 <li><a href="#">Nurses to Germany</a></li>
@@ -104,12 +110,12 @@
         <div class="hero-top-content">
           <div class="hero-top-left">
             <h1>
-              We Listen And Work Together<br/> To Create A Truly Unique Experience
+              Connecting Talent To Opportunities:<br/> Your Success Starts With Us!
             </h1>
-            <p>Driven by passion to achieve higher studies</p>
+            <p>We Support How You Support</p>
             <div class="hero-top-left-content-button">
-              <button class="with-bg-btn">Find Demo Class <i class="fa-solid fa-arrow-up"></i></button>
-              <buttonSee class="without-bg-btn">See More</button>
+              <button class="with-bg-btn"><a href="tel:" style="text-decoration: none;">Contact Us<i class="fa-solid fa-arrow-up"></i></a></button>
+              <!-- <buttonSee class="without-bg-btn" id="ser">Explore More</button> -->
             </div>
           </div>
           <div class="hero-top-right">
@@ -163,21 +169,28 @@
           </div>
         </div>
       </div>
+      <!--  -->
+        <br>
+
       <div class="our-company-container">
-        <div class="our-company-content">
-          <h3>DISCOVER OUR COMPANY</h3>
-          <h2>Our Purpose Is To Deliver Excellence In Service And Execution</h2>
-          <p>
-            EDU PACE LANGUAGE ACADEMY, is a service provider in human resources
-            solutions in the Middle East, India, Georgia , and the Philippines.
-            We execute your HR strategy the way you imagine it. In the last 7
-            years, we have served as a one-stop solutions for all types of HR
-            needs to various government institutions and multinational
-            organizations. Our clients no longer have to worry about the talent
-            sourcing aspect of their business, and we manage all processes. We
-            now offer more services to assist our clients to build their teams
-            in the most optimal way.
+
+        <div class="vision">
+          <div class="vision-left">
+            <h2 style="color: red;">Welcome To Edupace Academy!</h2>
+            <br>
+            
+              <h3><span style="color: #101663;"><b>Unlocking Potential, Igniting Careers: Your Journey To Success Begins Here!</b></span></h3>
+              <br>
+            <p style="text-align: justify;">
+            At our academy, we are dedicated to making the journey of learning German an inspiring one. Our passionate instructors provide high-quality lessons to help you master the German language with confidence. Whether you are a beginner or looking to deepen your knowledge, you'll find the perfect learning environment here. Explore the richness of German culture and language with us! 
           </p>
+          <p style="text-align: justify;">We are committed to providing an immersive and enriching experience for language learners of all levels. Our team of experienced instructors is here to guide you on a journey of linguistic discovery, fostering a supportive environment that empowers you to embrace the beauty of diverse languages.</p>
+          <p style="text-align: justify;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
+          </div>
+          <div class="vision-right">
+            <img src="./assets/index/about-1.jpg" alt="">
+          </div>
+
         </div>
       </div>
 
@@ -210,13 +223,16 @@
       </div>
       <div class="what-does-container">
         <div class="what-does-content">
-          <p class="what-does-content-desc">What does EDU PACE Offers</p>
-          <h1>
-            We Listen And Work Together To Create A Truly Unique Experience
-          </h1>
+          <!-- <p class="what-does-content-desc">What does EDU PACE Offers</p> -->
+          <p style="color:black; font-size: 30px;"><b>
+            Matching Talent With Opportunity For a  Brighter Tomorrow</b>
+          </p>
+          <p>
+            Opportunities in Spain For Doctors, Engineers and Students. 
+          </p>
           <div class="what-does-cards">
-            <div class="what-does-card" style="background:url('./assets/images/img1.png');background-size: cover;">
-              <div class="what-does-card-content">
+            <div class="what-does-card" style="background:url('./assets/index/study.jpg');background-size: cover;">
+              <!-- <div class="what-does-card-content">
                 <div>
                   <h3>Rachel</h3>
                   <p>A student Review</p>
@@ -225,10 +241,10 @@
                   <i class="fa-solid fa-play"></i>
                 </div>
               </div>
-              <h2>Education</h2>
+              <h2>Education</h2> -->
             </div>
-            <div class="what-does-card" style="background:url('./assets/images/img2.png');background-size: cover;">
-              <div class="what-does-card-content">
+            <div class="what-does-card" style="background:url('./assets/index/study-2.jpeg');background-size: cover;">
+              <!-- <div class="what-does-card-content">
                 <div class="what-does-card-desc">
                   <h3>Leslie Alexander</h3>
                   <p>From German University</p>
@@ -237,10 +253,10 @@
                   <i class="fa-solid fa-play"></i>
                 </div>
               </div>
-              <h2>Study Abroad</h2>
+              <h2>Study Abroad</h2> -->
             </div>
-            <div class="what-does-card" style="background:url('./assets/images/img3.png');background-size: cover;">
-              <div class="what-does-card-content">
+            <div class="what-does-card" style="background:url('./assets/index/study-3.jpg');background-size: cover;">
+              <!-- <div class="what-does-card-content">
                 <div>
                   <h3>Courtney Henry</h3>
                   <p>Nurse from Germany </p>
@@ -249,11 +265,93 @@
                   <i class="fa-solid fa-play"></i>
                 </div>
               </div>
-              <h2>Nurses To Germany</h2>
+              <h2>Nurses To Germany</h2> -->
             </div>
+
+          </div>
+          <button style="border: 2px solid white  ; background-color: #101663;;color: white; cursor: pointer; width: 10%;height: 50px; border-radius: 20px; ">Explore More</button>
+
+          <div class="what-does-cards">
+            <div class="what-does-card" style="background:url('./assets/index/study-6.jpeg');background-size: cover;">
+              <!-- <div class="what-does-card-content">
+                <div>
+                  <h3>Rachel</h3>
+                  <p>A student Review</p>
+                </div>
+                <div class="what-does-card-button">
+                  <i class="fa-solid fa-play"></i>
+                </div>
+              </div>
+              <h2>Education</h2> -->
+            </div>
+            <div class="what-does-card" style="background:url('./assets/index/study-7.jpeg');background-size: cover;">
+              <!-- <div class="what-does-card-content">
+                <div class="what-does-card-desc">
+                  <h3>Leslie Alexander</h3>
+                  <p>From German University</p>
+                </div>
+                <div class="what-does-card-button">
+                  <i class="fa-solid fa-play"></i>
+                </div>
+              </div>
+              <h2>Study Abroad</h2> -->
+            </div>
+            <div class="what-does-card" style="background:url('./assets/index/study-8.jpeg');background-size: cover;">
+              <!-- <div class="what-does-card-content">
+                <div>
+                  <h3>Courtney Henry</h3>
+                  <p>Nurse from Germany </p>
+                </div>
+                <div class="what-does-card-button">
+                  <i class="fa-solid fa-play"></i>
+                </div>
+              </div>
+              <h2>Nurses To Germany</h2> -->
+            </div>
+            
+          </div>
+        
+<button style="border: 2px solid white  ; background-color: #101663;;color: white; cursor: pointer; width: 10%;height: 50px; border-radius: 20px; ">Explore More</button>
+
+      
+          
+
+          
+          
+            
           </div>
         </div>
       </div>
+
+
+      <!-- <div class="choose-us-container">
+        <h1>WHY CHOOSE US ?</h1>
+        <div class="slider1-container">
+
+          <div class="slider1">
+              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll1.png');background-size: cover;">
+                <h3>We prepare you for 
+                  B2 Examination</h3>
+              </div>
+              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll2.png');background-size: cover;">
+                <h3>Convenient Learning </h3>
+              </div>
+              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll3.png');background-size: cover;">
+                <h3>Placement Assistance
+                  In Germany</h3>
+              </div>
+              <div class="card1 choose-us-card"  style="background:url('./assets/images/Scroll4.png');background-size: cover;">
+                <h3>200+ Successful 
+                  Recruitments</h3>
+              </div>
+          
+        
+          
+              <i class="fa-solid fa-arrow-left" onclick="scrollslider1(-1)"></i>
+              <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
+          </div>
+      </div>
+    </div> -->
 
       <div class="choose-us-container">
         <h1>WHY CHOOSE US ?</h1>
@@ -284,27 +382,27 @@
       </div> -->
       <div class="void" id="void">
         <div class="crop">
-        <ul id="card-circle-list" style="--count: 6;">
-            <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">We prepare you for 
-              B2 Examination</span></a></div></li>
-            <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Convenient Learning </span></a></div></li>
-            <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Placement Assistance
-              In Germany</span></a></div></li>
-            <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">200+ Successful 
-              Recruitments</span></a></div></li>
-                    <li><div class="card-circle"><a href=""><span class="model-name">We prepare you for 
-                      B2 Examination</span></a></div></li>
-        </ul>
+          <ul id="card-circle-list" style="--count: 6;">
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">We prepare you for 
+                B2 Examination</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Convenient Learning </span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Placement Assistance
+                In Germany</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">200+ Successful 
+                Recruitments</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">We Provide Placement Assitance</span></a></div></li>
+          </ul>
         <div class="last-circle"></div>
         <div class="second-circle"></div>
         </div>
         <div class="mask"></div>
         <div class="center-circle"></div>
-    </div>
+      </div>
     </div>
     <div class="choose-us-mob-container">
       <h1>WHY CHOOSE US ?</h1>
       <div class="choose-us-mob-cards">
+
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll1.png');background-size: cover;">
           <h3>We prepare you for 
             B2 Examination</h3>
@@ -329,8 +427,174 @@
         <button class="comments-pannel-btn">Post Your Comment</button>
       </div>
       
-      <div id="footer"></div>
+      <!-- <div id="footer"> -->
+        
+        <!-- Footer -->
+<footer class="text-center text-lg-start bg-body-tertiary text-muted">
+  <!-- Section: Social media -->
+  <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+    <!-- Left -->
+    <div class="me-5 d-none d-lg-block">
+      <span>Get connected with us on social networks:</span>
     </div>
+    <!-- Left -->
+
+    <!-- Right -->
+    <div>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-google"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <a href="" class="me-4 text-reset">
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <!-- Right -->
+  </section>
+  <!-- Section: Social media -->
+
+  <!-- Section: Links  -->
+  <section class="">
+    <div class="container text-center text-md-start mt-5">
+      <!-- Grid row -->
+      <div class="row mt-3">
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+          <!-- Content -->
+          <!-- <h6 class="text-uppercase fw-bold mb-4">
+            <i class="fas fa-gem me-3"></i>Edupace Academy
+          </h6> -->
+          <img src="assets/images/edupace-logo.png"class="mb-4" style="width: 250px; height:auto;">
+          <p style="text-align:justify;">
+            Welcome to Edupace Academy, where talent meets opportunity and careers are crafted with precision. We are architects of professional success, dedicated to connecting exceptional talent with thriving organizations.
+          </p>
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+          <!-- Links -->
+          <h6 class="text-uppercase fw-bold mb-4">
+            Quick Links
+          </h6>
+          <p>
+            <a href="#!" class="nav-link">Home</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">About Us</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">Coaching</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">Study Abroad</a>
+          </p>
+          <p>
+            <a href="" class="nav-link">Career Abroad</a>
+          </p>
+          <br>
+          <h6 class="text-uppercase fw-bold mb-4">
+            Language Training
+          </h6>
+          <p>
+            <a href="#!" class="nav-link">English</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">Spanish</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">French</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">German</a>
+          </p>
+          
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+          <!-- Links -->
+          <h6 class="text-uppercase fw-bold mb-4">
+            German Pogram
+          </h6>
+          <p>
+            <a href="#!" class="nav-link">Nurses</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">Ausbildung</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">Professionals</a>
+          </p>
+          <br>
+          <h6 class="text-uppercase fw-bold mb-4">
+            Spain Pogram
+          </h6>
+          <p>
+            <a href="#!" class="nav-link">Doctors</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">Engineers</a>
+          </p>
+          <p>
+            <a href="#!" class="nav-link">Student</a>
+          </p>
+          <!-- <p>
+            <a href="#!" class="text-reset">Help</a>
+          </p> -->
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+          <!-- Links -->
+          <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
+          <p><i class="fas fa-home me-3"></i> Edupace Language Academy</p>
+          <p>
+            <i class="fas fa-envelope me-3"></i>
+            info@edupace.org
+          </p>
+          <p><i class="fas fa-phone me-3"></i> +91 8592925900</p>
+          <p><i class="fas fa-phone me-3"></i> +91 9072545002</p>
+        </div>
+        <!-- Grid column -->
+      </div>
+      <!-- Grid row -->
+    </div>
+  </section>
+  <!-- Section: Links  -->
+
+  <!-- Copyright -->
+  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+    © 2023 Copyright:
+    <a class="text-reset fw-bold" style="text-decoration: none;"  href="https://plusitpark.com/">Plus IT Business Park</a>
+  </div>
+  <!-- Copyright -->
+</footer>
+<!-- Footer -->
+      </div>
+
+    <!-- </div> -->
+    <a
+        href="https://wa.me/9072545003"
+        class="whatsapp_float"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fa-brands fa-whatsapp whatsapp-icon"></i>
+      </a>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
     <script>
       
