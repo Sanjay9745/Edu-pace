@@ -773,5 +773,36 @@
         outline: none;
         border: none;
       }
+
+      /*form*/
+.request-form{
+  position: absolute;
+  width: 90%;
+  left: 5%;
+/*  right: 5%;*/
+/*  bottom: 22%;*/
+/*  top: 10px;*/
+}
+.request-form h3{
+  color: white;
+}
+.form-control{
+  width: 400px;
+}
+.form-label{
+  color: white;
+  padding: 10px;
+}
+.button-color{
+  color: white;
+  border: 2px solid white;
+  margin-top: 40px;
+  margin-left: 12%;
+}
+.button-color:hover {
+      background-color: white;
+/*      border: 5px solid white;*/
+      border-radius: 50px;
+    }
       
 }
