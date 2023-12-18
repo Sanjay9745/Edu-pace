@@ -307,6 +307,7 @@ color: #FF9800;
   display: flex;
   justify-content: center;
   align-items: flex-end;
+  margin-top: 40px;
 }
 .internship-overview-right-top-content {
   width: 100%;
@@ -919,4 +920,32 @@ details[open] .control-icon-expand {
   color: #312f2f;
   cursor: pointer;
 }
-
+/*form*/
+.request-form{
+  position: absolute;
+  width: 100%;
+  left: 65%;
+  bottom: 22%;
+}
+.request-form h3{
+  color: white;
+  
+}
+.form-control{
+  width: 500px;
+}
+.form-label{
+  color: white;
+  padding: 10px;
+}
+.button-color{
+  color: white;
+  border: 2px solid white;
+  margin-top: 40px;
+  margin-left: 12%;
+}
+.button-color:hover {
+      background-color: white;
+/*      border: 5px solid white;*/
+      border-radius: 50px;
+    }
