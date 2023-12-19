@@ -228,6 +228,11 @@ body {
         width: 100%;
     }
 
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+    }
+
     .nurse-content p {
         
         font-size: 1.1rem;
