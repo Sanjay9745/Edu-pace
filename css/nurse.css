@@ -144,6 +144,22 @@ body {
 
 }
 
+.about-program-right p{
+    color: #101663;
+    font-size: 1.2rem;
+    text-align: left;
+    font-weight: 400;
+    width: 100%;
+}
+
+
+.about-program-right h4{
+    color: #101663;
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: 600;
+}
+
 .about-program-right ul{
     padding: 0;
     margin-left: -50px
