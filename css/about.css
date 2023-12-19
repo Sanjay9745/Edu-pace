@@ -41,7 +41,7 @@ body {
 .about-hero-content {
   width: 100vw;
   height: 100vh;
-  background: url("../assets/images/about-hero.png");
+  
   background-size: cover;
   background-position: center;
 }
