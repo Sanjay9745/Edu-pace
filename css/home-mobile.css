@@ -3,6 +3,11 @@
   body {
     overflow-x: hidden;
   }
+
+  .carousel{
+    margin-top: 70px;
+  }
+
   .home-container {
     width: 100%;
     min-height: 100vh;
