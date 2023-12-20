@@ -449,7 +449,7 @@ nav .navbar .links li .sub-menu li{
 @media screen and (min-width: 600px) and (max-width: 1300px) {
   /* Your styles for screens with a width between 600px and 1300px go here */
   .navbar .logo img{
-    width: 27%;
+    width: 250px;
   }
 
 }
