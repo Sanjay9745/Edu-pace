@@ -34,83 +34,7 @@
   </head>
   <body>
 
-    <nav>
-      <div class="navbar">
-        <i class="fa-solid fa-bars open-bars"></i>
-        <div class="logo">
-          <img src="./assets/images/edupace-logo-ch.png" style="width: 250px; height: auto;" alt="">
-          <!-- <a href="#">Edu Pace Langauge Academy</a> -->
-        </div>
-        <button class="mobbutton-9" role="button">Get Started</button>
-      
-        <div class="nav-links">
-          <div class="sidebar-logo">
-            
-          
-            <i class="fa-solid fa-xmark close-bars"></i>
-          </div>
-          
-          <ul class="links">
-            <li class="active"><a href="index.html">Home</a></li>
-              <li><a href="about.html">About Us</a></li>
-         
-            <li>
-              <a href="#">Language Training</a>
-              <i class="fa-solid fa-chevron-down arrow js-arrow"></i>
-              <ul class="js-sub-menu sub-menu">
-                <li><a href="training/ielts.html">English</a></li>
-                <li><a href="training/german.html">German</a></li>
-                <li><a href="#">Spanish</a></li>
-                <li><a href="#">French</a></li>
-              </ul>
-            </li>
-               <li>
-              <a href="study-abroad.html">Study Abroad</a>
-              <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
-              <ul class="htmlCss-sub-menu sub-menu">
-                <li><a href="#">Ausbildung Germany</a></li>
-                <li><a href="#">Vocation Training Program In Spain</a></li>
-                <li><a href="">Masters Program at Germany</a></li>
-                <li><a href="">Doctors To Europe</a></li>
-                <li><a href="">Paid Internship Program</a></li>
-                <!-- <li class="more">
-                  <span
-                    ><a href="#">More</a>
-                    <i class="fa-solid fa-chevron-down arrow more-arrow"></i>
-                  </span>
-                  <ul class="more-sub-menu sub-menu">
-                    <li><a href="#">Neumorphism</a></li>
-                    <li><a href="#">Pre-loader</a></li>
-                    <li><a href="#">Glassmorphism</a></li>
-                  </ul>
-                </li> -->
-              </ul>
-            </li>
-            <li><a href="carrer-abroad.html">Careers</a>
-              <i class="fa-solid fa-chevron-down node-arrow arrow "></i>
-              <ul class="node-sub-menu sub-menu">
-                <li><a href="nursetogerman.html">Nurses To Germany</a></li>
-                <li><a href="#">Drivers To Germany</a></li>
-                <li><a href="nursetospain.html">Nurses To Spain</a></li>
-                
-                <li><a href="#">Doctors To Spain</a></li>
-                <li><a href="download.html">Downloads</a></li>
-              </ul>
-            </li>
-            <li><a href="contact.html">Contact Us</a></li>
-            <li>
-              <button class="button-9" role="button">Get Started</button>
-            </li>
-          </ul>
-        </div>
-        <div class="search-box">
-          <i class="bx bx-search"></i>
-          <div class="input-box">
-            <input type="text" placeholder="Search..." />
-          </div>
-        </div>
-      </div>
-    </nav>
+    <?php include("header/header.php") ?>
   
     
          <div id="demo" class="carousel slide" data-bs-ride="carousel">
@@ -463,7 +387,55 @@
         </div>
 
       </div>
-
+      <div class="what-does-container">
+        <div class="what-does-content">
+          <p class="what-does-content-desc">What does EDU PACE Offers</p>
+          <h1>
+            We Listen And Work Together To Create A Truly Unique Experience
+          </h1>
+          <div class="what-does-cards">
+            <div class="what-does-card" >
+              <video autoplay muted loop id="myVideo">
+                <source src="./assets/videos/christmas-1.mp4" type="video/mp4" />
+              </video>
+              <!-- <div class="what-does-card-content">
+                <div>
+                  <h3>Rachel</h3>
+                  <p>A student Review</p>
+                </div>
+                <div class="what-does-card-button">
+                  <i class="fa-solid fa-play"></i>
+                </div>
+              </div> -->
+              <h2>Education</h2>
+            </div>
+            <div class="what-does-card" style="background:url('./assets/images/img2.png');background-size: cover;">
+              <div class="what-does-card-content">
+                <div class="what-does-card-desc">
+                  <h3>Leslie Alexander</h3>
+                  <p>From German University</p>
+                </div>
+                <div class="what-does-card-button">
+                  <i class="fa-solid fa-play"></i>
+                </div>
+              </div>
+              <h2>Study Abroad</h2>
+            </div>
+            <div class="what-does-card" style="background:url('./assets/images/img3.png');background-size: cover;">
+              <div class="what-does-card-content">
+                <div>
+                  <h3>Courtney Henry</h3>
+                  <p>Nurse from Germany </p>
+                </div>
+                <div class="what-does-card-button">
+                  <i class="fa-solid fa-play"></i>
+                </div>
+              </div>
+              <h2>Nurses To Germany</h2>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <!-- <div class="choose-us-container">
         <h1>WHY CHOOSE US ?</h1>
@@ -582,157 +554,7 @@
       
       <!-- <div id="footer"> -->
         
-        <!-- Footer -->
-        <footer class="text-center text-lg-start text-muted" style="background-color: #0d1252; color: white;">
-          <!-- Section: Social media -->
-          <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
-            <!-- Left -->
-            <div class="me-5 d-none d-lg-block">
-              <span style="color: white;">Get connected with us on social networks:</span>
-            </div>
-            <!-- Left -->
-        
-            <!-- Right -->
-            <div>
-              <a href="" class="me-4 text-reset">
-                <i class="fab fa-facebook-f" style="color: white;"></i>
-              </a>
-              <a href="" class="me-4 text-reset">
-                <i class="fab fa-twitter" style="color: white;"></i>
-              </a>
-              <a href="" class="me-4 text-reset">
-                <i class="fab fa-google" style="color: white;"></i>
-              </a>
-              <a href="" class="me-4 text-reset">
-                <i class="fab fa-instagram" style="color: white;"></i>
-              </a>
-              <a href="" class="me-4 text-reset">
-                <i class="fab fa-linkedin" style="color: white;"></i>
-              </a>
-              <a href="" class="me-4 text-reset">
-                <i class="fab fa-github" style="color: white;"></i>
-              </a>
-            </div>
-            
-            <!-- Right -->
-          </section>
-          <!-- Section: Social media -->
-        
-          <!-- Section: Links  -->
-          <section class="">
-            <div class="container text-center text-md-start mt-5">
-              <!-- Grid row -->
-              <div class="row mt-3">
-                <!-- Grid column -->
-                <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-                  <!-- Content -->
-                  <!-- <h6 class="text-uppercase fw-bold mb-4">
-                    <i class="fas fa-gem me-3"></i>Edupace Academy
-                  </h6> -->
-                  <img src="assets/images/edupace 1.png" class="mb-4" style="width: 250px; height:auto;">
-                  <p style="text-align:justify; color: white;">
-                    Welcome to Edupace Academy, where talent meets opportunity and careers are crafted with precision. We are architects of professional success, dedicated to connecting exceptional talent with thriving organizations.
-                  </p>
-                </div>
-                <!-- Grid column -->
-        
-                <!-- Grid column -->
-                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-                  <!-- Links -->
-                  <h6 class="text-uppercase fw-bold mb-4" style="color: white;">
-                    Quick Links
-                  </h6>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Home</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">About Us</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Coaching</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Study Abroad</a>
-                  </p>
-                  <p>
-                    <a href="" class="nav-link" style="color: white;">Career Abroad</a>
-                  </p>
-                  <br>
-                  <h6 class="text-uppercase fw-bold mb-4" style="color: white;">
-                    Language Training
-                  </h6>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">English</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Spanish</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">French</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">German</a>
-                  </p>
-                </div>
-                <!-- Grid column -->
-        
-                <!-- Grid column -->
-                <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4" style="color: white;">
-                  <!-- Links -->
-                  <h6 class="text-uppercase fw-bold mb-4">
-                    German Program
-                  </h6>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Nurses</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Ausbildung</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Professionals</a>
-                  </p>
-                  <br>
-                  <h6 class="text-uppercase fw-bold mb-4">
-                    Spain Program
-                  </h6>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Doctors</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Engineers</a>
-                  </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Student</a>
-                  </p>
-                </div>
-                <!-- Grid column -->
-        
-                <!-- Grid column -->
-                <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4" style="color: white;">
-                  <!-- Links -->
-                  <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-                  <p><i class="fas fa-home me-3" style="color: white;"></i> Edupace Language Academy</p>
-                  <p>
-                    <i class="fas fa-envelope me-3" style="color: white;"></i>
-                    info@edupace.org
-                  </p>
-                  <p><i class="fas fa-phone me-3" style="color: white;"></i> +91 8592925900</p>
-                  <p><i class="fas fa-phone me-3" style="color: white;"></i> +91 9072545002</p>
-                </div>
-                <!-- Grid column -->
-              </div>
-              <!-- Grid row -->
-            </div>
-          </section>
-          <!-- Section: Links  -->
-        
-          <!-- Copyright -->
-          <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05); color: white;">
-            © 2023 Copyright:
-            <a class="text-reset fw-bold" style="text-decoration: none; color: white;" href="https://plusitpark.com/">Plus IT Business Park</a>
-          </div>
-          <!-- Copyright -->
-        </footer>
+        <?php include("header/footer.php") ?>
         
 <!-- Footer -->
       </div>

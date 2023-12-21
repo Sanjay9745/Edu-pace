@@ -302,7 +302,7 @@
 
 </div>
 
-<div id="footer"></div>
+<?php include("header/footer.php") ?>
 
 <script>
   fetch('./header.html')

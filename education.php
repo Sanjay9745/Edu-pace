@@ -413,7 +413,7 @@
         <i class="fa-solid fa-play"></i>
         <h1>We Support Your Career With The <br> Goal Of Trusting Relationships</h1>
       </div>
-      <div id="footer"></div>
+      <?php include("header/footer.php") ?>
     </div>
 
 <!-- javascript -->

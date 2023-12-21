@@ -182,7 +182,7 @@
       </ul>
 </div>  
 
-        <div id="footer"></div>
+        <?php include("header/footer.php") ?>
 
     </div>
     <script>

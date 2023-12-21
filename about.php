@@ -355,7 +355,8 @@
           </div>
         </div>
       </div>
-      <div id="footer"></div>
+      <!-- <div id="footer"></div> -->
+      <?php include("header/footer.php") ?>
     </div>
     <script defer>
       fetch('./header.html')

@@ -61,7 +61,8 @@
           <p>1234 Street Name, City Name, United States</p>
         </div>
       </div>
-<div id="footer"></div>
+<!-- <div id="footer"></div> -->
+<?php include("header/footer.php") ?>
     </div>
     <script>
             fetch('./header.html')
