@@ -395,10 +395,7 @@
           </h1>
           <div class="what-does-cards">
             <div class="what-does-card" >
-              <video autoplay muted loop id="myVideo">
-                <source src="./assets/videos/christmas-1.mp4" type="video/mp4" />
-              </video>
-              <!-- <div class="what-does-card-content">
+              <div class="what-does-card-content">
                 <div>
                   <h3>Rachel</h3>
                   <p>A student Review</p>
@@ -406,7 +403,7 @@
                 <div class="what-does-card-button">
                   <i class="fa-solid fa-play"></i>
                 </div>
-              </div> -->
+              </div>
               <h2>Education</h2>
             </div>
             <div class="what-does-card" style="background:url('./assets/images/img2.png');background-size: cover;">
