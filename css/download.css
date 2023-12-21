@@ -72,7 +72,7 @@ body{
     height: fit-content;
     position: relative;
     align-items: center;
-    background-image: url('/assets/images/1st\ BG.png');
+    background-image: url('../assets/images/1st\ BG.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
