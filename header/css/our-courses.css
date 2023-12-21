@@ -1,0 +1,332 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+p {
+    line-height: 1.8;
+    font-size: 1.1rem;
+}
+
+.courses-container {
+    width: 100%;
+    margin-top: 60px;
+    background: url("../assets/images/About-US-BG.svg");
+  background-size: cover;
+  }
+  .courses-search-container {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40%;
+    height: 50px;
+    background: var(--white);
+    background-position: center;
+    margin-top: 50px;
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 25px;
+    box-shadow: 0px 10px 27px 0px rgba(0, 0, 0, 0.1);
+  }
+  .courses-search-container input {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding-left: 20px;
+    border-radius: 25px;
+  }
+  .courses-search-container i {
+    padding-right: 20px;
+  }
+  .courses-hero-container {
+    position: relative;
+  }
+  .courses-hero-content {
+    width: 100vw;
+    height: 100vh;
+    background: url("../assets/images/education-container.png");
+    background-size: cover;
+    background-position: center;
+  }
+  .courses-hero-content {
+    display: flex;
+    flex-direction: column;
+    padding: 200px 0 0 100px;
+    font-size: 2rem;
+    color: var(--dark-blue);
+  }
+  .courses-hero-content p {
+    font-size: 2.5rem;
+  }
+  .courses-hero-content h2 span {
+    color: var(--orange);
+  }
+  
+.body-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 0;
+  }
+
+  
+  
+  .content {
+    position: relative;
+  }
+  
+  .content .h2 {
+    color: #4b0082;
+    font-size: 2.5em;
+    position: absolute;
+    white-space: nowrap;
+    top: 100px;
+    left: -700px;
+  }
+  
+  .content .h2:nth-child(1) {
+    color: transparent;
+    -webkit-text-stroke: 2px var(--dark-blue);
+  }
+  
+  .content .h2:nth-child(2) {
+    color: var(--dark-blue);
+    animation: animate 4s ease-in-out infinite;
+  }
+  
+  @keyframes animate {
+    0%,
+    100% {
+      clip-path: polygon(
+        0% 45%,
+        16% 44%,
+        33% 50%,
+        54% 60%,
+        70% 61%,
+        84% 59%,
+        100% 52%,
+        100% 100%,
+        0% 100%
+      );
+    }
+  
+    50% {
+      clip-path: polygon(
+        0% 60%,
+        15% 65%,
+        34% 66%,
+        51% 62%,
+        67% 50%,
+        84% 45%,
+        100% 46%,
+        100% 100%,
+        0% 100%
+      );
+    }
+  }
+
+  .german-course{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.german-course h1{
+    line-height: 1.2;
+    font-weight: 600;
+}
+
+.german-course p{
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+
+.german-course-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.5;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    gap: 20px;
+}
+
+.german-content-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    padding-top: 3%;
+}
+
+.german-content-left p{
+    line-height: 1.8;
+    font-size: 1.1rem;
+}
+
+.german-content-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    margin-top: -10%;
+}
+
+.german-content-right img{
+    width: 60%;
+    height: auto;
+}
+
+.german-content1{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    font-size: 1.1rem;
+}
+
+.german-content1 ul{
+   padding-bottom: 3%;
+}
+
+
+
+.german-content1 li{
+  list-style: none;
+  line-height: 1.9;
+  line-height: 1.8;
+  font-size: 1.1rem;
+ 
+}
+.german-content1 li::before {
+  content: ">"; /* Use greater-than symbol as list item marker */
+  margin-right: 0.5em; /* Add some space between the symbol and the text */
+  font-size: 1.3rem;
+  color: var(--orange);
+}
+
+.german-lang-a1 li{
+  list-style: none;
+  line-height: 1.9;
+
+}
+
+.german-lang-a1 li::before {
+  content: ">"; /* Use greater-than symbol as list item marker */
+  margin-right: 0.5em; /* Add some space between the symbol and the text */
+  font-size: 1.3rem;
+  color: var(--orange);
+}
+
+.german-lang-a1{
+    display: flex;
+    width: 90%;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 5%;
+    gap: 30px;
+    padding-top: 10px;
+    padding-bottom: 2%;
+}
+
+.german-lang-a1 h1{
+    line-height: 1.2;
+    font-weight: 600;
+    color: #F03A03;
+    padding: 20px 0 20px 0;
+}
+
+
+
+.german-lang-a1 p i{
+  line-height: 1.5;
+  list-style-position: inside;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  font-size: 18px;
+
+}
+
+  
+  @media screen and (max-width:1200px) {
+    .content .h2 {
+        color: #4b0082;
+        font-size: 2em;
+        position: absolute;
+        white-space: nowrap;
+        top: 100px;
+        left: -500px;
+      }
+      
+}
+  @media screen and (max-width:767px) {
+    .content .h2 {
+        color: #4b0082;
+        font-size: 1.5em;
+        position: absolute;
+        white-space: nowrap;
+        top: 100px;
+        left: -200px;
+      }
+
+
+
+      .german-course-content{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        gap: 20px;
+        line-height: 1.5;
+    }
+
+    .german-course-content p{
+        line-height: 2;
+        padding-top: 5%;
+    }
+
+    .german-content-left{
+        width: 100%;
+
+    }
+
+    .german-content-right{
+        width: 100%;
+        margin-top: 0;
+        padding-bottom: 5%;
+
+    }
+
+    .german-content-right img{
+        width: 50%;
+        height: auto;
+
+    }
+
+
+    .german-content1{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 10%;
+        padding-right: 5%;
+        padding-bottom: 2%;
+    }
+      
+}

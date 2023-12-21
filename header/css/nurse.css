@@ -1,0 +1,354 @@
+/* Add your custom styles here */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    background-color: #f0f2f5;
+    height: 300px;
+    width: 100vw;
+    position: relative;
+    overflow-x: hidden;
+  }
+  
+  .carousel-caption h1 {
+    color: #fff;
+    font-size: 2.5em;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: 600px;
+  }
+  
+  .carousel-controls {
+    position: absolute;
+    margin-top: -20%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    color: #fff;
+    font-size: 24px;
+  }
+
+
+.nurses-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    background-image: url('/assets/images/1st\ BG.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.nurse-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+   
+
+}
+
+.nurse-content h1{
+    color: #101663;
+    font-size: 3rem;
+    text-align: center;
+    font-weight: 600;
+    
+
+}
+
+.nurse-content p{
+    color: #101663;
+    font-size: 1.6rem;
+    text-align: center;
+    font-weight: 400;
+    width: 60%;
+}
+
+.about-program{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    
+
+}
+
+.about-program-left img{
+    width: 70%;
+    height: auto;
+    border-radius: 15px;
+    background-color: #f0f2f5;
+}
+
+.about-program-left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    width: 49%;
+    height: 100%;
+
+}
+
+.about-program-right{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    width: 49%;
+    height: 100%;
+
+}
+
+.about-program-right h1{
+
+    font-size: 1.5rem;
+    text-align: left;
+    font-weight: 600;
+
+}
+
+.about-program-right p{
+    color: #101663;
+    font-size: 1.2rem;
+    text-align: left;
+    font-weight: 400;
+    width: 100%;
+}
+
+
+.about-program-right h4{
+    color: #101663;
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: 600;
+}
+
+.about-program-right ul{
+    padding: 0;
+    margin-left: -50px
+}
+
+.about-program-right li{
+    color: #101663;
+    font-size: 1.2rem;
+    text-align: center;
+    font-weight: 400;
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+
+}
+
+.d-flex img{
+    width: 400px;
+    height: auto;
+    border-radius: 15px;
+    background-color: #f0f2f5;
+
+}
+
+.slider1-container {
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+    position: relative;
+}
+
+.slider1 {
+    width: 100%;
+    overflow-x: scroll;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    scroll-behavior: smooth;
+}
+
+.slider1 .card1 {
+    flex: 0 0 auto;
+    
+}
+
+.slider1 .card1 img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.slider1::-webkit-scrollbar {
+    display: none;
+}
+
+.slider1-container .fa-arrow-left {
+    position: absolute;
+    top: 50%;
+    left: 30px;
+    font-size: 30px;
+    color: #3b3838;
+    cursor: pointer;
+}
+
+.slider1-container .fa-arrow-right {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    font-size: 30px;
+    color: #312f2f;
+    cursor: pointer;
+}
+
+@media (max-width: 767px) {
+    
+    .nurse-content h1{
+        font-size: 2rem;
+        width: 100%;
+    }
+
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+    }
+
+    .nurse-content p {
+        
+        font-size: 1.1rem;
+        width: 100%;
+    }
+
+    .about-program {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+        padding: 20px;
+        width: 100%;
+        height: 100%;
+    }
+
+    .about-program-right {
+        width: 100%;
+    }
+
+    .about-program-left {
+        width: 100%;
+    }
+
+
+    .about-program-left img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+    
+    .about-program-right ul {
+        
+        padding-left: 20px;
+    }
+
+    .about-program-right li {
+        font-size: 1.1rem;
+    }
+
+    .d-flex img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .slider1-container {
+        width: 100%;
+        height: 500px;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .slider1 {
+        width: 100%;
+        overflow-x: scroll;
+        display: flex;
+        flex-wrap: nowrap;
+        gap: 20px;
+        scroll-behavior: smooth;
+    }
+
+    .slider1 .card1 {
+        flex: 0 0 auto;
+    }
+
+    .slider1 .card1 img {
+        width: 300px;
+        height: 300px;
+        object-fit: cover;
+        border-radius: 15px;
+    }
+
+    .slider1::-webkit-scrollbar {
+        display: none;
+    }
+
+    .slider1-container .fa-arrow-left {
+        position: absolute;
+        top: 50%;
+        left: 30px;
+        font-size: 10px;
+        color: #3b383800;
+        cursor: pointer;
+    }
+
+    .slider1-container .fa-arrow-right {
+        position: absolute;
+        top: 50%;
+        right: 30px;
+        font-size: 10px;
+        color: #312f2f00;
+        cursor: pointer;
+    }
+
+}
+  
+
+
+
+
+  

@@ -1,0 +1,260 @@
+.abroad-container {
+    width: 100%;
+    margin-top: 60px;
+    
+  }
+  .abroad-search-container {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40%;
+    height: 50px;
+    background: var(--white);
+    background-position: center;
+    margin-top: 50px;
+    color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 25px;
+    box-shadow: 0px 10px 27px 0px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+  }
+  .abroad-search-container input {
+    width: 100%;
+    border: none;
+    outline: none;
+    padding-left: 20px;
+    border-radius: 25px;
+  }
+  .abroad-search-container i {
+    padding-right: 20px;
+  }
+  
+.abroad-hero{
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 100px;
+}
+
+.abroad-hero h2 {
+    color: var(--orange);
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 1;
+  }
+  .abroad-hero p {
+    font-size: 2.5rem;
+    color: #101663
+    ;
+  }
+  .abroad-hero h2 span {
+    color: var(--orange);
+  }
+
+.abroad-carousel-container{
+    width: 100%;
+    margin-top: 50px;
+}
+.choose-us-card{
+    width: 35%;
+    height: 250px;
+    background-color:#3b3838 ;
+    border-radius: 25px;
+    color: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 10px 27px 0px rgba(0,0,0,0.1);
+}
+
+/* aboard content */
+
+.abroad-bg{
+    background-image: url('../assets/images/bg2.svg');
+    background-position: center;
+}
+
+.about-program-container{
+    display: flex;
+    width: 95%;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+    
+}
+
+.about-program-container h1{
+    color: #F03A03;
+}
+
+.about-program-container p{
+    line-height: 1.5;
+}
+
+.studyaboard-content{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 5%;
+    gap: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+.studyaboard-content-left{
+    width: 60%;
+}
+
+.studyaboard-content-right{
+    width: 40%;
+}
+
+.studyaboard-content img{
+    width: 300px;
+    height: auto;
+}
+
+.studyaboard-content h1{
+   color: #F03A03;
+}
+
+.studyaboard-content li{
+    list-style: none;
+    line-height: 1.9;
+   
+}
+.studyaboard-content li::before {
+    content: ">"; /* Use greater-than symbol as list item marker */
+    margin-right: 0.5em; /* Add some space between the symbol and the text */
+    font-size: 1.3rem;
+    color: var(--orange);
+  }
+
+
+/* end of onboard content */
+
+/*slider card*/
+
+.slider1-container {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    padding: 40px;
+}
+
+.slider1 {
+    width: 100%;
+    overflow-x: scroll;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    scroll-behavior: smooth;
+}
+
+.slider1 .card1 {
+    
+    flex: 0 0 auto;
+}
+
+
+
+.slider1::-webkit-scrollbar {
+    display: none;
+}
+
+.slider1-container .fa-arrow-left {
+    position: absolute;
+    top: 50%;
+    left: 30px;
+    font-size: 30px;
+    color: #3b3838;
+    cursor: pointer;
+}
+
+.slider1-container .fa-arrow-right {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    font-size: 30px;
+    color: #312f2f;
+    cursor: pointer;
+}
+
+.fa-arrow-left,
+.fa-arrow-right {
+  opacity: 0; /* Adjust the opacity value as needed (0 is fully transparent, 1 is fully opaque) */
+}
+
+.choose-us-card h3{
+    padding: 20px;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    font-weight: 600;
+
+}
+
+
+@media (max-width: 767px) {
+    .slider1 .card1 img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+
+    .choose-us-card{
+        width: 100%;
+        
+    }
+
+    .slider1-container{
+        padding: 20px;
+    }
+
+    .studyaboard-content{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
+
+    .studyaboard-content-left{
+        width: 100%;
+
+    }
+
+    .studyaboard-content-right{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        
+    }
+
+    .studyaboard-content img{
+        width: 50%;
+        height: auto;
+        object-fit: cover;
+        
+
+    }
+
+    .abroad-hero{
+        
+        padding: 30px;
+    }
+}
