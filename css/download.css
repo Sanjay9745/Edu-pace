@@ -130,7 +130,7 @@ body{
     top: 50%;
     left: 30px;
     font-size: 30px;
-    color: #3b3838;
+    color: #3b383800;
     cursor: pointer;
 }
 
@@ -139,7 +139,7 @@ body{
     top: 50%;
     right: 30px;
     font-size: 30px;
-    color: #312f2f;
+    color: #312f2f00;
     cursor: pointer;
 }
 
