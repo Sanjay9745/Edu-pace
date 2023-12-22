@@ -72,7 +72,7 @@
   </script>
     <div class="internship-container">
       <div class="internship-home-container">
-        <div class="internship-home-header " style= "background: url('assets/images/French Thrissur - 1.jpeg');">
+        <div class="internship-home-header " style= "background: url('assets/images/French Thrissur - 1.jpg');">
           <div class="internship-home-header-content">
             <h1>Discover the art of the French language - Where learning becomes an exquisite adventure!</h1>
             <!-- <div class="internship-home-header-middle">

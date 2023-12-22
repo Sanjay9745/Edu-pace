@@ -423,9 +423,9 @@
       <!-- /Mobile View -->
       <div class="what-does-container">
         <div class="what-does-content">
-          <p class="what-does-content-desc">What does EDU PACE Offers</p>
+          <!-- <p class="what-does-content-desc">What does EDU PACE Offers</p> --><br>
           <h1>
-            We Listen And Work Together To Create A Truly Unique Experience
+            Speak Beyond Borders
           </h1>
           <div class="what-does-cards">
               <div class="what-does-card reel" >
@@ -440,7 +440,7 @@
                   <i class="fa-solid fa-play"></i>
                 </div>
               </div>
-              <h2>Education</h2>
+              <!-- <h2>Education</h2> -->
             </div>
             <div class="what-does-card reel" >
                 <iframe width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen></iframe>
@@ -453,7 +453,7 @@
                   <i class="fa-solid fa-play"></i>
                 </div>
               </div>
-              <h2>Study Abroad</h2>
+              <!-- <h2>Study Abroad</h2> -->
             </div>
             <div class="what-does-card reel" >
                 <iframe width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen></iframe>
@@ -467,7 +467,7 @@
                   <i class="fa-solid fa-play"></i>
                 </div>
               </div>
-              <h2>Nurses To Germany</h2>
+              <!-- <h2>Nurses To Germany</h2> -->
             </div>
           </div>
         </div>

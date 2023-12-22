@@ -17,7 +17,7 @@
 <div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/images/hero-slider1 (1).jpeg" class="d-block w-100" alt="Slide 1">
+      <img src="assets/index/nurses_to_germany/Nurses To German Thrissur - 6.jpeg" class="d-block w-100" alt="Slide 1">
       <div class="carousel-caption d-none d-md-block">
         
       </div>
@@ -53,26 +53,32 @@
 <div class="nurses-container">
     <div class="nurse-content">
         <h1>Nurses to Germany</h1>
-        <p>Stack your journey with US.</p>
+        <p>We Support How You Support!</p>
 
     </div>
 
     <div class="about-program">
         <div class="about-program-left">
             <img src="https://careoptionsforkids.com/hubfs/Imported_Blog_Media/Is-It-Hard-to-Become-a-Nurse-1.jpg" alt="img">
+            <h4>PATHWAYS FOR  FOREIGN NURSES IN GERMANY</h4>
+        <p style="text-align:justify; font-family: sans-serif;">A knowledge examination  known as an anpassungslehrgang or kenntnisprufung, is a mandatory  requirement in Germany for foreign nursing professionals who want to practice their profession there.</p>
+        <p style="text-align:justify; font-family: sans-serif;">A course called Anpassungslehrgang bridges  knowledge or skill gaps between the foreign nurse's education and the German system by offering both theoretical and practical training. It facilitates their acquainting themselves with the German legal system, medical terminology, and healthcare practices.</p>
+        <p style="text-align:justify; font-family: sans-serif;">The Kenntnisprüfung is a test  in Germany to assess a candidate's nursing knowledge and abilities to ensure that they fulfill the standards and requirements set by the German healthcare system. The German nursing licensure process, known as The Kenntnisprüfung, requires passing both theoretical and practical parts in order for a candidate to be recognized as a nurse.
         </div>
         <div class="about-program-right">
           
             <h4>About Program</h4>
         
-        <h1> <span style="color: #F03A03;">We Care How You Care</span><br>
+        <!-- <h1> <span style="color: #F03A03;">We Support How You Support!</span><br>
             <span style="color: #101663;">OPPORTUNITY FOR </span><br>
-            <span style="color: #101663;"> REGISTERED NURSES</span></h1>
-        <p>Nursing is one field where Germany is experiencing a severe shortage of qualified workers. This is partly attributable 
-          to the country's aging population. According to projections, there will be a need for an additional 300,000 registered 
-          nurses by the year 2030. Nurses have a crucial role in numerous settings, including hospitals, clinics, and retirement 
-          communities.</p>
-        
+            <span style="color: #101663;"> REGISTERED NURSES</span></h1> -->
+        <p style="text-align: justify; font-family: sans-serif;">Germany has noticed a growing need for qualified nurses as the global demand for healthcare workers continues to rise.  Germany will need 3,000,000 nurses by 2030 to make up for the shortage in the labor market.</p>
+        <p style="text-align: justify; font-family: sans-serif;">Several factors, such as an aging population and improvements in medical technology, are responsible for this demand. Similar to other industrialized nations, Germany is witnessing a change in its population towards an older age group. The need for nurses is growing as a result of the aging population's greater need for specialized care and healthcare services.</p>
+        </p>
+        <h4>PATHWAYS FOR  FOREIGN NURSES IN GERMANY</h4>
+        <p style="text-align:justify; font-family: sans-serif;">A knowledge examination  known as an anpassungslehrgang or kenntnisprufung, is a mandatory  requirement in Germany for foreign nursing professionals who want to practice their profession there.</p>
+        <p style="text-align:justify; font-family: sans-serif;">A course called Anpassungslehrgang bridges  knowledge or skill gaps between the foreign nurse's education and the German system by offering both theoretical and practical training. It facilitates their acquainting themselves with the German legal system, medical terminology, and healthcare practices.</p>
+        <p style="text-align:justify; font-family: sans-serif;">The Kenntnisprüfung is a test  in Germany to assess a candidate's nursing knowledge and abilities to ensure that they fulfill the standards and requirements set by the German healthcare system. The German nursing licensure process, known as The Kenntnisprüfung, requires passing both theoretical and practical parts in order for a candidate to be recognized as a nurse.
         </div>
 
 

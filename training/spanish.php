@@ -72,7 +72,7 @@
   </script>
     <div class="internship-container">
       <div class="internship-home-container">
-        <div class="internship-home-header " style="background: url('assets/images/german.jpg');">
+        <div class="internship-home-header " style="background: url('assets/images/Spain Thrissur - 1.jpeg');">
           <div class="internship-home-header-content">
             <h1>Speak Spanish with confidence and conquer the world!</h1>
             <!-- <div class="internship-home-header-middle">
