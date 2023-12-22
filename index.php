@@ -428,36 +428,41 @@
             We Listen And Work Together To Create A Truly Unique Experience
           </h1>
           <div class="what-does-cards">
-            <div class="what-does-card reel" >
-              <div class="what-does-card-content">
-                <div>
+              <div class="what-does-card reel" >
+                <iframe width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen autoplay playsinline></iframe>
+                
+                <div class="what-does-card-content">
+                <!-- <div>
                   <h3>Rachel</h3>
                   <p>A student Review</p>
-                </div>
+                </div> -->
                 <div class="what-does-card-button">
                   <i class="fa-solid fa-play"></i>
                 </div>
               </div>
               <h2>Education</h2>
             </div>
-            <div class="what-does-card reel" style="background:url('./assets/images/img2.png');background-size: cover;">
+            <div class="what-does-card reel" >
+                <iframe width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen></iframe>
               <div class="what-does-card-content">
-                <div class="what-does-card-desc">
+                <!-- <div class="what-does-card-desc">
                   <h3>Leslie Alexander</h3>
                   <p>From German University</p>
-                </div>
+                </div> -->
                 <div class="what-does-card-button">
                   <i class="fa-solid fa-play"></i>
                 </div>
               </div>
               <h2>Study Abroad</h2>
             </div>
-            <div class="what-does-card reel" style="background:url('./assets/images/img3.png');background-size: cover;">
+            <div class="what-does-card reel" >
+                <iframe width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen></iframe>
+                
               <div class="what-does-card-content">
-                <div>
+                <!-- <div>
                   <h3>Courtney Henry</h3>
                   <p>Nurse from Germany </p>
-                </div>
+                </div> -->
                 <div class="what-does-card-button">
                   <i class="fa-solid fa-play"></i>
                 </div>
