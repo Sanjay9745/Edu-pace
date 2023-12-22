@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="css/about.css">
   <link rel="stylesheet" href="css/about-mobile.css">
   
-  <title>Doctors to germany</title>
+  <title>Edupace Language Academy | Thrissur No-1 Academy</title>
 </head>
 <body>
     
@@ -54,223 +54,39 @@
 <div class="nurses-container">
     <div class="nurse-content">
         <h1>Doctor's to Spain</h1>
-        <p>Stack your journey with US.</p>
+        <!-- <p>Stack your journey with US.</p> -->
 
     </div>
 
     <div class="about-program">
         <div class="about-program-left">
             <img src="https://img.freepik.com/free-photo/nurse-portrait-hospital_23-2150780304.jpg?size=626&ext=jpg&uid=P118124127&ga=GA1.1.767184273.1695731208&semt=sph" alt="img">
+            <h4 style="color:#101663;">About The Program</h4>
+            <p style="text-align: justify; font-family: sans-serif; font-size: 20px; color: #101663;">The PG and paid internship program for MBBS doctors in Spain marks an exceptional opportunity, offering a gateway to unparalleled professional growth and experiential learning. With a commitment to fostering the next generation of medical professionals, this program not only provides a platform for specialization but also immerses participants in the rich tapestry of Spain's healthcare system. It serves as a bridge between theoretical knowledge and practical application, affording doctors the chance to refine their skills in a diverse and dynamic environment while contributing meaningfully to patient care. Ultimately, this program in Spain stands as a pivotal milestone, equipping aspiring medical practitioners with the expertise, cultural insights, and hands-on experience essential for a thriving career in the global healthcare landscape 
+            </p>
+             <h4 style="text-align:center; color: #101663;">Unlocking Opportunities for Indian Medical Professionals in Spain</h4>
+              <p style="text-align:justify; font-family: sans-serif; font-size: 20px; color:#101663;">Spain presents a promising landscape for Indian medical professionals, particularly doctors, seeking enhanced opportunities. The country boasts a burgeoning healthcare sector, actively seeking skilled practitioners to fill vital roles. The allure lies in Spain's robust healthcare infrastructure, </p>
+            
         </div>
         <div class="about-program-right">
           
-            <h4>About Program</h4>
+            <!-- <h4>Unlocking Opportunities for Indian Medical Professionals in Spain</h4> -->
         
-        <h1> <span style="color: #F03A03;">We Care How You Care</span><br>
+        <!-- <h1> <span style="color: #F03A03;">We Care How You Care</span><br>
             <span style="color: #101663;">OPPORTUNITY FOR </span><br>
-            <span style="color: #101663;"> DOCTORS</span></h1>
-        <p>Medicine is one field where Germany is experiencing a severe shortage of qualified professionals. This is partly attributable 
-            to the country's aging population. According to projections, there will be a need for an additional 300,000 registered 
-            doctors by the year 2030. Doctors have a crucial role in numerous settings, including hospitals, clinics, and healthcare 
-            facilities. 
+            <span style="color: #101663;"> DOCTORS</span></h1> -->
+            <p style="text-align:justify; font-family:sans-serif;">characterized by modern facilities, advanced technology, and a strong emphasis on providing quality patient care. Indian doctors often find themselves drawn to Spain due to the country's receptiveness to foreign medical talent, offering a gateway to a diverse range of specialties and professional growth.</p>
+            <p style="text-align:justify; font-family:sans-serif;">Living conditions in Spain offer an appealing blend of cultural richness, a pleasant climate across regions, and a high quality of life. The country's cosmopolitan cities and picturesque towns provide a vibrant lifestyle while ensuring access to excellent healthcare and educational facilities for families. Spain also extends attractive offers to foreign medical professionals, including competitive salaries, opportunities for career advancement, and a favorable work-life balance.</p>
+        <p style="text-align: justify; font-family:sans-serif;">The PG and paid internship program for MBBS doctors in Spain marks an exceptional opportunity, offering a gateway to unparalleled professional growth and experiential learning. With a commitment to fostering the next generation of medical professionals, this program not only provides a platform for specialization but also immerses participants in the rich tapestry of Spain's healthcare system. It serves as a bridge between theoretical knowledge and practical application, affording doctors the chance to refine their skills in a diverse and dynamic environment while contributing meaningfully to patient care. Ultimately, this program in Spain stands as a pivotal milestone, equipping aspiring medical practitioners with the expertise, cultural insights, and hands-on experience essential for a thriving career in the global healthcare landscape 
             </p>
+            <p style="text-align:justify; font-family:sans-serif;">For Indian doctors aspiring to elevate their careers in Spain, the Postgraduate (PG) Paid Internship Scheme stands as a pivotal avenue. This program serves as a crucial stepping stone, facilitating the integration of foreign medical practitioners into Spain's healthcare system. It offers a structured framework for skill enhancement, exposure to diverse medical practices, and an immersive experience within the Spanish medical landscape. The PG Paid Internship Scheme not only enriches the professional repertoire of Indian doctors but also fosters cultural exchange, enabling a seamless transition and the acquisition of invaluable expertise within Spain's healthcare ecosystem.</p>
         
         </div>
 
 
     </div>
 
-    <div class="about-faq">
-      <div class="about-faq-section1">
-        <h1>Frequently asked questions</h1>
-        <p>Everything you need to know about the product and billing</p>
-      </div>
-      <div class="about-faq-section2">
-        <div class="about-section-content1">
-          <img src="./assets/images/about-avatar-group.png" alt="" />
-          <h4>Still have questions?</h4>
-          <p>
-            Can’t find the answer you’re looking for? <br />
-            Please chat to our friendly team.
-          </p>
-          <!-- HTML !-->
-          <button class="button-9" role="button">Get in touch</button>
-        </div>
-        <div class="about-section-content2">
-      
-
-          <div
-            style="
-              visibility: hidden;
-              position: absolute;
-              width: 0px;
-              height: 0px;
-            "
-          >
-            <svg xmlns="http://www.w3.org/2000/svg">
-              <symbol viewBox="0 0 24 24" id="expand-more">
-                <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z" />
-                <path d="M0 0h24v24H0z" fill="none" />
-              </symbol>
-              <symbol viewBox="0 0 24 24" id="close">
-                <path
-                  d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
-                />
-                <path d="M0 0h24v24H0z" fill="none" />
-              </symbol>
-            </svg>
-          </div>
-
-          <details open>
-            <summary>
-              Do you assist students who have completed Germen language get placed ?
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>Yes, we have programs such as Dual Training Program, Nurses to Germany and Drivers to Germany Programs where 
-              we assist students who have passed the required level of German Language.</p>
-          </details>
-
-          <details>
-            <summary>
-              Can I bring family to Germany?
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>Yes, you can bring family members. Specific requirements vary, so check with German authorities or the embassy 
-              for details.</p>
-          </details>
-
-          <details>
-            <summary>
-              Can i work as a Nurse in Germany without language training ? 
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>No, language proficiency is crucial. It's highly recommended to undergo German language training, especially 
-              in professions like nursing.</p>
-          </details>
-          <details>
-            <summary>
-              How much does the whole program cost
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>Cost varies based on program, duration, and location. Research specific programs for accurate estimates. 
-              Scholarships and aid may be available.</p>
-          </details>
-          <details>
-            <summary>
-              Will you assist for stay in Germany?
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>Institutions and employers often offer support for accommodation, cultural orientation, and administrative 
-              processes. Check with them for details and consider local expat communities for additional resources.</p>
-          </details>
-        </div>
-      </div>
-    </div>
+    
 
     <div class="slider1-container">
       <div class="slider1">
@@ -302,7 +118,85 @@
 
 
 </div>
-
+<section class="bg-light py-3 py-md-5">
+  <div class="container">
+    <div class="row gy-5 gy-lg-0 align-items-lg-center">
+      <div class="col-12 col-lg-6">
+        
+        <div class="about-faq-section2">
+          <div class="about-section-content1">
+            <img src="./assets/images/about-avatar-group.png" alt="" />
+            <h4>Still have questions?</h4>
+            <p>
+              Can’t find the answer you’re looking for? <br />
+              Please chat to our friendly team.
+            </p>
+            <!-- HTML !-->
+            <button class="button-9" role="button">Get in touch</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6">
+        <div class="row justify-content-xl-end">
+          <div class="col-12 col-xl-11">
+            <h2 class="h1 mb-3">Still Have Questions?</h2>
+            <p class="lead fs-4 text-secondary mb-5">Can't find the answer you'r looking for ? <br> Please chat to our friendly team.</p>
+            <div class="accordion accordion-flush" id="accordionExample">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                   What languages does EduPace Language Academy offer courses in?
+                  </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">EduPace Language Academy offers a diverse range of language courses, including but not limited to English, Spanish, French, German, and many more. Our goal is to cater to a wide array of language learners</p>
+                    <!-- <ul>
+                      <li>Go to our website and sign in to your account.</li>
+                      <li>Click on your profile picture in the top right corner of the page and select "Account Settings."</li>
+                      <li>Under the "Billing Information" section, click on "Edit."</li>
+                      <li>Make your changes and click on "Save."</li>
+                    </ul> -->
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Can I enroll in multiple language courses simultaneously ?
+                  </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">Yes, you can enroll in multiple courses simultaneously. Our flexible scheduling allows you to tailor your language learning journey according to your preferences and availability.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    What is the duration of each course?
+                  </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">Course durations vary depending on the language and proficiency level. Typically, courses range from 4 months to 6 months. You can find specific details on the duration of each course on our website or by contacting our admissions team.</p>
+                    <!-- <ul>
+                      <li>Go to our website and sign in to your account.</li>
+                      <li>Click on your profile picture in the top right corner of the page and select "Account Settings."</li>
+                      <li>Scroll to the bottom of the page and click on "Cancel Account."</li>
+                      <li>Enter your password and click on "Cancel Account."</li>
+                    </ul> -->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <?php include("header/footer.php") ?>
 
 <script>

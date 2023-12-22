@@ -61,9 +61,9 @@
         <div class="about-program-left">
             <img src="https://careoptionsforkids.com/hubfs/Imported_Blog_Media/Is-It-Hard-to-Become-a-Nurse-1.jpg" alt="img">
             <h4>PATHWAYS FOR  FOREIGN NURSES IN GERMANY</h4>
-        <p style="text-align:justify; font-family: sans-serif;">A knowledge examination  known as an anpassungslehrgang or kenntnisprufung, is a mandatory  requirement in Germany for foreign nursing professionals who want to practice their profession there.</p>
-        <p style="text-align:justify; font-family: sans-serif;">A course called Anpassungslehrgang bridges  knowledge or skill gaps between the foreign nurse's education and the German system by offering both theoretical and practical training. It facilitates their acquainting themselves with the German legal system, medical terminology, and healthcare practices.</p>
-        <p style="text-align:justify; font-family: sans-serif;">The Kenntnisprüfung is a test  in Germany to assess a candidate's nursing knowledge and abilities to ensure that they fulfill the standards and requirements set by the German healthcare system. The German nursing licensure process, known as The Kenntnisprüfung, requires passing both theoretical and practical parts in order for a candidate to be recognized as a nurse.
+        <p style="text-align:justify; font-family: sans-serif; color: #101663;  font-size: 20px;">A knowledge examination  known as an anpassungslehrgang or kenntnisprufung, is a mandatory  requirement in Germany for foreign nursing professionals who want to practice their profession there.</p>
+        <p style="text-align:justify; font-family: sans-serif; color: #101663;  font-size: 20px;">A course called Anpassungslehrgang bridges  knowledge or skill gaps between the foreign nurse's education and the German system by offering both theoretical and practical training. It facilitates their acquainting themselves with the German legal system, medical terminology, and healthcare practices.</p>
+        <p style="text-align:justify; font-family: sans-serif; color: #101663;  font-size: 20px;">The Kenntnisprüfung is a test  in Germany to assess a candidate's nursing knowledge and abilities to ensure that they fulfill the standards and requirements set by the German healthcare system. The German nursing licensure process, known as The Kenntnisprüfung, requires passing both theoretical and practical parts in order for a candidate to be recognized as a nurse.
         </div>
         <div class="about-program-right">
           
@@ -84,197 +84,6 @@
 
     </div>
 
-    <div class="about-faq">
-      <div class="about-faq-section1">
-        <h1>Frequently asked questions</h1>
-        <p>Everything you need to know about the product and billing</p>
-      </div>
-      <div class="about-faq-section2">
-        <div class="about-section-content1">
-          <img src="./assets/images/about-avatar-group.png" alt="" />
-          <h4>Still have questions?</h4>
-          <p>
-            Can’t find the answer you’re looking for? <br />
-            Please chat to our friendly team.
-          </p>
-          <!-- HTML !-->
-          <button class="button-9" role="button">Get in touch</button>
-        </div>
-        <div class="about-section-content2">
-      
-
-          <div
-            style="
-              visibility: hidden;
-              position: absolute;
-              width: 0px;
-              height: 0px;
-            "
-          >
-            <svg xmlns="http://www.w3.org/2000/svg">
-              <symbol viewBox="0 0 24 24" id="expand-more">
-                <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z" />
-                <path d="M0 0h24v24H0z" fill="none" />
-              </symbol>
-              <symbol viewBox="0 0 24 24" id="close">
-                <path
-                  d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
-                />
-                <path d="M0 0h24v24H0z" fill="none" />
-              </symbol>
-            </svg>
-          </div>
-
-          <details open>
-            <summary>
-              Do you assist students who have completed Germen language get placed ?
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>Yes, we have programs such as Dual Training Program, Nurses to Germany and Drivers to Germany Programs where 
-              we assist students who have passed the required level of German Language.</p>
-          </details>
-
-          <details>
-            <summary>
-              Can I bring family to Germany?
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>Yes, you can bring family members. Specific requirements vary, so check with German authorities or the embassy 
-              for details.</p>
-          </details>
-
-          <details>
-            <summary>
-              Can i work as a Nurse in Germany without language training ? 
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>No, language proficiency is crucial. It's highly recommended to undergo German language training, especially 
-              in professions like nursing.</p>
-          </details>
-          <details>
-            <summary>
-              How much does the whole program cost
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>Cost varies based on program, duration, and location. Research specific programs for accurate estimates. 
-              Scholarships and aid may be available.</p>
-          </details>
-          <details>
-            <summary>
-              Will you assist for stay in Germany?
-              <svg
-                class="control-icon control-icon-expand"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#expand-more"
-                />
-              </svg>
-              <svg
-                class="control-icon control-icon-close"
-                width="24"
-                height="24"
-                role="presentation"
-              >
-                <use
-                  xmlns:xlink="http://www.w3.org/1999/xlink"
-                  xlink:href="#close"
-                />
-              </svg>
-            </summary>
-            <p>Institutions and employers often offer support for accommodation, cultural orientation, and administrative 
-              processes. Check with them for details and consider local expat communities for additional resources.</p>
-          </details>
-        </div>
-      </div>
-    </div>
 
     <div class="slider1-container">
 
@@ -307,7 +116,86 @@
 
 
 </div>
-
+<section class="bg-light py-3 py-md-5">
+  <div class="container">
+    <div class="row gy-5 gy-lg-0 align-items-lg-center">
+      <div class="col-12 col-lg-6">
+        
+        <div class="about-faq-section2">
+          <div class="about-section-content1">
+            <img src="./assets/images/about-avatar-group.png" alt="" />
+            <h4>Still have questions?</h4>
+            <p>
+              Can’t find the answer you’re looking for? <br />
+              Please chat to our friendly team.
+            </p>
+            <!-- HTML !-->
+            <button class="button-9" role="button">Get in touch</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6">
+        <div class="row justify-content-xl-end">
+          <div class="col-12 col-xl-11">
+            <h2 class="h1 mb-3">Still Have Questions?</h2>
+            <p class="lead fs-4 text-secondary mb-5">Can't find the answer you'r looking for ? <br> Please chat to our friendly team.</p>
+            <div class="accordion accordion-flush" id="accordionExample">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                   What languages does EduPace Language Academy offer courses in?
+                  </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">EduPace Language Academy offers a diverse range of language courses, including but not limited to English, Spanish, French, German, and many more. Our goal is to cater to a wide array of language learners</p>
+                    <!-- <ul>
+                      <li>Go to our website and sign in to your account.</li>
+                      <li>Click on your profile picture in the top right corner of the page and select "Account Settings."</li>
+                      <li>Under the "Billing Information" section, click on "Edit."</li>
+                      <li>Make your changes and click on "Save."</li>
+                    </ul> -->
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Can I enroll in multiple language courses simultaneously ?
+                  </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">Yes, you can enroll in multiple courses simultaneously. Our flexible scheduling allows you to tailor your language learning journey according to your preferences and availability.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    What is the duration of each course?
+                  </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">Course durations vary depending on the language and proficiency level. Typically, courses range from 4 months to 6 months. You can find specific details on the duration of each course on our website or by contacting our admissions team.</p>
+                    <!-- <ul>
+                      <li>Go to our website and sign in to your account.</li>
+                      <li>Click on your profile picture in the top right corner of the page and select "Account Settings."</li>
+                      <li>Scroll to the bottom of the page and click on "Cancel Account."</li>
+                      <li>Enter your password and click on "Cancel Account."</li>
+                    </ul> -->
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+    
 <?php include("header/footer.php") ?>
 
 <script>

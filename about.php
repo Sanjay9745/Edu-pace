@@ -31,7 +31,7 @@
       </div>
       <div class="about-success-container">
         <div class="about-success-top">
-          <h3>We Support How You Support</h3>
+          <h3>We Support How You Support!</h3>
           <!-- <h2>SUPPORT</h2> -->
           <p>We Lead You To Better FUTURE</p>
         </div>

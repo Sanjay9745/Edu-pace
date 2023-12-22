@@ -46,22 +46,22 @@
         
             <!-- Right -->
             <div>
-              <a href="" class="me-4 text-reset">
+              <a href="https://www.facebook.com/profile.php?id=61551154866442" target="-blank" class="me-4 text-reset">
                 <i class="fab fa-facebook-f" style="color: white;"></i>
               </a>
               <!-- <a href="" class="me-4 text-reset">
                 <i class="fab fa-twitter" style="color: white;"></i>
               </a> -->
-              <a href="" class="me-4 text-reset">
+              <a href="tel:+919072543056" target="-blank" class="me-4 text-reset">
                 <i class="fab fa-whatsapp" style="color: white;"></i>
               </a>
-              <a href="" class="me-4 text-reset">
+              <a href="https://www.instagram.com/edu_paceacademy/" target="-blank" class="me-4 text-reset">
                 <i class="fab fa-instagram" style="color: white;"></i>
               </a>
-              <a href="" class="me-4 text-reset">
+              <!-- <a href="" class="me-4 text-reset">
                 <i class="fab fa-linkedin" style="color: white;"></i>
-              </a>
-              <a href="" class="me-4 text-reset">
+              </a> -->
+              <a href="https://youtube.com/@EduPaceLanguageAcademy?si=zIIQyCIqBHHu1sh8" target="-blank" class="me-4 text-reset">
                 <i class="fab fa-youtube" style="color: white;"></i>
               </a>
             </div>

@@ -56,9 +56,10 @@
         </div>
         <div class="contact-address">
           <h4>Address</h4>
-          <p>1234 Street Name, City Name, United States</p>
-          <p>1234 Street Name, City Name, United States</p>
-          <p>1234 Street Name, City Name, United States</p>
+          <p><i class="fas fa-home me-3" ></i> Edupace Language Academy | RVK Tower | High Road | Thrissur-01</p>
+          <p><i class="fas fa-envelope me-3" ></i><a href="mailto:info@edupace.org" style="text-decoration:none; color: black;">info@edupace.com</a></p>
+          <p><i class="fas fa-phone me-3" ></i><a href="tel:+918592925900" style="text-decoration:none; color:black;"> +91 8592925900</a></p>
+          <p><i class="fas fa-phone me-3" ></i> <a href="tel:+919072545002" style="text-decoration:none; color:black;">+91 9072545002</a></p>
         </div>
       </div>
 <!-- <div id="footer"></div> -->
