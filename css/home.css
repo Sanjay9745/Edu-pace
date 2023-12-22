@@ -328,7 +328,7 @@ transform: rotate(30deg);
 .what-does-card{
     width: 30%;
     height: 450px;
-    background:red;
+    background:rgba(255, 0, 0, 0);
     display: flex;
     align-items: flex-end;
     border-radius: 20px;
@@ -353,7 +353,7 @@ transform: rotate(30deg);
 {
     width: 316px;
     height: 560px;
-    background:red;
+    background:rgba(255, 0, 0, 0);
     display: flex;
     align-items: flex-end;
     border-radius: 20px;
@@ -363,7 +363,7 @@ transform: rotate(30deg);
 
 }
 
->>>>>>> 49bd46d30742e343f942239702ba7ef1c59e5a14
+
 .what-does-card:hover{
     scale: 1.05;
     cursor: pointer;
@@ -404,6 +404,10 @@ color: var(--dark-blue);
     color: var(--dark-blue);
     transition: all .5s ease-in-out;
     
+}
+
+iframe {
+    border-radius: 15px;
 }
 
 
