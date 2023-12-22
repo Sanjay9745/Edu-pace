@@ -60,12 +60,12 @@
               <ul class="js-sub-menu sub-menu">
                 <li><a href="training/ielts.php">English</a></li>
                 <li><a href="training/german.php">German</a></li>
-                <li><a href="#">Spanish</a></li>
-                <li><a href="#">French</a></li>
+                <li><a href="training/spanish.php">Spanish</a></li>
+                <li><a href="training/french.php">French</a></li>
               </ul>
             </li>
                <li>
-              <a href="study-abroad.php">Study Abroad</a>
+              <a href="#">Study Abroad</a>
               <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
               <ul class="htmlCss-sub-menu sub-menu">
                 <li><a href="#">Ausbildung Germany</a></li>
@@ -86,7 +86,7 @@
                 </li> -->
               </ul>
             </li>
-            <li><a href="carrer-abroad.php">Careers</a>
+            <li><a href="#">Careers</a>
               <i class="fa-solid fa-chevron-down node-arrow arrow "></i>
               <ul class="node-sub-menu sub-menu">
                 <li><a href="nursetogerman.php">Nurses To Germany</a></li>
