@@ -38,7 +38,7 @@
       <div class="navbar">
         <i class="fa-solid fa-bars open-bars"></i>
         <div class="logo">
-          <img src="assets/images/edupace-logo-ch.png" style="width: 300px; height: auto;" alt="">
+          <img src="../assets/images/edupace-logo-ch.png" style="width: 270px; height: auto;" alt="">
           <!-- <a href="#">Edu Pace Langauge Academy</a> -->
         </div>
         <button class="mobbutton-9" role="button">Get Started</button>
@@ -51,8 +51,8 @@
           </div>
           
           <ul class="links">
-            <li class="active"><a href="index.php">Home</a></li>
-              <li><a href="about.php">About Us</a></li>
+            <li class="active"><a href="../index.php">Home</a></li>
+              <li><a href="../about.php">About Us</a></li>
          
             <li>
               <a href="#">Language Training</a>
@@ -89,15 +89,15 @@
             <li><a href="carrer-abroad.php">Careers</a>
               <i class="fa-solid fa-chevron-down node-arrow arrow "></i>
               <ul class="node-sub-menu sub-menu">
-                <li><a href="nursetogerman.php">Nurses To Germany</a></li>
-                <li><a href="drivertogerman.php">Drivers To Germany</a></li>
-                <li><a href="nursetospain.php">Nurses To Spain</a></li>
+                <li><a href="../nursetogerman.php">Nurses To Germany</a></li>
+                <li><a href="../drivertogerman.php">Drivers To Germany</a></li>
+                <li><a href="../nursetospain.php">Nurses To Spain</a></li>
                 
-                <li><a href="doctorstospain.php">Doctors To Spain</a></li>
-                <li><a href="download.php">Downloads</a></li>
+                <li><a href="../doctorstospain.php">Doctors To Spain</a></li>
+                <li><a href="../download.php">Downloads</a></li>
               </ul>
             </li>
-            <li><a href="contact.php">Contact Us</a></li>
+            <li><a href="../contact.php">Contact Us</a></li>
             <li>
               <button class="button-9" role="button">Get Started</button>
             </li>

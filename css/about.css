@@ -4,10 +4,20 @@ body {
 }
 .about-container {
   width: 100%;
-  background: url("../assets/images/About-US-BG.svg");
+/*  background: url("../assets/images/About-US-BG.svg");*/
   background-size: cover;
   margin-top: 60px;
 }
+/*.about-our-profile-left p {
+  font-family: PT serif;
+
+}
+.about-study-us-right p {
+  font-family: PT serif;
+}
+.container-fluid ul {
+  font-family: PT serif;
+}*/
 .about-search-container {
   position: absolute;
   top: 5px;
@@ -100,7 +110,7 @@ body {
   border-top: 2px solid var(--white);
 }
 
-.about-success-hover:hover {
+.about-success-hover {
   color: #fff;
   box-shadow: inset 0 200px 0 0 #101663;
 }

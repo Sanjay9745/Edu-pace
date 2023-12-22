@@ -20,79 +20,7 @@
 
   </head>
   <body>
-    <nav>
-  <div class="navbar">
-    <i class="fa-solid fa-bars open-bars"></i>
-    <div class="logo">
-      <img src="../assets/images/edupace-logo.png" alt="" style="width: 250px; height: auto;" >
-      <!-- <a href="#">Edu Pace Langauge Academy</a> -->
-    </div>
-    <button class="mobbutton-9" role="button">Get Started</button>
-    <button class="nav-mob-btn" role="button">Get Started</button>
-    <div class="nav-links">
-      <div class="sidebar-logo">
-        
-      
-        <i class="fa-solid fa-xmark close-bars"></i>
-      </div>
-      
-      <ul class="links">
-        <li class="active"><a href="../index.html">Home</a></li>
-          <li><a href="about.html">About Us</a></li>
-     
-        <li>
-          <a href="education.html">Language Training</a>
-          <i class="fa-solid fa-chevron-down arrow js-arrow"></i>
-          <ul class="js-sub-menu sub-menu">
-            <li><a href="english.html">English</a></li>
-                <li><a href="#">German</a></li>
-                <li><a href="#">Spanish</a></li>
-                <li><a href="#">French</a></li>
-          </ul>
-        </li>
-           <li>
-          <a href="study-abroad.html">Study Abroad</a>
-          <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
-          <ul class="htmlCss-sub-menu sub-menu">
-            <li><a href="/education.html">Ausbildung Germany</a></li>
-                <li><a href="#">Ausbildung Spain</a></li>
-            <!-- <li class="more">
-              <span
-                ><a href="#">More</a>
-                <i class="fa-solid fa-chevron-down arrow more-arrow"></i>
-              </span>
-              <ul class="more-sub-menu sub-menu">
-                <li><a href="#">Neumorphism</a></li>
-                <li><a href="#">Pre-loader</a></li>
-                <li><a href="#">Glassmorphism</a></li>
-              </ul>
-            </li> -->
-          </ul>
-        </li>
-        <li><a href="carrer-abroad.html">Careers </a>
-          <i class="fa-solid fa-chevron-down node-arrow arrow "></i>
-          <ul class="node-sub-menu sub-menu">
-            <li><a href="#">Nurses To Germany</a></li>
-                <li><a href="#">Drivers To Germany</a></li>
-                <li><a href="#">Nurses To Spain</a></li>
-                
-                <li><a href="#">Doctors To Spain</a></li>
-          </ul>
-        </li>
-        <li><a href="contact.html">Contact Us</a></li>
-        <li>
-          <button class="button-9" role="button">Get Started</button>
-        </li>
-      </ul>
-    </div>
-    <div class="search-box">
-      <i class="bx bx-search"></i>
-      <div class="input-box">
-        <input type="text" placeholder="Search..." />
-      </div>
-    </div>
-  </div>
-</nav>
+    <?php include("header.php") ?>
 
 
   <script>
@@ -146,7 +74,7 @@
       <div class="internship-home-container">
         <div class="internship-home-header " style="background: url('assets/images/german.jpg');">
           <div class="internship-home-header-content">
-            <h1>Welcome Nurses to Germany</h1>
+            <h1>Speak Spanish with confidence and conquer the world!</h1>
             <!-- <div class="internship-home-header-middle">
               <h4>Masters Program</h4>
               <span>
@@ -158,14 +86,11 @@
               </span>
             </div> -->
             <p style="text-align:justify;">
-              The public health care system makes Germany an excellent country in which to work as a nurse. Everybody is covered by the social health care system. Germany has a strong nursing background, and nurses are in high demand there. In Germany, nurses hold a high social status as well. There are several options for nurses to work in a variety of professions in Germany, one of the wealthiest nations in Europe with a top-notch healthcare system. The pay is competitive, and the career prospects are bright. Because there aren't enough nurses to cover every position in Germany, one <br> noteworthy aspect is that nurses can specialize more than they could in other countries.
+              Individuals from all over the world travel to Spain, one of the technology giants, for a variety of reasons, including business, pleasure, and the country's renowned trade shows and exhibitions, which are held in the cities of Frankfurt, Munich, Hannover, and Berlin. Not many of the world's biggest trade shows and exhibitions are held in Spanish. There is a great demand for Spanish language proficiency because individuals from all over the world attend these trade shows, with a significant number of Indian participants.
             </p>
-            <ul>
-              <li>Career Opportunity: Florence can help any registered nurse profile find employment in Germany. We assist you in locating a company that needs a nurse with your skill set.</li>
-              <li>Attractive remuneration</li>
-              <li>Personal Development: Registered nurses can select from a variety of training programs to help them reach their objectives of improving their abilities and knowledge or specializing in a particular area of nursing.</li>
-              <li>Work life balance</li>
-            </ul>
+            <p style="text-align:justify;">
+              Three distinct levels of Spanish instruction are available at Edupace Language Academy  for students who are beginners, intermediates, and advanced. With a communicative approach to instruction, the student will begin using the new language in practice from the very first lesson. To attain international equivalency of proficiency, the training also adheres to international standards for teaching and learning.
+            </p>
           </div>
         </div>
 
@@ -193,7 +118,7 @@
             <div class="internship-home-bottom-content">
               <h2 style="color: #101663;">Community Connection:</h2>
               <br>
-              <p>Join our vibrant community of language enthusiasts. Connect with fellow learners, engage in language exchange, and practice your skills in a supportive and encouraging environment
+              <p>Join our vibrant community of language enthusiasts. Connect with fellow learners, engage in language exchange, and practice your skills in a supportive and encouraging environment.
               </p>
             </div>
             <span class="vertical-line"></span>
@@ -209,7 +134,7 @@
               <p>Beginner Level (A1-A2): Basics and Foundations</p>
               <li>
                 
-                Learn the Alphabet and Pronunciation
+                Learn the Spanish Alphabets
                 
 
                 <span></span>
@@ -217,16 +142,19 @@
               </li>
 
               <li>
-               Everyday Vocabulary
+               Familiarize with the Pronounciation
+
+
 
                 <span></span>
               </li>
               <li>
-                Grammar Basics
+                Basics Phrases and Greetings
 
                 <span></span>
               </li>
-              <li>Introduction to German Culture</li>
+              <li>Numbers and Counting<span></span></li>
+              <li>Introduction To Spanish Culture </li>
               <p>Intermediate Level (B1-B2): Building Proficiency</p>
               
             <li>Expanded Vocabulary<span></span></li>
@@ -269,7 +197,7 @@
             </ul>
           </div>
           <div class="internship-course-certification">
-            <img src="../assets/index/about-1.jpg" class="education-english" style="width: 430px; height:250px; border-radius: 20px; margin-bottom: 30%; margin-top: 3%;" alt="" />
+            <img src="../assets/index/nurses_to_germany/Spanish Thrissur - 1.jpeg" class="education-english" style="width: 430px; height:250px; border-radius: 20px; margin-bottom: 30%; margin-top: 3%;" alt="" />
             <!-- <div>
               <h3>Master's Certificate</h3>
               <p>*You will get individual certificates for each course.</p>
@@ -289,12 +217,15 @@
             <!-- <p>2500 students</p> -->
           </div>
           <div class="internship-overview-left-middle">
-            <p>German Language (Pflege - A1 to B2) for Nursing Professionals</p>
+            <p>The goal of Spanish Language Training is to improve candidates' interpersonal skills. The goal of this course is to give students a strong foundation in Spanish language proficiency at the intermediate level. There are different levels in the training program:</p>
             <br>
             <ul>
-              <li style="text-align: justify;">For their daily job in hospitals and nursing homes, nursing professionals are linguistically prepared by the course. Daily language use is the main focus, and practice-relevant material is used to teach the material. In order to ensure improved communication between nurses, patients, doctors, and other team members within German medical facilities, conversation and pronunciation exercises are implemented. Additionally, we administer German language tests for B2 Pflege. Classes at Florence Academy  are taught both in-person and online by highly motivated professionals.</li>
+              <li style="text-align: justify;">A1- The Beginners Level: This level will help the candidate gain a basic understanding of basic phrases and the most common expressions used in the Spanish- Speaking world.</li>
+              <li style="text-align: justify;">A2- The Upper Beginners Level: Gain a better understanding of the types of Sentences and expressions related to relevant areas. Learn to communicate in a simple exchange of information</li>
+              <li style="text-align: justify;">B1- The intermediate Level: This level deals with the skills like writing, reading, and listening. Candidates will gain skills to be able to structure sentences in the Spanish Language</li>
+              <li style="text-align: justify;">B2- The Upper Intermediate Level: This level deals with extra learning about the Spanish Dialects and Complex Texts. The candidate will gain knowledge to create long speeches in Spanish and smoothly explain complex thoughts</li>
             </ul>
-            <p>
+            <!-- <p>
               German Language For IT Professional
             </p>
             <br>
@@ -311,7 +242,8 @@
               <p>> Acquiring a variety of reading abilities</p>
               <p>> Multitasking when listening in German</p>
               <p>> Recognizing exam techniques</p>
-            </ul>
+            </ul> -->
+            <br><br><br><br><br><br>
           </div>
 
           <!-- <div class="internship-overview-left-bottom">
@@ -526,159 +458,7 @@
         </div>
       </div> -->
     </div>
-    <footer class="text-center text-lg-start bg-body-tertiary text-muted ">
-  <!-- Section: Social media -->
-  <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom" >
-    <!-- Left -->
-    <div class="me-5 d-none d-lg-block">
-      <span>Get connected with us on social networks:</span>
-    </div>
-    <!-- Left -->
-
-    <!-- Right -->
-    <div>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-twitter"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-google"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-instagram"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-github"></i>
-      </a>
-    </div>
-    <!-- Right -->
-  </section>
-  <!-- Section: Social media -->
-
-  <!-- Section: Links  -->
-  <section class="">
-    <div class="container text-center text-md-start mt-5">
-      <!-- Grid row -->
-      <div class="row mt-3">
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-          <!-- Content -->
-          <!-- <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem me-3"></i>Edupace Academy
-          </h6> -->
-          <img src="../assets/images/edupace-logo.png"class="mb-4" style="width: 250px; height:auto;">
-          <p style="text-align:justify;">
-            Welcome to Edupace Academy, where talent meets opportunity and careers are crafted with precision. We are architects of professional success, dedicated to connecting exceptional talent with thriving organizations.
-          </p>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            Quick Links
-          </h6>
-          <p>
-            <a href="#!" class="nav-link">Home</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">About Us</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Coaching</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Study Abroad</a>
-          </p>
-          <p>
-            <a href="" class="nav-link">Career Abroad</a>
-          </p>
-          <br>
-          <h6 class="text-uppercase fw-bold mb-4">
-            Language Training
-          </h6>
-          <p>
-            <a href="#!" class="nav-link">English</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Spanish</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">French</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">German</a>
-          </p>
-          
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            German Pogram
-          </h6>
-          <p>
-            <a href="#!" class="nav-link">Nurses</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Ausbildung</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Professionals</a>
-          </p>
-          <br>
-          <h6 class="text-uppercase fw-bold mb-4">
-            Spain Pogram
-          </h6>
-          <p>
-            <a href="#!" class="nav-link">Doctors</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Engineers</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Student</a>
-          </p>
-          <!-- <p>
-            <a href="#!" class="text-reset">Help</a>
-          </p> -->
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-          <p><i class="fas fa-home me-3"></i> Edupace Language Academy</p>
-          <p>
-            <i class="fas fa-envelope me-3"></i>
-            info@edupace.org
-          </p>
-          <p><i class="fas fa-phone me-3"></i> +91 8592925900</p>
-          <p><i class="fas fa-phone me-3"></i> +91 9072545002</p>
-        </div>
-        <!-- Grid column -->
-      </div>
-      <!-- Grid row -->
-    </div>
-  </section>
-  <!-- Section: Links  -->
-
-  <!-- Copyright -->
-  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-    © 2023 Copyright:
-    <a class="text-reset fw-bold" style="text-decoration: none;"  href="https://plusitpark.com/">Plus IT Business Park</a>
-  </div>
-  <!-- Copyright -->
-</footer>
+    <?php include("footer.php") ?>
     <script>
       const slider1 = document.querySelector(".slider1");
       let card1Width = document.querySelector(".card1").offsetWidth;

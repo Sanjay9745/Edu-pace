@@ -23,36 +23,36 @@
        
         <div class="about-hero-content" style="background-image: url('assets/index/about/about.jpg'); background-size: cover; background-repeat: no-repeat;">
           
-          <div class="about-txt">
+          <!-- <div class="about-txt">
           <p style="color: white;">The Carrier</p>
           <h2 style="color: white;">PLANNING <span>ADVISOR</span></h2>
-        </div>
+        </div> -->
         </div>
       </div>
       <div class="about-success-container">
         <div class="about-success-top">
-          <h3>We Support How You</h3>
-          <h2>SUPPORT</h2>
+          <h3>We Support How You Support</h3>
+          <!-- <h2>SUPPORT</h2> -->
           <p>We Lead You To Better FUTURE</p>
         </div>
         <div class="about-success-content">
           <div class="about-success-card">
             <a href="#" class="about-success-hover">Education</a>
-            <p style="text-align:justify;">
+            <p class="about-success-card-3-p" style="text-align:justify;">
               French, German, Spanish, and English are the languages that Edu Pace Language Academy specializes in teaching.  The faculty members are courteous, approachable, and have extensive experience in their respective fields. For students to fully acquire the language, our courses adhere to the highest standards. They also understand the diverse educational needs of our students. They employ a method that is both focused and enjoyable to teach our students how to learn a new language efficiently.
             </p>
           </div>
           <div class="about-success-card">
             <a href="#" class="about-success-hover">Study Abroad</a>
-            <p style="text-align:justify;">
-              Edupace Language Aacdemy specializes in programs for a range of disciplines, such as business, engineering, hospitality, allied health sciences, and medicine, among others. In these fields, we offer postgraduate and doctorate studies in addition to MBBS and Doctorates. Students nowadays require a global perspective in order to succeed in this competitive atmosphere. Students who are eager to broaden their horizons can find these professional opportunities from Edupace Study Abroad, a leader in the field. We provide parents as well as  students,a specialized counseling sessions to help them to choose a study abroad institution and destination.
+            <p class="about-success-card-3-p" style="text-align:justify;">
+              Edupace Language Aacdemy specializes in programs for a range of disciplines, such as business, engineering, hospitality, allied health sciences, and medicine, among others. In these fields, we offer postgraduate and doctorate studies in addition to MBBS and Doctorates. Students nowadays require a global perspective in order to succeed in this competitive atmosphere. Students who are eager to broaden their horizons can find these professional opportunities from Edupace Study Abroad, a leader in the field.
             </p>
           </div>
           <div class="about-success-card">
             <a href="#" class="about-success-hover"
               >Careers</a
             >
-            <p class="about-success-card-3-p">
+            <p class="about-success-card-3-p" style="text-align:justify;">
               Language Training We are uniquely positioned to work as your
               partner for managing the entire portfolio of selecting talents for
               your company. With a team of experienced professionals capable of
@@ -60,10 +60,7 @@
               dedicated to the growth of your business without letting the
               challenges of establishing your team get in the way. We assist our
               clients on placement services whether local or overseas for
-              qualified talents in various industries. Our Nurses to Germany is
-              one among our long running programs. We have successfully
-              selected, trained and deployed qualified registered nurses to
-              Germany.
+              qualified talents in various industries.
             </p>
           </div>
         </div>
@@ -92,15 +89,17 @@
       <div class="about-study-us-container">
         <img src="./assets/images/360_F_558614246_A8WRQufvKBipdP8f0R80FLkeIN2JPmeR 2.png" class="arrow" alt="">
         <div class="about-study-us-right">
-          <p style="text-align:justify;">
-            Comprehensive Language Courses,  Interactive Learning Tools, Intensive Language Training, Experienced Language Instructors, Personalized Learning Paths, Flexible Learning Options, Periodic Assessments. Edupace  language  academy involves highlighting the unique aspects that set it apart and make it an effective and enjoyable learning platform.
+          <p style="text-align:justify; ">Edupace Language Academy is more than just a place to learn; it's a community of language enthusiasts. Our forums, collaborative projects, and events foster a sense of belonging and provide opportunities for students to practice their language skills in real-life scenarios. Whether you're a beginner embarking on your first language learning adventure or an advanced learner seeking mastery, Edupace Language Academy  welcomes you.
           </p>
           <ul>
-            <li>Convenient Learning</li>
-            <li>Dedicated Instructors</li>
-            <li>Placement Assistance in Germany</li>
-            <li>Assertively Redefine Resource Maximizing Internal</li>
-            <li>We Prepare You for B2 Examinations</li>
+            <li>Comprehensive Language Courses</li>
+            <li>Interactive Learning Tools</li>
+            <li>Intensive Language Training</li>
+            <li>Experienced Language Instructors</li>
+            <li>Personalized Learning Paths</li>
+            <li>Flexible Learning Options</li>
+            <li>Periodic Assessments</li>
+            <li>Placement Assistance</li>
           </ul>
           <button>Show More</button>
         </div>
@@ -113,7 +112,7 @@
           <img src="./assets/images/about-girl.png" alt="" />
         </div>
       </div>
-      <div class="about-story-container">
+      <!-- <div class="about-story-container">
         <div class="about-story-content">
 
             <div class="about-story-right">
@@ -163,12 +162,15 @@
                 </div>
             </div>
         </div>
-      </div>
-      <div class="about-faq">
-        <div class="about-faq-section1">
-          <h1>Frequently asked questions</h1>
-          <p>Everything you need to know about the product and billing</p>
-        </div>
+      </div> -->
+
+
+      <!-- FAQ 1 - Bootstrap Brain Component -->
+<section class="bg-light py-3 py-md-5">
+  <div class="container">
+    <div class="row gy-5 gy-lg-0 align-items-lg-center">
+      <div class="col-12 col-lg-6">
+        
         <div class="about-faq-section2">
           <div class="about-section-content1">
             <img src="./assets/images/about-avatar-group.png" alt="" />
@@ -180,181 +182,70 @@
             <!-- HTML !-->
             <button class="button-9" role="button">Get in touch</button>
           </div>
-          <div class="about-section-content2">
-        
-  
-            <div
-              style="
-                visibility: hidden;
-                position: absolute;
-                width: 0px;
-                height: 0px;
-              "
-            >
-              <svg xmlns="http://www.w3.org/2000/svg">
-                <symbol viewBox="0 0 24 24" id="expand-more">
-                  <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z" />
-                  <path d="M0 0h24v24H0z" fill="none" />
-                </symbol>
-                <symbol viewBox="0 0 24 24" id="close">
-                  <path
-                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
-                  />
-                  <path d="M0 0h24v24H0z" fill="none" />
-                </symbol>
-              </svg>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6">
+        <div class="row justify-content-xl-end">
+          <div class="col-12 col-xl-11">
+            <h2 class="h1 mb-3">Still Have Questions?</h2>
+            <p class="lead fs-4 text-secondary mb-5">Can't find the answer you'r looking for ? <br> Please chat to our friendly team.</p>
+            <div class="accordion accordion-flush" id="accordionExample">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                   What languages does EduPace Language Academy offer courses in?
+                  </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">EduPace Language Academy offers a diverse range of language courses, including but not limited to English, Spanish, French, German, and many more. Our goal is to cater to a wide array of language learners</p>
+                    <!-- <ul>
+                      <li>Go to our website and sign in to your account.</li>
+                      <li>Click on your profile picture in the top right corner of the page and select "Account Settings."</li>
+                      <li>Under the "Billing Information" section, click on "Edit."</li>
+                      <li>Make your changes and click on "Save."</li>
+                    </ul> -->
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Can I enroll in multiple language courses simultaneously ?
+                  </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">Yes, you can enroll in multiple courses simultaneously. Our flexible scheduling allows you to tailor your language learning journey according to your preferences and availability.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    What is the duration of each course?
+                  </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">Course durations vary depending on the language and proficiency level. Typically, courses range from 4 months to 6 months. You can find specific details on the duration of each course on our website or by contacting our admissions team.</p>
+                    <!-- <ul>
+                      <li>Go to our website and sign in to your account.</li>
+                      <li>Click on your profile picture in the top right corner of the page and select "Account Settings."</li>
+                      <li>Scroll to the bottom of the page and click on "Cancel Account."</li>
+                      <li>Enter your password and click on "Cancel Account."</li>
+                    </ul> -->
+                  </div>
+                </div>
+              </div>
             </div>
-  
-            <details open>
-              <summary>
-                Do you assist students who have completed Germen language get placed ?
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>Yes, we have programs such as Dual Training Program, Nurses to Germany and Drivers to Germany Programs where 
-                we assist students who have passed the required level of German Language.</p>
-            </details>
-  
-            <details>
-              <summary>
-                Can I bring family to Germany?
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>Yes, you can bring family members. Specific requirements vary, so check with German authorities or the embassy 
-                for details.</p>
-            </details>
-  
-            <details>
-              <summary>
-                Can i work as a Nurse in Germany without language training ? 
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>No, language proficiency is crucial. It's highly recommended to undergo German language training, especially 
-                in professions like nursing.</p>
-            </details>
-            <details>
-              <summary>
-                How much does the whole program cost
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>Cost varies based on program, duration, and location. Research specific programs for accurate estimates. 
-                Scholarships and aid may be available.</p>
-            </details>
-            <details>
-              <summary>
-                Will you assist for stay in Germany?
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>Institutions and employers often offer support for accommodation, cultural orientation, and administrative 
-                processes. Check with them for details and consider local expat communities for additional resources.</p>
-            </details>
           </div>
         </div>
       </div>
+    </div>
+  </div>
+</section>
+      
       <!-- <div id="footer"></div> -->
       <?php include("header/footer.php") ?>
     </div>

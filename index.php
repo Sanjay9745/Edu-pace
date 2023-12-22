@@ -113,17 +113,17 @@
             <h3>Vision</h3>
             <p style="text-align:justify;">At EduPace Language Academy, we envision a dynamic learning environment where language mastery and professional growth intersect seamlessly. We are the trailblazers in revolutionizing hybrid language training and HR solutions, fostering a global community of culturally adept and linguistically agile individuals.</p>
             <p style="text-align:justify;">Our commitment lies in empowering learners and organizations alike through:</p>
-            <p style="text-align:justify;">Hybrid Language Proficiency: We embrace innovative pedagogies to deliver comprehensive language education that transcends boundaries. Blending technology with immersive experiences, we empower learners to communicate fluently and confidently in a multilingual world.</p>
-            <p style="text-align:justify;">Adaptive HR Solutions: We redefine HR solutions, integrating language proficiency as a cornerstone for organizational success. Our tailored programs foster diverse workplaces where language skills serve as bridges, enriching collaborations and fostering inclusivity.</p>
-            <p style="text-align:justify;">Collaborative Learning Ecosystem: We cultivate an ecosystem where collaboration thrives. Through partnerships with industry leaders, educators, and technology innovators, we create synergies that elevate both individual language competence and organizational effectiveness.</p>
-            <p style="text-align:justify;">Empowering Global Citizens: Beyond language mastery, we aim to nurture global citizens. Our programs instill cultural empathy, enabling individuals to navigate diverse landscapes with respect, understanding, and a spirit of inclusion.</p>
+            <p style="text-align:justify;"><b>Hybrid Language Proficiency:</b> We embrace innovative pedagogies to deliver comprehensive language education that transcends boundaries. Blending technology with immersive experiences, we empower learners to communicate fluently and confidently in a multilingual world.</p>
+            <p style="text-align:justify;"><b>Adaptive HR Solutions:</b> We redefine HR solutions, integrating language proficiency as a cornerstone for organizational success. Our tailored programs foster diverse workplaces where language skills serve as bridges, enriching collaborations and fostering inclusivity.</p>
+            <p style="text-align:justify;"><b>Collaborative Learning Ecosystem:</b> We cultivate an ecosystem where collaboration thrives. Through partnerships with industry leaders, educators, and technology innovators, we create synergies that elevate both individual language competence and organizational effectiveness.</p>
+            <p style="text-align:justify;"><b>Empowering Global Citizens:</b> Beyond language mastery, we aim to nurture global citizens. Our programs instill cultural empathy, enabling individuals to navigate diverse landscapes with respect, understanding, and a spirit of inclusion.</p>
 
           </div>
           <div class="vision-right">
             <img src="./assets/images/vision.png" alt="">
 
-            <p style="text-align:justify;">Innovation and Agility: We remain at the forefront of innovation, constantly evolving our methodologies and solutions to meet the ever-changing needs of the modern world. Our agility allows us to anticipate trends and pioneer new approaches in language education and HR solutions.</p>
-            <p style="text-align:justify;">Measurable Impact: We are committed to measurable outcomes. Through data-driven insights and continual assessment, we ensure that every learner and organization experiences tangible growth and development.</p>
+            <p style="text-align:justify;"><b>Innovation and Agility:</b> We remain at the forefront of innovation, constantly evolving our methodologies and solutions to meet the ever-changing needs of the modern world. Our agility allows us to anticipate trends and pioneer new approaches in language education and HR solutions.</p>
+            <p style="text-align:justify;"><b>Measurable Impact:</b> We are committed to measurable outcomes. Through data-driven insights and continual assessment, we ensure that every learner and organization experiences tangible growth and development.</p>
             <p style="text-align:justify;">At EduPace, our vision transcends conventional boundaries, creating a future where language fluency and HR excellence converge to shape a world of endless possibilities.</p>
             <p style="text-align:justify;">This vision captures EduPace Language Academy as a pioneering force in hybrid language education and HR solutions, emphasizing the fusion of language proficiency and professional development for a globally connected world.</p>
           </div>
@@ -131,6 +131,8 @@
         </div>
       </div>
       <br>
+
+
 
  <div class="container" style="background-image: url('assets/images/bg.png');" >
   <br>
@@ -185,6 +187,8 @@
             </div>
             <!-- Add tab 2, tab 3, and tab 4 content using the same structure -->
             
+
+
             <div class="tabcontent" id="tab_div1" style="display: block;">
                 <!-- Tab 1 English -->
                 <div class="row education-card-container">
@@ -235,17 +239,46 @@
         </div>
     </div>
 
+    <div class="container-fluid mt-3  row-hover-hide">
+      <h1 style="text-align:center;"><b>Start Your Journey With Us!</b></h1>
+      <br>
+      <!-- <p style="text-align:center;  font-size: 28px;">Opportunities in Spain For Doctors, Engineers and Students. </p> -->
+      <br>
+      <div class="row">
+        <div class="col p-3 text-white">
+          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 1.jpeg"  class="row-hover">
+          <br><br>
+          <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+        </div>
+        <div class="col p-3 text-white">
+          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 2.jpeg"  class="row-hover">
+          <br><br>
+          <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+        </div>
+        <div class="col p-3 text-white">
+          <img src="assets/index/nurses_to_germany/Drivers To German Thrissur - 3.jpeg"  class="row-hover">
+          <br>
+          <br>
+          <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+        </div>
+        <div class="col p-3 text-white">
+          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 5.jpeg"  class="row-hover">
+          <br>
+          <br>
+          <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+        </div>
+      </div>
+    </div>
 
-
-
-      <div class="what-does-container" >
+<!-- Mobile View -->
+      <div class="what-does-container what-does-container-hide" >
         <div class="what-does-content">
           <!-- <p class="what-does-content-desc">What does EDU PACE Offers</p> -->
           <p style="color:black; font-size: 30px;"><b>
             Matching Talent With Opportunity For a  Brighter Tomorrow</b>
           </p>
 
-          <p>
+          <p style="text-align:justify;">
             Opportunities in Spain For Doctors, Engineers and Students. 
           </p>
           <div class="what-does-cards">
@@ -387,6 +420,7 @@
         </div>
 
       </div>
+      <!-- /Mobile View -->
       <div class="what-does-container">
         <div class="what-does-content">
           <p class="what-does-content-desc">What does EDU PACE Offers</p>
@@ -494,9 +528,19 @@
       <div class="container-fluid"  id="void">
         
         <div style="width: 45%; float: left; text-align: justify; margin-left: 10px;">
-          <p style="text-align:center; font-size: 30px;"><b>Howe Can Improve Our Skills</b></p>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
-          <p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' </p>
+          <p style="text-align:center; font-size: 30px;"><b>Your Journey to Fluency Starts Here!</b></p>
+          <p>Edupace Language Academy is more than just a place to learn; it's a community of language enthusiasts. Our forums, collaborative projects, and events foster a sense of belonging and provide opportunities for students to practice their language skills in real-life scenarios. Whether you're a beginner embarking on your first language learning adventure or an advanced learner seeking mastery, Edupace Language Academy  welcomes you.</p>
+          <ul>
+            <li>Hybrid Language Learning</li>
+            <li>Advanced Digital Language Labs</li>
+            <li>Ai assistance 24/7</li>
+            <li>Ai Guru as Companion</li>
+            <li>Advanced Library Sharing System</li>
+            <li>Comprehensive Language Courses</li>
+            <li>Interactive Learning Tools</li>
+            <li>Intensive Language Training</li>
+            <li>Experienced Language Instructors</li>
+          </ul>
           <img src="assets/index/about-3.jpg" class="mx-auto d-block">>
         </div>
       </div>
@@ -505,14 +549,13 @@
         
         <div class="crop">
           <ul id="card-circle-list" style="--count: 6;">
-              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">We prepare you for 
-                B2 Examination</span></a></div></li>
-              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Convenient Learning </span></a></div></li>
-              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Placement Assistance
-                In Germany</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Personalized Learning Paths</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Flexible Learning Options</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name"> Periodic Assessments
+                </span></a></div></li>
               <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">200+ Successful 
                 Recruitments</span></a></div></li>
-              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">We Provide Placement Assitance</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Placement Assistance To Germany, Spain and Many Others</span></a></div></li>
           </ul>
         <div class="last-circle"></div>
         <div class="second-circle"></div>
@@ -526,19 +569,20 @@
       <div class="choose-us-mob-cards">
 
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll1.png');background-size: cover;">
-          <h3>We prepare you for 
-            B2 Examination</h3>
+          <h3>Personalized Learning Paths</h3>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll2.png');background-size: cover;">
-          <h3>Convenient Learning </h3>
+          <h3>Flexible Learning Options</h3>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll3.png');background-size: cover;">
-          <h3>Placement Assistance
-            In Germany</h3>
+          <h3>Periodic Assessments</h3>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll4.png');background-size: cover;">
           <h3>200+ Successful 
-            Recruitments</h3>
+                Recruitments</h3>
+        </div>
+        <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll4.png');background-size: cover;">
+          <h3>Placement Assistance To Germany, Spain and Many Others</h3>
         </div>
       </div>
     </div>

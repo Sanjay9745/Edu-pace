@@ -20,79 +20,7 @@
 
   </head>
   <body>
-    <nav>
-  <div class="navbar">
-    <i class="fa-solid fa-bars open-bars"></i>
-    <div class="logo">
-      <img src="../assets/images/edupace-logo.png" alt="" style="width: 250px; height: auto;" >
-      <!-- <a href="#">Edu Pace Langauge Academy</a> -->
-    </div>
-    <button class="mobbutton-9" role="button">Get Started</button>
-    <button class="nav-mob-btn" role="button">Get Started</button>
-    <div class="nav-links">
-      <div class="sidebar-logo">
-        
-      
-        <i class="fa-solid fa-xmark close-bars"></i>
-      </div>
-      
-      <ul class="links">
-        <li class="active"><a href="../index.html">Home</a></li>
-          <li><a href="about.html">About Us</a></li>
-     
-        <li>
-          <a href="education.html">Language Training</a>
-          <i class="fa-solid fa-chevron-down arrow js-arrow"></i>
-          <ul class="js-sub-menu sub-menu">
-            <li><a href="english.html">English</a></li>
-                <li><a href="#">German</a></li>
-                <li><a href="#">Spanish</a></li>
-                <li><a href="#">French</a></li>
-          </ul>
-        </li>
-           <li>
-          <a href="study-abroad.html">Study Abroad</a>
-          <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
-          <ul class="htmlCss-sub-menu sub-menu">
-            <li><a href="/education.html">Ausbildung Germany</a></li>
-                <li><a href="#">Ausbildung Spain</a></li>
-            <!-- <li class="more">
-              <span
-                ><a href="#">More</a>
-                <i class="fa-solid fa-chevron-down arrow more-arrow"></i>
-              </span>
-              <ul class="more-sub-menu sub-menu">
-                <li><a href="#">Neumorphism</a></li>
-                <li><a href="#">Pre-loader</a></li>
-                <li><a href="#">Glassmorphism</a></li>
-              </ul>
-            </li> -->
-          </ul>
-        </li>
-        <li><a href="carrer-abroad.html">Careers </a>
-          <i class="fa-solid fa-chevron-down node-arrow arrow "></i>
-          <ul class="node-sub-menu sub-menu">
-            <li><a href="#">Nurses To Germany</a></li>
-                <li><a href="#">Drivers To Germany</a></li>
-                <li><a href="#">Nurses To Spain</a></li>
-                
-                <li><a href="#">Doctors To Spain</a></li>
-          </ul>
-        </li>
-        <li><a href="contact.html">Contact Us</a></li>
-        <li>
-          <button class="button-9" role="button">Get Started</button>
-        </li>
-      </ul>
-    </div>
-    <div class="search-box">
-      <i class="bx bx-search"></i>
-      <div class="input-box">
-        <input type="text" placeholder="Search..." />
-      </div>
-    </div>
-  </div>
-</nav>
+    <?php include("header.php") ?>
 
 
   <script>
@@ -146,7 +74,7 @@
       <div class="internship-home-container">
         <div class="internship-home-header " style="background: url('assets/images/german.jpg');">
           <div class="internship-home-header-content">
-            <h1>Welcome Nurses to Germany</h1>
+            <h1 style="color:black;">Speak the language of success - German connects worlds</h1>
             <!-- <div class="internship-home-header-middle">
               <h4>Masters Program</h4>
               <span>
@@ -157,15 +85,19 @@
                 <i class="fa-regular fa-star"></i>
               </span>
             </div> -->
-            <p style="text-align:justify;">
-              The public health care system makes Germany an excellent country in which to work as a nurse. Everybody is covered by the social health care system. Germany has a strong nursing background, and nurses are in high demand there. In Germany, nurses hold a high social status as well. There are several options for nurses to work in a variety of professions in Germany, one of the wealthiest nations in Europe with a top-notch healthcare system. The pay is competitive, and the career prospects are bright. Because there aren't enough nurses to cover every position in Germany, one <br> noteworthy aspect is that nurses can specialize more than they could in other countries.
+            <p style="text-align:justify; color:black;">
+              In Central Europe, German is the language that is most commonly spoken. In addition, it is the most commonly spoken language in the German-speaking communities of Belgium, Liechtenstein, South Tyrol, Austria, and Switzerland. It is also an official language in Luxembourg, though it is not the majority tongue there. Nouns, pronouns, and adjectives in German have four cases: nominative, accusative, genitive, and dative. and the three genders (neutral, feminine, and masculine). and verbs, both strong and weak. That being said, one of the best ways to improve the appearance of your future is to learn German. Furthermore, after English, it is the second most commonly spoken Germanic language.
             </p>
-            <ul>
-              <li>Career Opportunity: Florence can help any registered nurse profile find employment in Germany. We assist you in locating a company that needs a nurse with your skill set.</li>
-              <li>Attractive remuneration</li>
-              <li>Personal Development: Registered nurses can select from a variety of training programs to help them reach their objectives of improving their abilities and knowledge or specializing in a particular area of nursing.</li>
-              <li>Work life balance</li>
-            </ul>
+            <br>
+            <br>
+            <br>
+            <br>
+            <!-- <ul>
+              <li style="text-align:justify; color:black;">Career Opportunity: Florence can help any registered nurse profile find employment in Germany. We assist you in locating a company <br>that needs a nurse with your skill set.</li>
+              <li style="text-align:justify; color:black;">Attractive remuneration</li>
+              <li style="text-align:justify; color:black;">Personal Development: Registered nurses can select from a variety of training programs to help them reach their objectives of improving <br> their abilities and knowledge or specializing in a particular area of nursing.</li>
+              <li style="text-align:justify; color:black;">Work life balance</li>
+            </ul> -->
           </div>
         </div>
 
@@ -301,7 +233,8 @@
             <ul>
               <li style="text-align: justify;">The goal of this course is to give IT professionals a fundamental understanding of German culture and language. The program's primary goals are: (1) Passing the A1+ German Language exam (2) Moving around in Germany (using public transportation, shopping, getting medical care, going out, and going to government agencies). (3) Understanding the key cultural differences.</li>
             </ul>
-            <h3>Exam Preparation</h3>
+            <h3><span style="color: white;">Exam Preparation</span></h3>
+            <br>
             <p>Our instruction enables you to ace exams with top marks and demonstrate your German proficiency. We provide the following advice to students:</p>
 
             <ul>
@@ -526,159 +459,7 @@
         </div>
       </div> -->
     </div>
-    <footer class="text-center text-lg-start bg-body-tertiary text-muted ">
-  <!-- Section: Social media -->
-  <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom" >
-    <!-- Left -->
-    <div class="me-5 d-none d-lg-block">
-      <span>Get connected with us on social networks:</span>
-    </div>
-    <!-- Left -->
-
-    <!-- Right -->
-    <div>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-facebook-f"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-twitter"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-google"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-instagram"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-linkedin"></i>
-      </a>
-      <a href="" class="me-4 text-reset">
-        <i class="fab fa-github"></i>
-      </a>
-    </div>
-    <!-- Right -->
-  </section>
-  <!-- Section: Social media -->
-
-  <!-- Section: Links  -->
-  <section class="">
-    <div class="container text-center text-md-start mt-5">
-      <!-- Grid row -->
-      <div class="row mt-3">
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-          <!-- Content -->
-          <!-- <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem me-3"></i>Edupace Academy
-          </h6> -->
-          <img src="../assets/images/edupace-logo.png"class="mb-4" style="width: 250px; height:auto;">
-          <p style="text-align:justify;">
-            Welcome to Edupace Academy, where talent meets opportunity and careers are crafted with precision. We are architects of professional success, dedicated to connecting exceptional talent with thriving organizations.
-          </p>
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            Quick Links
-          </h6>
-          <p>
-            <a href="#!" class="nav-link">Home</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">About Us</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Coaching</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Study Abroad</a>
-          </p>
-          <p>
-            <a href="" class="nav-link">Career Abroad</a>
-          </p>
-          <br>
-          <h6 class="text-uppercase fw-bold mb-4">
-            Language Training
-          </h6>
-          <p>
-            <a href="#!" class="nav-link">English</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Spanish</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">French</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">German</a>
-          </p>
-          
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            German Pogram
-          </h6>
-          <p>
-            <a href="#!" class="nav-link">Nurses</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Ausbildung</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Professionals</a>
-          </p>
-          <br>
-          <h6 class="text-uppercase fw-bold mb-4">
-            Spain Pogram
-          </h6>
-          <p>
-            <a href="#!" class="nav-link">Doctors</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Engineers</a>
-          </p>
-          <p>
-            <a href="#!" class="nav-link">Student</a>
-          </p>
-          <!-- <p>
-            <a href="#!" class="text-reset">Help</a>
-          </p> -->
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-          <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-          <p><i class="fas fa-home me-3"></i> Edupace Language Academy</p>
-          <p>
-            <i class="fas fa-envelope me-3"></i>
-            info@edupace.org
-          </p>
-          <p><i class="fas fa-phone me-3"></i> +91 8592925900</p>
-          <p><i class="fas fa-phone me-3"></i> +91 9072545002</p>
-        </div>
-        <!-- Grid column -->
-      </div>
-      <!-- Grid row -->
-    </div>
-  </section>
-  <!-- Section: Links  -->
-
-  <!-- Copyright -->
-  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-    © 2023 Copyright:
-    <a class="text-reset fw-bold" style="text-decoration: none;"  href="https://plusitpark.com/">Plus IT Business Park</a>
-  </div>
-  <!-- Copyright -->
-</footer>
+    <?php include("footer.php") ?>
     <script>
       const slider1 = document.querySelector(".slider1");
       let card1Width = document.querySelector(".card1").offsetWidth;
