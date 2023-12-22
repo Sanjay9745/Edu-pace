@@ -282,7 +282,7 @@
             Opportunities in Spain For Doctors, Engineers and Students. 
           </p>
           <div class="what-does-cards">
-            <div class="what-does-card" style="background:url('./assets/index/10.jpeg');background-size: cover;">
+            <div class="what-does-card " style="background:url('./assets/index/10.jpeg');background-size: cover;">
               <!-- <div class="what-does-card-content">
                 <div>
                   <h3>Rachel</h3>
@@ -294,7 +294,7 @@
               </div>
               <h2>Education</h2> -->
             </div>
-            <div class="what-does-card" style="background:url('./assets/index/11.jpeg');background-size: cover;">
+            <div class="what-does-card " style="background:url('./assets/index/11.jpeg');background-size: cover;">
               <!-- <div class="what-does-card-content">
                 <div class="what-does-card-desc">
                   <h3>Leslie Alexander</h3>
@@ -306,7 +306,7 @@
               </div>
               <h2>Study Abroad</h2> -->
             </div>
-            <div class="what-does-card" style="background:url('./assets/index/12.jpeg');background-size: cover;">
+            <div class="what-does-card " style="background:url('./assets/index/12.jpeg');background-size: cover;">
               <!-- <div class="what-does-card-content">
                 <div>
                   <h3>Courtney Henry</h3>
@@ -428,7 +428,7 @@
             We Listen And Work Together To Create A Truly Unique Experience
           </h1>
           <div class="what-does-cards">
-            <div class="what-does-card" >
+            <div class="what-does-card reel" >
               <div class="what-does-card-content">
                 <div>
                   <h3>Rachel</h3>
@@ -440,7 +440,7 @@
               </div>
               <h2>Education</h2>
             </div>
-            <div class="what-does-card" style="background:url('./assets/images/img2.png');background-size: cover;">
+            <div class="what-does-card reel" style="background:url('./assets/images/img2.png');background-size: cover;">
               <div class="what-does-card-content">
                 <div class="what-does-card-desc">
                   <h3>Leslie Alexander</h3>
@@ -452,7 +452,7 @@
               </div>
               <h2>Study Abroad</h2>
             </div>
-            <div class="what-does-card" style="background:url('./assets/images/img3.png');background-size: cover;">
+            <div class="what-does-card reel" style="background:url('./assets/images/img3.png');background-size: cover;">
               <div class="what-does-card-content">
                 <div>
                   <h3>Courtney Henry</h3>

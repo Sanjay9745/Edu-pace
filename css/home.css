@@ -337,6 +337,7 @@ transform: rotate(30deg);
     background-size: cover;
 
 }
+<<<<<<< HEAD
 .row-hover{
     border-radius: 20px;
     width: 100%;
@@ -347,6 +348,22 @@ transform: rotate(30deg);
     cursor: pointer;
     transition: all .5s ease-in-out;
 }
+=======
+.what-does-card.reel
+{
+    width: 316px;
+    height: 560px;
+    background:red;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 20px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+>>>>>>> 49bd46d30742e343f942239702ba7ef1c59e5a14
 .what-does-card:hover{
     scale: 1.05;
     cursor: pointer;
