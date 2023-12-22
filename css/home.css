@@ -335,6 +335,19 @@ transform: rotate(30deg);
     background-size: cover;
 
 }
+.what-does-card.reel
+{
+    width: 316px;
+    height: 560px;
+    background:red;
+    display: flex;
+    align-items: flex-end;
+    border-radius: 20px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
 
 .what-does-card:hover{
     scale: 1.05;

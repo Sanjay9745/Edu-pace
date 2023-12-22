@@ -12,7 +12,7 @@
 <body>
 
     <?php include("header/header.php") ?>
-  <div class="download-container" style="background-image: url('/assets/images/download.png');">
+  <div class="download-container" style="background-image: url('./assets/images/download.png');">
     <div class="download-hero-container">
       <div class="download-hero-content" >
         <div class="download-txt">
@@ -95,6 +95,87 @@
             <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
         </div>
     </div>
+
+    <div class="download-card-container">
+        <h1>Brochures</h1>
+        <div class="download-cards-inner">
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        
+        </div>
+        <div class="download-cards-inner">
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        
+        </div>
+    </div>
+    <div class="download-card-container">
+        <h1>Forms</h1>
+        <div class="download-cards-inner">
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        
+        </div>
+        <div class="download-cards-inner">
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        <div class="download-card">
+            <img src="../assets/images/download-card.png" alt="">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Brochure</h4>
+        </div>
+        
+        </div>
+    </div>
+    
+
   </div>
 
   <!-- <div id="footer"></div> -->
