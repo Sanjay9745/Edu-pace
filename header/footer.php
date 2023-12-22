@@ -81,7 +81,7 @@
                   <!-- <h6 class="text-uppercase fw-bold mb-4">
                     <i class="fas fa-gem me-3"></i>Edupace Academy
                   </h6> -->
-                  <img src="./assets/images/edupace-logo-ch.png" class="mb-4" style="width: 260px; height:auto;">
+                  <img src="./assets/images/edupace.png" class="mb-4" style="width: 260px; height:auto;">
                   <p style="text-align:justify; color: white;">
                     Welcome to Edupace Academy, where talent meets opportunity and careers are crafted with precision. We are architects of professional success, dedicated to connecting exceptional talent with thriving organizations.
                   </p>
@@ -163,13 +163,13 @@
                 <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4" style="color: white;">
                   <!-- Links -->
                   <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-                  <p><i class="fas fa-home me-3" style="color: white;"></i> Edupace Language Academy</p>
+                  <p><i class="fas fa-home me-3" style="color: white; cursor: pointer;"></i> Edupace Language Academy</p>
                   <p>
-                    <i class="fas fa-envelope me-3" style="color: white;"></i>
-                    info@edupace.org
+                    <i class="fas fa-envelope me-3" style="color: white; cursor: pointer;"></i>
+                    <a href="mailto:info@edupace.org" style="text-decoration:none; color:white;">info@edupace.org</a>
                   </p>
-                  <p><i class="fas fa-phone me-3" style="color: white;"></i> +91 8592925900</p>
-                  <p><i class="fas fa-phone me-3" style="color: white;"></i> +91 9072545002</p>
+                  <p><i class="fas fa-phone me-3" style="color: white; cursor: pointer;"></i><a href="tel:+918592925900" style="text-decoration:none; color:white;"> +91 8592925900</a></p>
+                  <p><i class="fas fa-phone me-3" style="color: white; cursor: pointer;"></i> <a href="tel:+919072545002" style="text-decoration:none; color:white;">+91 9072545002</a></p>
                 </div>
                 <!-- Grid column -->
               </div>
