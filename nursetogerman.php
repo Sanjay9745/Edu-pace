@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <link rel="stylesheet" href="/css/nurse.css">
-  <link rel="stylesheet" href="/css/about.css">
-  <link rel="stylesheet" href="/css/about-mobile.css">
+  <link rel="stylesheet" href="css/nurse.css">
+  <link rel="stylesheet" href="css/about.css">
+  <link rel="stylesheet" href="css/about-mobile.css">
   
   <title>Nurses to germany</title>
 </head>
@@ -17,19 +17,19 @@
 <div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/images/hero-slider1 (1).jpeg" class="d-block w-100" alt="Slide 1">
+      <img src="assets/images/hero-slider1 (1).jpeg" class="d-block w-100" alt="Slide 1">
       <div class="carousel-caption d-none d-md-block">
         
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/hero-slider1 (2).jpeg" class="d-block w-100" alt="Slide 2">
+      <img src="assets/images/hero-slider1 (2).jpeg" class="d-block w-100" alt="Slide 2">
       <div class="carousel-caption d-none d-md-block">
         
       </div>
     </div>
     <div class="carousel-item">
-      <img src="/assets/images/hero-slider1 (1).jpeg" class="d-block w-100" alt="Slide 3">
+      <img src="assets/images/hero-slider1 (1).jpeg" class="d-block w-100" alt="Slide 3">
       <div class="carousel-caption d-none d-md-block">
         
       </div>
@@ -274,26 +274,26 @@
 
         <div class="slider1">
             <div class="card1">
-                <img src="/assets/index/n2g (1).jpeg" alt="">
+                <img src="assets/index/nurses_to_germany/Nurses To Germany Thrissur - 4.jpeg" alt="Nurses To Germany Thrissur">
             </div>
             <div class="card1">
-                <img src="/assets/index/n2g (2).jpeg" alt="">
+                <img src="assets/index/nurses_to_germany/Nurses To Germany Thrissur - 3.jpeg" alt="Nurses To Germany Thrissur">
             </div>
             <div class="card1">
-                <img src="/assets/index/n2g (3).jpeg" alt="">
+                <img src="assets/index/nurses_to_germany/Nurses To Germany Thrissur - 2.jpeg" alt="Nurses To Germany Thrissur">
             </div>
             <div class="card1">
-                <img src="/assets/index/n2g (4).jpeg" alt="">
+                <img src="assets/index/nurses_to_germany/Nurses To Germany Thrissur - 1.jpeg" alt="Nurses To Germany Thrissur">
+            </div>
+            <!-- <div class="card1">
+                <img src="assets/index/n2g (5).jpeg" alt="">
             </div>
             <div class="card1">
-                <img src="/assets/index/n2g (5).jpeg" alt="">
-            </div>
-            <div class="card1">
-                <img src="/assets/index/n2g (6).jpeg" alt="">
+                <img src="assets/index/n2g (6).jpeg" alt="">
             </div>
             <div class="card1">
                 <img src="image.webp" alt="">
-            </div>
+            </div> -->
             <i class="fa-solid fa-arrow-left" onclick="scrollslider1(-1)"></i>
             <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
         </div>

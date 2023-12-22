@@ -88,8 +88,8 @@
 
     <div class="german-program-section">
         <div class="german-section-left">
-            <img src="/assets/images/nurse (1).jpg" alt="img">
-            <img src="/assets/images/nurse (2).jpg" alt="img1">
+            <img src="assets/images/nurse (1).jpg" alt="img">
+            <img src="assets/images/nurse (2).jpg" alt="img1">
         </div>
         <div class="german-section-right">
    
