@@ -1,0 +1,175 @@
+.testimonal-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url('../assets/images/bg2.svg');
+}
+
+.testimonal-head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+
+.testimonal-head h1{
+    font-size: 35px;
+}
+
+.testimonal-head button{
+    width: 150px;
+    height: 40px;
+    border: 1px solid #7f8081;
+    border-radius: 18px;
+    cursor: inherit;
+    background-color: #ffffff00;
+}
+
+
+
+.testimonal-head button a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+}
+
+
+
+.testimonal{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.testimonal .row{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.testimonal .row .col{
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    background: #fff;
+    text-align: center;
+    margin: 20px 10px;
+    cursor: pointer;
+}
+
+.testimonal .row .col:hover{
+    border-radius: 12px;
+    transform: scale(1.1);
+    background: #f0f2f5;
+}
+
+.testimonal .row .col img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.testimonal .row .col h3{
+    font-size: 15px;
+}
+
+.testimonal .card{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 20%);
+    transition: 0.3s;
+    height: fit-content;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+
+}
+
+.card-body{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 30px;
+    gap: 27px;
+    flex-direction: row;
+}
+
+
+.card-body-left{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card-body-left h3{
+    font-size: 15px;
+}
+
+.card-body-left img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.card-body-right{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card-body-right h3{
+    font-size: 18px;
+}
+
+
+.card-body-right img{
+    width: 60px;
+    height: auto;
+    border-radius: 50%;
+    margin-top: -25px;
+}
+
+.card-desc{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: -25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    gap: 15px;
+      
+}
+
+.card-desc h3{
+    text-align: left;
+    font-size: 20px;
+}
+
+.card-desc p{
+    text-align: left;
+    font-size: 15px;
+    color: #101663;
+}
+
+
+
