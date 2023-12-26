@@ -551,7 +551,7 @@
       </div> -->
       <div class="container-fluid"  id="void">
         
-        <div style="width: 45%; float: left; text-align: justify; margin-left: 10px;">
+        <div style="width: 45%; float: left; text-align: justify; margin-left: 30px;">
           <p style="text-align:center; font-size: 30px;"><b>Your Journey to Fluency Starts Here!</b></p>
           <p>Edupace Language Academy is more than just a place to learn; it's a community of language enthusiasts. Our forums, collaborative projects, and events foster a sense of belonging and provide opportunities for students to practice their language skills in real-life scenarios. Whether you're a beginner embarking on your first language learning adventure or an advanced learner seeking mastery, Edupace Language Academy  welcomes you.</p>
           <ul>

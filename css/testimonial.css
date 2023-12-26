@@ -95,7 +95,7 @@
     border-radius: 15px;
     box-shadow: 0 5px 25px rgba(1 1 1 / 20%);
     transition: 0.3s;
-    height: 300px;
+    height: fit-content;
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 10px;
