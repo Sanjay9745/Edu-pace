@@ -429,50 +429,68 @@
           </h1>
           <div class="what-does-cards">
               <div class="what-does-card reel" >
-                <iframe width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen autoplay playsinline></iframe>
-                
-                <div class="what-does-card-content">
+                <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen  playsinline></iframe> -->
+               <video class="videoFrame" width="100%" height="100%" controls>
+                  <source src="./assets/video/reel.mp4" type="video/mp4">
+              </video>
+                <!-- <div class="what-does-card-content"> -->
                 <!-- <div>
                   <h3>Rachel</h3>
                   <p>A student Review</p>
                 </div> -->
-                <div class="what-does-card-button">
+                <!-- <div class="what-does-card-button">
                   <i class="fa-solid fa-play"></i>
                 </div>
-              </div>
+              </div> -->
               <!-- <h2>Education</h2> -->
             </div>
             <div class="what-does-card reel" >
-                <iframe width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen></iframe>
-              <div class="what-does-card-content">
+                <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen ></iframe> -->
+                <video class="videoFrame" width="100%" height="100%" controls>
+                  <source src="./assets/video/reel.mp4" type="video/mp4">
+              </video>
+              <!-- <div class="what-does-card-content"> -->
                 <!-- <div class="what-does-card-desc">
                   <h3>Leslie Alexander</h3>
                   <p>From German University</p>
                 </div> -->
-                <div class="what-does-card-button">
+                <!-- <div class="what-does-card-button">
                   <i class="fa-solid fa-play"></i>
                 </div>
-              </div>
+              </div> -->
               <!-- <h2>Study Abroad</h2> -->
             </div>
+
             <div class="what-does-card reel" >
-                <iframe width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen></iframe>
-                
-              <div class="what-does-card-content">
+                <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen ></iframe> -->
+                <video class="videoFrame" width="100%" height="100%" controls>
+                  <source src="./assets/video/reel.mp4" type="video/mp4">
+              </video>
+              <!-- <div class="what-does-card-content"> -->
                 <!-- <div>
                   <h3>Courtney Henry</h3>
                   <p>Nurse from Germany </p>
                 </div> -->
-                <div class="what-does-card-button">
+                <!-- <div class="what-does-card-button">
                   <i class="fa-solid fa-play"></i>
                 </div>
-              </div>
+              </div> -->
               <!-- <h2>Nurses To Germany</h2> -->
             </div>
+
           </div>
         </div>
       </div>
+<script>
+    // Wait for the video to be loaded
+    document.querySelector('.videoFrame').addEventListener('loadedmetadata', function () {
+        // Access the video element
+        var videoElement = document.querySelector('.videoFrame');
 
+        // Pause the video
+        videoElement.pause();
+    });
+</script>
       <!-- <div class="choose-us-container">
         <h1>WHY CHOOSE US ?</h1>
         <div class="slider1-container">

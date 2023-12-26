@@ -93,7 +93,7 @@
                 <li><a href="../drivertogerman.php">Drivers To Germany</a></li>
                 <li><a href="../nursetospain.php">Nurses To Spain</a></li>
                 
-                <li><a href="../doctorstospain.php">Doctors To Spain</a></li>
+                <li><a href="../doctors_to_spain.php">Doctors To Spain</a></li>
                 <li><a href="../download.php">Downloads</a></li>
               </ul>
             </li>

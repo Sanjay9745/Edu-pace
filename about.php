@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>About Us</title>
+    <title>Edupace Language Academy - Thrissur No-1 Academy</title>
     <link rel="stylesheet" href="./css/index.css" />
     <link rel="stylesheet" href="./css/about.css" />
     <link rel="stylesheet" href="./css/about-mobile.css" />
@@ -38,13 +38,13 @@
         <div class="about-success-content">
           <div class="about-success-card">
             <a href="#" class="about-success-hover">Education</a>
-            <p class="about-success-card-3-p" style="text-align:justify;">
+            <p class="about-success-card-3-p" style="text-align:justify; font-family: sans-serif;">
               French, German, Spanish, and English are the languages that Edu Pace Language Academy specializes in teaching.  The faculty members are courteous, approachable, and have extensive experience in their respective fields. For students to fully acquire the language, our courses adhere to the highest standards. They also understand the diverse educational needs of our students. They employ a method that is both focused and enjoyable to teach our students how to learn a new language efficiently.
             </p>
           </div>
           <div class="about-success-card">
             <a href="#" class="about-success-hover">Study Abroad</a>
-            <p class="about-success-card-3-p" style="text-align:justify;">
+            <p class="about-success-card-3-p" style="text-align:justify; font-family: sans-serif;">
               Edupace Language Aacdemy specializes in programs for a range of disciplines, such as business, engineering, hospitality, allied health sciences, and medicine, among others. In these fields, we offer postgraduate and doctorate studies in addition to MBBS and Doctorates. Students nowadays require a global perspective in order to succeed in this competitive atmosphere. Students who are eager to broaden their horizons can find these professional opportunities from Edupace Study Abroad, a leader in the field.
             </p>
           </div>
@@ -52,7 +52,7 @@
             <a href="#" class="about-success-hover"
               >Careers</a
             >
-            <p class="about-success-card-3-p" style="text-align:justify;">
+            <p class="about-success-card-3-p" style="text-align:justify; font-family: sans-serif;">
               Language Training We are uniquely positioned to work as your
               partner for managing the entire portfolio of selecting talents for
               your company. With a team of experienced professionals capable of
@@ -77,29 +77,29 @@
           <img src="./assets/images/pic 2.png" alt="" />
         </div>
         <div class="about-our-profile-left">
-          <p style="text-align: justify;">
+          <p style="text-align: justify; font-family: sans-serif;">
             <span>Established </span>in 2015, Edu Pace Language Academy stands tall as a revered service provider excelling in language training and human resources solutions. Our robust footprint spans across the Middle East, Europe, India, and Australia, fostering trust and expertise in fulfilling diverse linguistic and HR needs. We pride ourselves on specializing in translating your HR strategies into flawless execution, tailored precisely to your envisioned outcomes.</p>
-            <p style="text-align:justify;">Venturing boldly into advanced language training support in 2017, we embarked on a transformative journey catering to talent development across seven prominent languages: English, German, Spanish, French, Hindi, Malayalam, and Japanese. Seamlessly integrating offline and online sessions, we empower our clients to meet stringent international employment requisites set by both clients and governmental bodies.</p>
-            <p style="text-align:justify;">At the core of our inception lies a collective of seasoned entrepreneurs, driven by an unwavering commitment to delivering unparalleled quality services. This steadfast dedication has yielded an exceptional client satisfaction rate of an impeccable hundred percent, a testament to our unwavering pursuit of excellence.</p>
-            <p style="text-align:justify;">Continuously striving for brilliance, Edu Pace Language Academy remains dedicated to aiding all our customers in fostering their teams' growth in the most effective and efficient manner conceivable. Our relentless pursuit of excellence extends beyond language proficiency to encompass comprehensive HR solutions.</p>
-            <p style="text-align:justify;">For further insights into Edu Pace Language Academy and our holistic language training and HR solutions, visit our website. Join us on a transformative journey towards linguistic mastery and HR prowess, tailored precisely to elevate your organizational success. </p>
+            <p style="text-align:justify; font-family: sans-serif;">Venturing boldly into advanced language training support in 2017, we embarked on a transformative journey catering to talent development across seven prominent languages: English, German, Spanish, French, Hindi, Malayalam, and Japanese. Seamlessly integrating offline and online sessions, we empower our clients to meet stringent international employment requisites set by both clients and governmental bodies.</p>
+            <p style="text-align:justify; font-family: sans-serif;">At the core of our inception lies a collective of seasoned entrepreneurs, driven by an unwavering commitment to delivering unparalleled quality services. This steadfast dedication has yielded an exceptional client satisfaction rate of an impeccable hundred percent, a testament to our unwavering pursuit of excellence.</p>
+            <p style="text-align:justify; font-family: sans-serif;">Continuously striving for brilliance, Edu Pace Language Academy remains dedicated to aiding all our customers in fostering their teams' growth in the most effective and efficient manner conceivable. Our relentless pursuit of excellence extends beyond language proficiency to encompass comprehensive HR solutions.</p>
+            <p style="text-align:justify; font-family: sans-serif;">For further insights into Edu Pace Language Academy and our holistic language training and HR solutions, visit our website. Join us on a transformative journey towards linguistic mastery and HR prowess, tailored precisely to elevate your organizational success. </p>
             
         </div>
       </div>
       <div class="about-study-us-container">
         <img src="./assets/images/360_F_558614246_A8WRQufvKBipdP8f0R80FLkeIN2JPmeR 2.png" class="arrow" alt="">
         <div class="about-study-us-right">
-          <p style="text-align:justify; ">Edupace Language Academy is more than just a place to learn; it's a community of language enthusiasts. Our forums, collaborative projects, and events foster a sense of belonging and provide opportunities for students to practice their language skills in real-life scenarios. Whether you're a beginner embarking on your first language learning adventure or an advanced learner seeking mastery, Edupace Language Academy  welcomes you.
+          <p style="text-align:justify; font-family: sans-serif;">Edupace Language Academy is more than just a place to learn; it's a community of language enthusiasts. Our forums, collaborative projects, and events foster a sense of belonging and provide opportunities for students to practice their language skills in real-life scenarios. Whether you're a beginner embarking on your first language learning adventure or an advanced learner seeking mastery, Edupace Language Academy  welcomes you.
           </p>
           <ul>
-            <li>Comprehensive Language Courses</li>
-            <li>Interactive Learning Tools</li>
-            <li>Intensive Language Training</li>
-            <li>Experienced Language Instructors</li>
-            <li>Personalized Learning Paths</li>
-            <li>Flexible Learning Options</li>
-            <li>Periodic Assessments</li>
-            <li>Placement Assistance</li>
+            <li><span style="font-family: sans-serif;">Comprehensive Language Courses</span></li>
+            <li><span style="font-family: sans-serif;">Interactive Learning Tools</span></li>
+            <li><span style="font-family: sans-serif;">Intensive Language Training</span></li>
+            <li><span style="font-family: sans-serif;">Experienced Language Instructors</span></li>
+            <li><span style="font-family: sans-serif;">Personalized Learning Paths</span></li>
+            <li><span style="font-family: sans-serif;">Flexible Learning Options</span></li>
+            <li><span style="font-family: sans-serif;">Periodic Assessments</span></li>
+            <li><span style="font-family: sans-serif;">Placement Assistance</span></li>
           </ul>
           <button>Show More</button>
         </div>

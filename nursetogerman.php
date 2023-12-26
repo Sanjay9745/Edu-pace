@@ -14,26 +14,15 @@
 <body>
     
 <?php include("header/header.php") ?>
-<div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
+<div id="heroCarousel" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/index/nurses_to_germany/Nurses To German Thrissur - 6.jpeg" class="d-block w-100" alt="Slide 1">
+      <img src="assets/index/nurses_to_germany/Nurses To German Thrissur - 6.jpg" class="d-block w-100" alt="Slide 1">
       <div class="carousel-caption d-none d-md-block">
         
       </div>
     </div>
-    <div class="carousel-item">
-      <img src="assets/images/hero-slider1 (2).jpeg" class="d-block w-100" alt="Slide 2">
-      <div class="carousel-caption d-none d-md-block">
-        
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src="assets/images/hero-slider1 (1).jpeg" class="d-block w-100" alt="Slide 3">
-      <div class="carousel-caption d-none d-md-block">
-        
-      </div>
-    </div>
+    
   </div>
 
   <!-- Navigation buttons at the bottom -->
@@ -74,11 +63,20 @@
             <span style="color: #101663;"> REGISTERED NURSES</span></h1> -->
         <p style="text-align: justify; font-family: sans-serif;">Germany has noticed a growing need for qualified nurses as the global demand for healthcare workers continues to rise.  Germany will need 3,000,000 nurses by 2030 to make up for the shortage in the labor market.</p>
         <p style="text-align: justify; font-family: sans-serif;">Several factors, such as an aging population and improvements in medical technology, are responsible for this demand. Similar to other industrialized nations, Germany is witnessing a change in its population towards an older age group. The need for nurses is growing as a result of the aging population's greater need for specialized care and healthcare services.</p>
-        </p>
-        <h4>PATHWAYS FOR  FOREIGN NURSES IN GERMANY</h4>
-        <p style="text-align:justify; font-family: sans-serif;">A knowledge examination  known as an anpassungslehrgang or kenntnisprufung, is a mandatory  requirement in Germany for foreign nursing professionals who want to practice their profession there.</p>
-        <p style="text-align:justify; font-family: sans-serif;">A course called Anpassungslehrgang bridges  knowledge or skill gaps between the foreign nurse's education and the German system by offering both theoretical and practical training. It facilitates their acquainting themselves with the German legal system, medical terminology, and healthcare practices.</p>
-        <p style="text-align:justify; font-family: sans-serif;">The Kenntnisprüfung is a test  in Germany to assess a candidate's nursing knowledge and abilities to ensure that they fulfill the standards and requirements set by the German healthcare system. The German nursing licensure process, known as The Kenntnisprüfung, requires passing both theoretical and practical parts in order for a candidate to be recognized as a nurse.
+
+        <button class="btn" style="border: 5px solid #101663; background-color: #101663;"><a style="text-decoration: none; color:white;" href="assets/index/nurses_to_germany/Nurses To German.pdf" target="-blank">Get Brochure</a></button>
+        <!-- <button class="btn" style="border: 5px solid #101663; background-color: #101663; position: absolute; margin-bottom: 14.6%; margin-left: 10%;"><a style="text-decoration: none; color:white;" href="">Contact Us</a></button> -->
+        <br>
+        <h4>Facts About German</h4>
+        <ul>
+          <li style="text-align:justify; font-family: sans-serif; margin-left: 40px;">> It is a 16- Lander Federation , Everybody has their own areas of accountability.</li>
+          <li style="text-align:justify; font-family: sans-serif; margin-left: 40px;">> Germany has a population of 83.31 million in january 2023</li>
+          <li style="text-align:justify; font-family: sans-serif; margin-left: 40px;">> Berlin is the capital city.</li>
+          <li style="text-align:justify; font-family: sans-serif; margin-left: 40px;">> Its extensive higher education and career programs, as well as the global research conducted there, make it stand out.</li>
+          <li style="text-align:justify; font-family: sans-serif; margin-left: 40px;">> Resides in the center of Europe and borders nine other countries.</li>
+          <li style="text-align:justify; font-family: sans-serif;margin-left: 40px;">> All children are required to attend school.</li>
+          <li style="text-align:justify; font-family: sans-serif;margin-left: 40px;">> Has a complex network of public insurances that shields citizens from existential threats.</li>
+        </ul>
         </div>
 
 
