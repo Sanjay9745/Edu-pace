@@ -5,9 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Edupace Language Academy - Thrissur No-1 Academy</title>
-    <link rel="stylesheet" href="./css/index.css" />
-    <link rel="stylesheet" href="./css/about.css" />
-    <link rel="stylesheet" href="./css/about-mobile.css" />
+    <link rel="stylesheet" href="css/index.css" />
+    <link rel="stylesheet" href="css/about.css" />
+    <link rel="stylesheet" href="css/about-mobile.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
@@ -47,7 +47,7 @@
             <p class="about-success-card-3-p" style="text-align:justify; font-family: sans-serif;">
               Edupace Language Aacdemy specializes in programs for a range of disciplines, such as business, engineering, hospitality, allied health sciences, and medicine, among others. In these fields, we offer postgraduate and doctorate studies in addition to MBBS and Doctorates. Students nowadays require a global perspective in order to succeed in this competitive atmosphere. Students who are eager to broaden their horizons can find these professional opportunities from Edupace Study Abroad, a leader in the field.
             </p> -->
-            <img src="assets/index/Ausbildung/Ausbildung Thrissur No - 1.jpg" style="width: 400px;" alt="Ausbildung Thrissur No - 1">
+            <img src="assets/index/Ausbildung/Ausbildung Thrissur No - 1.jpg" style="width: 400px; border-radius: 20px;" alt="Ausbildung Thrissur No - 1">
           </div>
           <div class="about-success-card">
             <a href="#" class="about-success-hover"
@@ -60,50 +60,48 @@
         </div>
       </div>
       <div class="about-our-profile-container">
-        <img src="./assets/images/360_F_558614246_A8WRQufvKBipdP8f0R80FLkeIN2JPmeR 2.png" class="arrow" alt="">
+        <img src="assets/images/360_F_558614246_A8WRQufvKBipdP8f0R80FLkeIN2JPmeR 2.png" class="arrow" alt="">
         <div class="about-our-profile-right">
           <div class="about-our-profile-right-heading">
-            <span>Edu Pace Language Academy:</span>
+            <span>EduPace Language Academy: Ausbildung Program</span>
             
           </div>  
-          <h2 style="text-align:center;">Redefining Linguistic Proficiency and HR Excellence</h2>
+          <h2 style="text-align:center;">About The Program</h2>
           <br>
-          <img src="./assets/images/pic 2.png" alt="" />
+          <img src="assets/images/pic 2.png" alt="" />
         </div>
         <div class="about-our-profile-left">
           <p style="text-align: justify; font-family: sans-serif;">
-            <span>Established </span>in 2015, Edu Pace Language Academy stands tall as a revered service provider excelling in language training and human resources solutions. Our robust footprint spans across the Middle East, Europe, India, and Australia, fostering trust and expertise in fulfilling diverse linguistic and HR needs. We pride ourselves on specializing in translating your HR strategies into flawless execution, tailored precisely to your envisioned outcomes.</p>
-            <p style="text-align:justify; font-family: sans-serif;">Venturing boldly into advanced language training support in 2017, we embarked on a transformative journey catering to talent development across seven prominent languages: English, German, Spanish, French, Hindi, Malayalam, and Japanese. Seamlessly integrating offline and online sessions, we empower our clients to meet stringent international employment requisites set by both clients and governmental bodies.</p>
-            <p style="text-align:justify; font-family: sans-serif;">At the core of our inception lies a collective of seasoned entrepreneurs, driven by an unwavering commitment to delivering unparalleled quality services. This steadfast dedication has yielded an exceptional client satisfaction rate of an impeccable hundred percent, a testament to our unwavering pursuit of excellence.</p>
-            <p style="text-align:justify; font-family: sans-serif;">Continuously striving for brilliance, Edu Pace Language Academy remains dedicated to aiding all our customers in fostering their teams' growth in the most effective and efficient manner conceivable. Our relentless pursuit of excellence extends beyond language proficiency to encompass comprehensive HR solutions.</p>
-            <p style="text-align:justify; font-family: sans-serif;">For further insights into Edu Pace Language Academy and our holistic language training and HR solutions, visit our website. Join us on a transformative journey towards linguistic mastery and HR prowess, tailored precisely to elevate your organizational success. </p>
+            Edu Pace Language Academy, established in 2015, has built a strong reputation for its exceptional language training and HR solutions across the Middle East, Europe, India, and Australia. Specializing in translating HR strategies into precise execution, we cater to diverse linguistic needs while empowering clients to excel in talent development across seven prominent languages.</p>
+            <p style="text-align: justify; font-family: sans-serif;">Driven by a collective commitment to unparalleled service quality, we pride ourselves on an impeccable hundred percent client satisfaction rate. Our dedication extends beyond language proficiency, offering comprehensive HR solutions aimed at fostering teams' growth effectively. For a deeper understanding of our transformative approach, visit our website and embark on a journey towards linguistic mastery and elevated organizational success.</p>
             
         </div>
       </div>
       <div class="about-study-us-container">
-        <img src="./assets/images/360_F_558614246_A8WRQufvKBipdP8f0R80FLkeIN2JPmeR 2.png" class="arrow" alt="">
+        <img src="assets/images/360_F_558614246_A8WRQufvKBipdP8f0R80FLkeIN2JPmeR 2.png" class="arrow" alt="">
         <div class="about-study-us-right">
-          <p style="text-align:justify; font-family: sans-serif;">Edupace Language Academy is more than just a place to learn; it's a community of language enthusiasts. Our forums, collaborative projects, and events foster a sense of belonging and provide opportunities for students to practice their language skills in real-life scenarios. Whether you're a beginner embarking on your first language learning adventure or an advanced learner seeking mastery, Edupace Language Academy  welcomes you.
+          <p style="text-align:justify; font-family: sans-serif;">Germany is renowned for its dual education system, which blends real-world work experience with vocational instruction. This method has also been included into nursing school, with a focus on theoretical understanding as well as practical abilities. In Germany, nurses have the option to pursue additional specialization and on going education in a range of nursing practice domains following the completion of their basic nursing education. This enables them to progress in their professions and get more knowledge in particular healthcare domains.
           </p>
+          <h4>What Germany Offers You</h4>
           <ul>
-            <li><span style="font-family: sans-serif;">Comprehensive Language Courses</span></li>
-            <li><span style="font-family: sans-serif;">Interactive Learning Tools</span></li>
-            <li><span style="font-family: sans-serif;">Intensive Language Training</span></li>
-            <li><span style="font-family: sans-serif;">Experienced Language Instructors</span></li>
-            <li><span style="font-family: sans-serif;">Personalized Learning Paths</span></li>
-            <li><span style="font-family: sans-serif;">Flexible Learning Options</span></li>
-            <li><span style="font-family: sans-serif;">Periodic Assessments</span></li>
-            <li><span style="font-family: sans-serif;">Placement Assistance</span></li>
+            <li><span style="font-family: sans-serif;">Spend three years living in one of the world's most developed and prosperous economies, Germany you'll be surrounded by orderly people and live in a clean, healthy atmosphere. </span></li>
+            <li><span style="font-family: sans-serif;">Receive instruction from one of Germany's top-ranked and most reputable institutions, including hands-on training in renowned hospitals</span></li>
+           
+            
           </ul>
           <button>Show More</button>
         </div>
         <div class="about-study-us-left">
             <div class="about-study-us-left-content">
 
-                <h4>Why Edu Pace</h4>
-                <h3>Why Study With Us</h3>
+                <!-- <h4>Germany Calling</h4> -->
+                <h3>GERMANY CALLING</h3>
             </div>
-          <img src="./assets/images/about-girl.png" alt="" />
+          <img src="assets/images/about-girl.png" alt="" />
+          <ul>
+             <li><span style="font-family: sans-serif;">To take part in specialized training that will prepare you both academically and practically so that you can work as a specialized nurse in Germany and the European Union's main cities.</span></li>
+              <li><span style="font-family: sans-serif;">Assured work visa and employment in Germany, as well as the ability to seek for permanent residence (after the course, once you have worked for two years</span></li>
+          </ul>
         </div>
       </div>
       <!-- <div class="about-story-container">
@@ -167,7 +165,7 @@
         
         <div class="about-faq-section2">
           <div class="about-section-content1">
-            <img src="./assets/images/about-avatar-group.png" alt="" />
+            <img src="assets/images/about-avatar-group.png" alt="" />
             <h4>Still have questions?</h4>
             <p>
               Can’t find the answer you’re looking for? <br />
@@ -243,51 +241,7 @@
       <!-- <div id="footer"></div> -->
       <?php include("header/footer.php") ?>
     </div>
-    <script defer>
-      fetch('./header.html')
-        .then(response => response.text())
-        .then(html => document.getElementById('header').innerHTML = html);
     
-      fetch('./footer.html')
-        .then(response => response.text())
-        .then(html => document.getElementById('footer').innerHTML = html);
-    
-
-          
-      const slider1 = document.querySelector(".slider1");
-        const card1 = document.querySelectorAll(".card1");
-        let card1Width = card1[0].offsetWidth;
-    
-        // Clone the slider1 content for continuous scrolling
-        slider1.innerHTML += slider1.innerHTML;
-    
-        function scrollslider1(direction) {
-            if (direction === 1) {
-                slider1.scrollBy({
-                    left: card1Width + 20,
-                    behavior: 'smooth'
-                });
-            } else if (direction === -1) {
-                slider1.scrollBy({
-                    left: -card1Width - 20,
-                    behavior: 'smooth'
-                });
-            } else {
-                slider1.scrollBy({
-                    left: card1Width + 20,
-                    behavior: 'smooth'
-                });
-            }
-    
-            // Reset scroll position to the beginning when it reaches the cloned set
-            if (slider1.scrollLeft >= slider1.scrollWidth / 2) {
-                slider1.scrollLeft = 0;
-            }
-        }
-    
-        // Automatic scroll every 3 seconds
-        setInterval(function() {scrollslider1(1)}, 3000);
-    </script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
     <script>

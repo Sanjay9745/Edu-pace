@@ -9,21 +9,21 @@
   <link rel="stylesheet" href="css/about.css">
   <link rel="stylesheet" href="css/about-mobile.css">
   
-  <title>Drivers to germany</title>
+  <title>Edupace Language Academy Thrissur No-1 Academy</title>
 </head>
 <body>
     
 <!-- <div id="header"></div> -->
 <?php include("header/header.php") ?>
-<div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
+<div id="heroCarousel" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/images/hero-slider1 (1).jpeg" class="d-block w-100" alt="Slide 1">
-      <div class="carousel-caption d-none d-md-block">
+      <img src="assets/slider/Drivers To Germany_Edupace Academy Thrissur.jpg" class="d-block w-100" alt="Drivers To Germany_Edupace Academy Thrissur">
+      <!-- <div class="carousel-caption d-none d-md-block">
         
-      </div>
+      </div> -->
     </div>
-    <div class="carousel-item">
+    <!-- <div class="carousel-item">
       <img src="assets/images/hero-slider1 (2).jpeg" class="d-block w-100" alt="Slide 2">
       <div class="carousel-caption d-none d-md-block">
         
@@ -34,11 +34,11 @@
       <div class="carousel-caption d-none d-md-block">
         
       </div>
-    </div>
+    </div> -->
   </div>
 
   <!-- Navigation buttons at the bottom -->
-  <div class="carousel-controls">
+  <!-- <div class="carousel-controls">
     <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
@@ -47,7 +47,7 @@
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
     </button>
-  </div>
+  </div> -->
 
 </div>
 
