@@ -431,7 +431,7 @@
           <div class="what-does-cards">
               <div class="what-does-card reel" >
                 <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen  playsinline></iframe> -->
-               <video class="videoFrame" width="100%" height="100%" controls>
+               <video class="videoFrame" width="100%" height="100%" controls style="border-radius: 40px;">
                   <source src="./assets/video/reel.mp4" type="video/mp4">
               </video>
                 <!-- <div class="what-does-card-content"> -->
@@ -447,7 +447,7 @@
             </div>
             <div class="what-does-card reel" >
                 <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen ></iframe> -->
-                <video class="videoFrame" width="100%" height="100%" controls>
+                <video class="videoFrame" width="100%" height="100%" controls style="border-radius: 40px;">
                   <source src="./assets/video/reel.mp4" type="video/mp4">
               </video>
               <!-- <div class="what-does-card-content"> -->
@@ -464,7 +464,7 @@
 
             <div class="what-does-card reel" >
                 <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen ></iframe> -->
-                <video class="videoFrame" width="100%" height="100%" controls>
+                <video class="videoFrame" width="100%" height="100%" controls style="border-radius: 40px;">
                   <source src="./assets/video/reel.mp4" type="video/mp4">
               </video>
               <!-- <div class="what-does-card-content"> -->
@@ -619,7 +619,7 @@
       
     <div class="testimonal-container">
       <div class="testimonal-head">
-          <button>Testimonials</button>
+          <!-- <button>Testimonials</button> -->
           <h1>What do you think!</h1>
       </div>
 
@@ -633,7 +633,7 @@
                             <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="img">
                         </div>
                         <div class="card-body-right">
-                            <h3 class="card-title">Omar D</h3>
+                            <h3 class="card-title">Vyshnavi Prasee</h3>
                             <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
                         </div>
                     </div>
@@ -653,7 +653,7 @@
                           <img src="https://cdn-icons-png.flaticon.com/128/4140/4140037.png" alt="img">
                       </div>
                       <div class="card-body-right">
-                          <h3 class="card-title">Omar D</h3>
+                          <h3 class="card-title">Dana Sidhik</h3>
                           <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
                       </div>
                   </div>
@@ -673,7 +673,7 @@
                           <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="img">
                       </div>
                       <div class="card-body-right">
-                          <h3 class="card-title">Omar D</h3>
+                          <h3 class="card-title">Sanjay </h3>
                           <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
                       </div>
                   </div>
@@ -685,120 +685,7 @@
                   </div>
                 </div>
               </div>
-              <div class="col-md-4">
-                <div class="card">
-                    <div class="card-body">
-                      <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4139/4139981.png" alt="img">
-                      </div>
-                      <div class="card-body-right">
-                          <h3 class="card-title">Omar D</h3>
-                          <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
-                      </div>
-                  </div>
-                  <div class="card-desc">
-                      <h3 class="card-title">Nayzak UI Kit</h3>
-                      <p class="card-text">If you are a business owner, and you don't 
-                        have Clonify in your toolkit just yet, I highly 
-                        recommend that you check it out.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card">
-                    <div class="card-body">
-                      <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="img">
-                      </div>
-                      <div class="card-body-right">
-                          <h3 class="card-title">Omar D</h3>
-                          <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
-                      </div>
-                  </div>
-                  <div class="card-desc">
-                      <h3 class="card-title">Nayzak UI Kit</h3>
-                      <p class="card-text">I have been using Clonify for over a year 
-                        now and I love it! I can't imagine life 
-                        without it. It's so easy to use, and the 
-                        customer service is more than great.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card">
-                    <div class="card-body">
-                      <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140051.png" alt="img">
-                      </div>
-                      <div class="card-body-right">
-                          <h3 class="card-title">Omar D</h3>
-                          <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
-                      </div>
-                  </div>
-                  <div class="card-desc">
-                      <h3 class="card-title">Nayzak UI Kit</h3>
-                      <p class="card-text">Clonify is a game-changer. Instead of 
-                          drowning in an endless chain of UI kits, 
-                          there is clear and easy accountability 
-                          meaning tasks actually get done!</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card">
-                    <div class="card-body">
-                      <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="img">
-                      </div>
-                      <div class="card-body-right">
-                          <h3 class="card-title">Omar D</h3>
-                          <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
-                      </div>
-                  </div>
-                  <div class="card-desc">
-                      <h3 class="card-title">Nayzak UI Kit</h3>
-                      <p class="card-text">We can't understand how we've been 
-                        living without Clonify.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card">
-                    <div class="card-body">
-                      <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4139/4139951.png" alt="img">
-                      </div>
-                      <div class="card-body-right">
-                          <h3 class="card-title">Omar D</h3>
-                          <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
-                      </div>
-                  </div>
-                  <div class="card-desc">
-                      <h3 class="card-title">Nayzak UI Kit</h3>
-                      <p class="card-text">With Clonify, communication between all 
-                        of us is far more efficient. A game changer.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="card">
-                    <div class="card-body">
-                      <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140061.png" alt="img">
-                      </div>
-                      <div class="card-body-right">
-                          <h3 class="card-title">Omar D</h3>
-                          <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
-                      </div>
-                  </div>
-                  <div class="card-desc">
-                      <h3 class="card-title">Nayzak UI Kit</h3>
-                      <p class="card-text">I would recommend Clonify for anyone 
-                        trying to get the word out about their 
-                        business. It has saved me so much time!</p>
-                  </div>
-                </div>
-              </div>
+              
           </div>
       </div>
     </div>   

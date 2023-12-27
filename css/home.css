@@ -279,11 +279,15 @@ transform: rotate(30deg);
 }
 
 .vision p{
-    width: 90%;
+    width: 100%;
     line-height: 2;
     font-size: 1.2rem;
     
 }
+.vision-right p{
+    margin-left: 50px;
+}
+
 
 .vision h3{
     color: var(--dark-blue);
