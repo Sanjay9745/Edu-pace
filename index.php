@@ -4,7 +4,30 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Edu Pace</title>
+    <meta name="description" content="Best Study Abroad in Thrissur">
+    <meta name="description" content="Best Study Abroad agency in Thrissur">
+    <meta name="description" content="German Study Abroad Agency in Thrissur">
+    <meta name="description" content="Germany Language Coaching in thrissur">
+    <meta name="description" content="Spanish Language coaching in thrissur">
+    <meta name="description" content="Pathway program in thrissur">
+    <meta name="description" content="Nurses to Germany in thrissur">
+    <meta name="description" content="ausbildung in Thrissur">
+    <meta name="description" content="Free ausbildung in Thrissur">
+    <meta name="description" content="Best ausbildung in Thrissur">
+    <meta name="description" content="Ausbildung in thrissur courses">
+    <meta name="description" content="Best study abroad consultants in Thrissur">
+    <meta name="description" content="Study abroad consultants in Thrissur">
+    <meta name="description" content="Education consultancy Thrissur">
+    <meta name="description" content="study abroad consultants near me">
+    <meta name="description" content="overseas Education Consultants in Thrissur">
+    <meta name="description" content="Best education consultants in Thrissur">
+    <meta name="description" content="Germany nursing recruitment agency">
+    <meta name="description" content="Nursing jobs in Germany for foreigners">
+    <meta name="description" content="Doctors to germany from india">
+    <meta name="description" content="Best doctors to germany">
+
+    <title>Edupace Language Academy Thrissur No-1 </title>
+
     <link rel="stylesheet" href="./css/index.css" />
     <link rel="stylesheet" href="./css/navbar.css" />
     <link rel="stylesheet" href="./css/home.css" />
@@ -50,13 +73,13 @@
   <!-- The slideshow/carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/images/hero-slider1 (2).jpeg" alt="Los Angeles" class="d-block" style="width:100%; background-size: cover;" >
+      <img src="assets/images/hero-slider1 (2).jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style="width:100%; background-size: cover;" >
     </div>
     <div class="carousel-item">
-      <img src="assets/images/hero-slider1 (1).jpeg" alt="Chicago" class="d-block" style="width:100%">
+      <img src="assets/images/hero-slider1 (1).jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style="width:100%">
     </div>
     <div class="carousel-item">
-      <img src="assets/slider/slider-2.jpg" alt="New York" class="d-block" style="width:100%">
+      <img src="assets/slider/slider-2.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style="width:100%">
     </div>
   </div>
   
@@ -89,7 +112,7 @@
           <p style="text-align: justify;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
           </div>
           <div class="vision-right">
-            <img src="./assets/index/about-3.jpg" alt="" >
+            <img src="./assets/index/about-3.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" >
           </div>
 
         </div>
@@ -100,7 +123,7 @@
       <div class="missionvision-container">
         <div class="mission">
           <div class="mission-left">
-            <img src="./assets/images/mission.png" alt="">
+            <img src="./assets/images/mission.png" alt="No-1 Best Study Abroad Academy In Thrissur">
           </div>
           <div class="mission-right">
             <h3>Mission</h3>
@@ -121,7 +144,7 @@
 
           </div>
           <div class="vision-right">
-            <img src="./assets/images/vision.png" alt="">
+            <img src="./assets/images/vision.png" alt="No-1 Best Study Abroad Academy In Thrissur">
 
             <p style="text-align:justify;"><b>Innovation and Agility:</b> We remain at the forefront of innovation, constantly evolving our methodologies and solutions to meet the ever-changing needs of the modern world. Our agility allows us to anticipate trends and pioneer new approaches in language education and HR solutions.</p>
             <p style="text-align:justify;"><b>Measurable Impact:</b> We are committed to measurable outcomes. Through data-driven insights and continual assessment, we ensure that every learner and organization experiences tangible growth and development.</p>
@@ -147,7 +170,7 @@
                 <div class="row education-card-container">
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/ielts.html';">
-                            <img src="assets/index/services/IELTS_1.jpg" class="card-img-top" alt="img" />
+                            <img src="assets/index/services/IELTS_1.jpg" class="card-img-top" alt="No-1 Best Study Abroad Academy In Thrissur" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">IELTS</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -159,7 +182,7 @@
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/oet.html';">
-                            <img src="assets/index/services/i1.jpg" class="card-img-top" alt="img" />
+                            <img src="assets/index/services/i1.jpg" class="card-img-top" alt="No-1 Best Study Abroad Academy In Thrissur" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">OET</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -171,7 +194,7 @@
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/german.html';">
-                            <img src="assets/index/services/german.jpg" class="card-img-top" alt="img" />
+                            <img src="assets/index/services/german.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">GERMAN</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -195,7 +218,7 @@
                 <div class="row education-card-container">
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/french.html';">
-                            <img src="assets/index/services/f1.jpg" class="card-img-top" alt="img" />
+                            <img src="assets/index/services/f1.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">SPANISH</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -207,7 +230,7 @@
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/spanish.html';">
-                            <img src="assets/index/services/SPANISH.jpg" class="card-img-top" alt="img" />
+                            <img src="assets/index/services/SPANISH.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">FRENCH</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -219,7 +242,7 @@
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/pte.html';">
-                            <img src="assets/index/services/pte1.jpg" class="card-img-top" alt="img" />
+                            <img src="assets/index/services/pte1.jpg" class="card-img-top" alt="German Language Coaching" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">PTE</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -241,13 +264,13 @@
     </div>
 
     <div class="container-fluid mt-3  row-hover-hide">
-      <h1 style="text-align:center;"><b>Start Your Journey With Us!</b></h1>
+      <h1 style="text-align:center; font-size: 50px;">Start Your Journey With Us!</h1>
       <br>
       <!-- <p style="text-align:center;  font-size: 28px;">Opportunities in Spain For Doctors, Engineers and Students. </p> -->
       <br>
       <div class="row">
         <div class="col p-3 text-white">
-          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 1.jpeg"  class="row-hover">
+          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 1.jpeg"  class="row-hover" alt="German Language Coaching">
           <br><br>
           <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
         </div>
@@ -425,9 +448,9 @@
       <div class="what-does-container">
         <div class="what-does-content">
           <!-- <p class="what-does-content-desc">What does EDU PACE Offers</p> --><br>
-          <h1>
-            Speak Beyond Borders
-          </h1>
+          <h4><span style="font-size: 50px;">
+            Speak Beyond Borders</span>
+          </h4>
           <div class="what-does-cards">
               <div class="what-does-card reel" >
                 <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen  playsinline></iframe> -->
@@ -523,7 +546,7 @@
 
 
       <div class="choose-us-container">
-        <h1>WHY CHOOSE US ?</h1>
+        <h4 style="font-size:50px;">WHY CHOOSE US ?</h4>
         <!-- <div class="slider1-container">
 
           <div class="slider1">
@@ -589,10 +612,10 @@
       </div>
     </div>
     <div class="choose-us-mob-container">
-      <h1>WHY CHOOSE US ?</h1>
+      <h4 style="font-size:50px;">WHY CHOOSE US ?</h4>
       <div class="choose-us-mob-cards">
 
-        <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll1.png');background-size: cover;">
+        <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll1.png');background-size: cover; ">
           <h3>Personalized Learning Paths</h3>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll2.png');background-size: cover;">
@@ -620,7 +643,7 @@
     <div class="testimonal-container">
       <div class="testimonal-head">
           <!-- <button>Testimonials</button> -->
-          <h1>What do you think!</h1>
+          <h4 style="font-size:50px; text-align: center;">What do you think!</h4>
       </div>
 
       <div class="testimonal ">
@@ -630,19 +653,16 @@
                   <div class="card">
                       <div class="card-body">
                         <div class="card-body-left">
-                            <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="img">
+                            <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="German Language Coaching">
                         </div>
                         <div class="card-body-right">
                             <h3 class="card-title">Vyshnavi Prasee</h3>
-                            <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
+                            <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
                         </div>
                     </div>
                     <div class="card-desc">
-                        <h3 class="card-title">Nayzak UI Kit</h3>
-                        <p class="card-text">Clonify is a game-changer. Instead of 
-                            drowning in an endless chain of UI kits, 
-                            there is clear and easy accountability 
-                            meaning tasks actually get done!</p>
+                        <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
+                        <p class="card-text" style="text-align:justify;">I had a fantastic experience with Edupace Language Academy in Thrissur. They were remarkably efficient, and they helped me through the process. Despite their tight schedule, they remained responsive throughout. I'm truly grateful and highly recommend Edupace Language Academy to anyone in Thrissur looking for an education abroad.</p>
                     </div>
                   </div>
               </div>
@@ -650,19 +670,16 @@
                 <div class="card">
                     <div class="card-body">
                       <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140037.png" alt="img">
+                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="Nurses to Germany in thrissur">
                       </div>
                       <div class="card-body-right">
                           <h3 class="card-title">Dana Sidhik</h3>
-                          <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
                       </div>
                   </div>
                   <div class="card-desc">
-                      <h3 class="card-title">Nayzak UI Kit</h3>
-                      <p class="card-text">Clonify is a game-changer. Instead of 
-                          drowning in an endless chain of UI kits, 
-                          there is clear and easy accountability 
-                          meaning tasks actually get done!</p>
+                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
+                      <p class="card-text" style="text-align:justify;">I had a great time getting my student visa for Germany through Edupace Language Academy in Thrissur. Everything went smoothly, and the team was really helpful and responsive to my questions. I want to thank the whole team for their support. I highly recommend Edupace Language Academy in Thrissur for an easy and hassle-free experience. Thanks, Team Edupace, for making my dream a reality!</p>
                   </div>
                 </div>
               </div>
@@ -670,18 +687,67 @@
                 <div class="card">
                     <div class="card-body">
                       <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="img">
+                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="Nurses to Germany in thrissur">
                       </div>
                       <div class="card-body-right">
                           <h3 class="card-title">Sanjay </h3>
-                          <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt="">
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
                       </div>
                   </div>
                   <div class="card-desc">
-                      <h3 class="card-title">Nayzak UI Kit</h3>
-                      <p class="card-text">If you are a business owner, and you don't 
-                        have Clonify in your toolkit just yet, I highly 
-                        recommend that you check it out.!</p>
+                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
+                      <p class="card-text" style="text-align:justify;">I had a great experience with Edupace Language Academy Thrissur. They helped me throughout my application process, clarified my doubts, trained me to attend the client interview, and also helped me get accommodation in the Germany without commission. I am really grateful to all the members of the Edupace Language Academy team. Thank you.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                      <div class="card-body-left">
+                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="Nurses to Germany in thrissur">
+                      </div>
+                      <div class="card-body-right">
+                          <h3 class="card-title">Anju C S </h3>
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
+                      </div>
+                  </div>
+                  <div class="card-desc">
+                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
+                      <p class="card-text" style="text-align:justify;">I strongly recommend Edupace Language Academy Thrissur for anyone dreaming of studying abroad. Their staff is knowledgeable, professional, and always ready to help with any questions. They went the extra mile to assist me in every step, from choosing the right program to handling visa applications. Their expertise, attention to detail, and personalized approach make them an excellent choice for anyone in Thrissur seeking guidance in international education.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                      <div class="card-body-left">
+                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="German Study Abroad Agency in Thrissur">
+                      </div>
+                      <div class="card-body-right">
+                          <h3 class="card-title">Swetha K Sathyan </h3>
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
+                      </div>
+                  </div>
+                  <div class="card-desc">
+                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
+                      <p class="card-text" style="text-align:justify;">Edupace Language Academy has my sincere gratitude for making my dream of studying in the Spain a reality. Thank you so much. They followed a systematic approach from beginning to end, supporting me through my journey. The whole team at Edupace is working hard to achieve my dream. All the processes and procedures are really smooth. Once again, I felt gratitude for all the team members who worked behind this successful journey to the Germany.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                      <div class="card-body-left">
+                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="No-1 Best Study Abroad Academy In Thrissur">
+                      </div>
+                      <div class="card-body-right">
+                          <h3 class="card-title">Shinto Roy </h3>
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
+                      </div>
+                  </div>
+                  <div class="card-desc">
+                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
+                      <p class="card-text" style="text-align:justify;">I strongly recommend Edupace Language Academy Thrissur for anyone dreaming of studying abroad. Their staff is knowledgeable, professional, and always ready to help with any questions. They went the extra mile to assist me in every step, from choosing the right program to handling visa applications. Their expertise, attention to detail, and personalized approach make them an excellent choice for anyone in Thrissur seeking guidance in international education.</p>
                   </div>
                 </div>
               </div>

@@ -425,6 +425,13 @@ iframe {
     text-align: center;
     margin: 50px 0;
 }
+
+.choose-us-container h4{
+    font-weight: 500;
+    color: var(--dark-blue);
+    text-align: center;
+    margin: 50px 0;
+}
 .choose-us-card{
     width: 35%;
     height: 250px;
