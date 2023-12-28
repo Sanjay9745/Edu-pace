@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html5>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -25,14 +25,20 @@
     <meta name="description" content="Nursing jobs in Germany for foreigners">
     <meta name="description" content="Doctors to germany from india">
     <meta name="description" content="Best doctors to germany">
+    <meta name="description" content="Explore unparalleled study abroad experiences in Thrissur! Discover top-notch educational opportunities, vibrant cultural immersion, and a welcoming environment. Unlock your global potential with the best study abroad programs in Thrissur. Start your transformative journey today!">
+    <meta property="og:title" content="Edu Pace">
+    <meta property="og:url" content="https://edupace.org/">
+    <meta property="og:description" content="At our academy, we are dedicated to making the journey of learning German, Spanish, French, IELTS, OET as an inspiring one. Our passionate instructors provide high-quality lessons to help you master the German, Spanish,and French language with confidence. Whether you are a beginner or looking to dee...">
+    <meta property="og:image" content="https://edupace.org/assets/images/hero-slider1 (2).jpeg">
+    <meta property="og:image:alt" content="No-1 Best Study Abroad Academy In Thrissur">
 
     <title>Edupace Language Academy Thrissur No-1 </title>
-
+    <link rel="canonical">
     <link rel="stylesheet" href="./css/index.css" />
-    <link rel="stylesheet" href="./css/navbar.css" />
+    <!-- <link rel="stylesheet" href="./css/navbar.css" /> -->
     <link rel="stylesheet" href="./css/home.css" />
     <link rel="stylesheet" href="./css/home-mobile.css" />
-    <link rel="stylesheet" href="./css/footer.css" />
+    <!-- <link rel="stylesheet" href="./css/footer.css" /> -->
     <link rel="stylesheet" href="./css/blob.css">
     <link rel="stylesheet" href="./css/animation-card.css">
     <link rel="stylesheet" href="./css/testimonial.css">
@@ -275,18 +281,18 @@
           <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
         </div>
         <div class="col p-3 text-white">
-          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 2.jpeg"  class="row-hover">
+          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 2.jpeg"  class="row-hover" alt="German Language Coaching">
           <br><br>
           <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
         </div>
         <div class="col p-3 text-white">
-          <img src="assets/index/nurses_to_germany/Drivers To German Thrissur - 3.jpeg"  class="row-hover">
+          <img src="assets/index/nurses_to_germany/Drivers To German Thrissur - 3.jpeg"  class="row-hover" alt="German Language Coaching">
           <br>
           <br>
           <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
         </div>
         <div class="col p-3 text-white">
-          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 5.jpeg"  class="row-hover">
+          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 5.jpeg"  class="row-hover" alt="German Language Coaching"> 
           <br>
           <br>
           <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
@@ -588,7 +594,7 @@
             <li>Intensive Language Training</li>
             <li>Experienced Language Instructors</li>
           </ul>
-          <img src="assets/index/about-3.jpg" class="mx-auto d-block">>
+          <img src="assets/index/about-3.jpg" class="mx-auto d-block" alt="German Language Coaching">
         </div>
       </div>
 

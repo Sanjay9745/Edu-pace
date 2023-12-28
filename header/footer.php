@@ -81,7 +81,7 @@
                   <!-- <h6 class="text-uppercase fw-bold mb-4">
                     <i class="fas fa-gem me-3"></i>Edupace Academy
                   </h6> -->
-                  <img src="./assets/images/edupace.png" class="mb-4" style="width: 260px; height:auto;">
+                  <img src="./assets/images/edupace.png" class="mb-4" style="width: 260px; height:auto;" alt="Thrissur No-1 Study Abroad Academy">
                   <p style="text-align:justify; color: white;">
                     Welcome to Edupace Academy, where talent meets opportunity and careers are crafted with precision. We are architects of professional success, dedicated to connecting exceptional talent with thriving organizations.
                   </p>
