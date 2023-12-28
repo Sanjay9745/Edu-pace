@@ -211,6 +211,102 @@ transform: rotate(30deg);
     justify-content: flex-end;
 }
 
+/* budhha content */
+
+.budhha-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.budhha-head{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.budhha-head h1{
+    color: var(--dark-blue);
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-align: center;
+
+}
+
+.budhha-head h3{
+    width: 90%;
+    text-align: center;
+    line-height: 2;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.budhha-container-body{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+
+}
+
+#budhha-container-body2{
+    flex-direction: row-reverse;
+    margin-left: -50px;
+}
+
+.budhha-body-left{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
+}
+
+.budhha-body-right{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.budhha-body-left h1{
+    color: var(--dark-blue);
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-align: center;
+
+}
+
+.budhha-body-left img{
+    width: 400px;
+    border-radius: 15px;
+}
+
+.budhha-body-right p{
+    width: 90%;
+    text-align: justify;
+    line-height: 2;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+
+
+
+/* budhha content end */
+
 .our-company-container{
     width: 100%;
 }
