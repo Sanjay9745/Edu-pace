@@ -34,7 +34,7 @@
     <meta property="og:image:alt" content="No-1 Best Study Abroad Academy In Thrissur">
 
     <title>Edupace Language Academy Thrissur No-1 </title>
-     <link rel="canonical" href="https://edupace.org/" />
+    <link rel="canonical" href="https://edupace.org/" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
     
 
@@ -101,7 +101,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
     <br>
-      <div class="our-company-container">
+    
+      <div class="our-company-container container">
 
         <div class="vision">
           <div class="vision-left">
@@ -118,8 +119,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p style="text-align: justify;">We are committed to providing an immersive and enriching experience for language learners of all levels. Our team of experienced instructors is here to guide you on a journey of linguistic discovery, fostering a supportive environment that empowers you to embrace the beauty of diverse languages.</p>
           <p style="text-align: justify;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
           </div>
-          <div class="vision-right">
-            <img src="assets/index/Study Abroad Language Academy" alt="No-1 Best Study Abroad Academy In Thrissur" >
+
+          <div class="vision-right-home">
+            <img src="./assets/index/Study Abroad Language Academy.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" >
           </div>
 
         </div>
@@ -165,7 +167,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </div>
 
-      <div class="missionvision-container">
+      <div class="missionvision-container container">
         <div class="mission">
           <div class="mission-left">
             <img src="assets/images/Study Abroad Language Academy.png" alt="No-1 Best Study Abroad Academy In Thrissur">
@@ -189,7 +191,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           </div>
           <div class="vision-right">
-            <img src="assets/images/Study Abroad Language Academy No-1.png" alt="No-1 Best Study Abroad Academy In Thrissur">
+            <img src="assets/images/Study Abroad Language Academy No-1.png" alt="No-1 Best Study Abroad Academy In Thrissur" class="vision-img">
 
             <p style="text-align:justify;"><b>Innovation and Agility:</b> We remain at the forefront of innovation, constantly evolving our methodologies and solutions to meet the ever-changing needs of the modern world. Our agility allows us to anticipate trends and pioneer new approaches in language education and HR solutions.</p>
             <p style="text-align:justify;"><b>Measurable Impact:</b> We are committed to measurable outcomes. Through data-driven insights and continual assessment, we ensure that every learner and organization experiences tangible growth and development.</p>
@@ -205,11 +207,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
  <div class="container" style="background-image: url('assets/images/bg.png');" >
   <br>
-            <p style="color:black; font-size: 30px; text-align: center;"><b>
+            <!-- <p style="color:black; font-size: 30px; text-align: center;"><b>
+
             Matching Talent With Opportunity For a  Brighter Tomorrow</b>
             <br>
-            <br>
-        <div class="tabcontents">
+            <br> -->
+            <div class="tabcontents">
+          <h1>Matching Talent With Opportunity For a  Brighter Tomorrow</h1>
             <div class="tabcontent" id="tab_div1" style="display: block;">
                 <!-- Tab 1 English -->
                 <div class="row education-card-container">
@@ -308,188 +312,128 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 
-    <div class="container-fluid mt-3  row-hover-hide">
-      <h1 style="text-align:center; font-size: 50px;">Start Your Journey With Us!</h1>
-      <br>
-      <!-- <p style="text-align:center;  font-size: 28px;">Opportunities in Spain For Doctors, Engineers and Students. </p> -->
-      <br>
-      <div class="row">
-        <div class="col p-3 text-white">
-          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 1.jpeg"  class="row-hover" alt="German Language Coaching">
-          <br><br>
-          <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
-        </div>
-        <div class="col p-3 text-white">
-          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 2.jpeg"  class="row-hover" alt="German Language Coaching">
-          <br><br>
-          <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
-        </div>
-        <div class="col p-3 text-white">
-          <img src="assets/index/nurses_to_germany/Drivers To German Thrissur - 3.jpeg"  class="row-hover" alt="German Language Coaching">
-          <br>
-          <br>
-          <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
-        </div>
-        <div class="col p-3 text-white">
-          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 5.jpeg"  class="row-hover" alt="German Language Coaching"> 
-          <br>
-          <br>
-          <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+    <div class="start-your-journey-container">
+
+    
+      <div class="container-fluid mt-3  row-hover-hide">
+        <h1 style="text-align:center; font-size: 50px;">Start Your Journey With Us!</h1>
+        <br>
+        <!-- <p style="text-align:center;  font-size: 28px;">Opportunities in Spain For Doctors, Engineers and Students. </p> -->
+        <br>
+        <div class="row">
+          <div class="col p-3 text-white">
+            <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 1.jpeg"  class="row-hover" alt="German Language Coaching">
+            <br><br>
+            <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+          </div>
+          <div class="col p-3 text-white">
+            <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 2.jpeg"  class="row-hover" alt="German Language Coaching">
+            <br><br>
+            <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+          </div>
+          <div class="col p-3 text-white">
+            <img src="assets/index/nurses_to_germany/Drivers To German Thrissur - 3.jpeg"  class="row-hover" alt="German Language Coaching">
+            <br>
+            <br>
+            <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+          </div>
+          <div class="col p-3 text-white">
+            <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 5.jpeg"  class="row-hover" alt="German Language Coaching"> 
+            <br>
+            <br>
+            <button class="btn btn-primary"style="border: 3px solid white  ; margin-left: 35%; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+          </div>
         </div>
       </div>
+
+    </div>   
+
+
+    <div class="start-your-journey-mobile">
+    <div class="container-fluid">
+  <h1 class="text-center mt-3">Start Your Journey With Us!</h1>
+
+  <!-- Carousel -->
+  <div id="mobileCardCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+
+      <!-- Card 1 -->
+      <div class="carousel-item active">
+      <div class="card">
+        <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 1.jpeg" class="card-img-top" alt="Card Image 1">
+          <div class="card-body ">
+            <button class="btn btn-primary">Explore</button>
+          </div>
+      </div>
+
+      </div>
+
+      <!-- Card 2 -->
+      <div class="carousel-item">
+        <div class="card">
+          <img src="assets/index/nurses_to_germany/Doctors To Spain Thrissur - 2.jpeg" class="card-img-top" alt="Card Image 2">
+          <div class="card-body">
+      
+            <button class="btn btn-primary">Explore</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Add more carousel items for Card 3, Card 4, ... -->
+
+      <!-- card 3 -->
+      <div class="carousel-item">
+        <div class="card">
+          <img src="assets/index/nurses_to_germany/Drivers To German Thrissur - 3.jpeg" class="card-img-top" alt="Card Image 3">
+          <div class="card-body">
+           
+            <button class="btn btn-primary">Explore</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- card 4 -->
+      <div class="carousel-item">
+        <div class="card">
+          <img src="assets/index/nurses_to_germany/Drivers To German Thrissur - 3.jpeg" class="card-img-top" alt="Card Image 4">
+          <div class="card-body">
+            
+            <button class="btn btn-primary">Explore</button>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Card 5 -->
+      <div class="carousel-item">
+        <div class="card">
+          <img src="assets/index/nurses_to_germany/Spanish Thrissur - 1.jpeg" class="card-img-top" alt="Card Image 5">
+          <div class="card-body">
+            
+            <button class="btn btn-primary">Explore</button>
+          </div>
+        </div>
+      </div>
+
+
+  
+
     </div>
 
-<!-- Mobile View -->
-      <div class="what-does-container what-does-container-hide" >
-        <div class="what-does-content">
-          <!-- <p class="what-does-content-desc">What does EDU PACE Offers</p> -->
-          <p style="color:black; font-size: 30px;"><b>
-            Matching Talent With Opportunity For a  Brighter Tomorrow</b>
-          </p>
+    <!-- Carousel Controls -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#mobileCardCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#mobileCardCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+</div>
 
-          <p style="text-align:justify;">
-            Opportunities in Spain For Doctors, Engineers and Students. 
-          </p>
-          <div class="what-does-cards">
-            <div class="what-does-card " style="background:url('./assets/index/10.jpeg');background-size: cover;">
-              <!-- <div class="what-does-card-content">
-                <div>
-                  <h3>Rachel</h3>
-                  <p>A student Review</p>
-                </div>
-                <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div>
-              <h2>Education</h2> -->
-            </div>
-            <div class="what-does-card " style="background:url('./assets/index/11.jpeg');background-size: cover;">
-              <!-- <div class="what-does-card-content">
-                <div class="what-does-card-desc">
-                  <h3>Leslie Alexander</h3>
-                  <p>From German University</p>
-                </div>
-                <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div>
-              <h2>Study Abroad</h2> -->
-            </div>
-            <div class="what-does-card " style="background:url('./assets/index/12.jpeg');background-size: cover;">
-              <!-- <div class="what-does-card-content">
-                <div>
-                  <h3>Courtney Henry</h3>
-                  <p>Nurse from Germany </p>
-                </div>
-                <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div>
-              <h2>Nurses To Germany</h2> -->
-            </div>
-            
-          </div>
-        
-<button class="btn btn-primary"style="border: 3px solid white  ; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
+    </div>
 
-          <div class="what-does-cards">
-            <div class="what-does-card" style="background:url('./assets/index/study.jpg');background-size: cover;">
-              <!-- <div class="what-does-card-content">
-                <div>
-                  <h3>Rachel</h3>
-                  <p>A student Review</p>
-                </div>
-                <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div>
-              <h2>Education</h2> -->
-            </div>
-            <div class="what-does-card" style="background:url('./assets/index/study-2.jpeg');background-size: cover;">
-              <!-- <div class="what-does-card-content">
-                <div class="what-does-card-desc">
-                  <h3>Leslie Alexander</h3>
-                  <p>From German University</p>
-                </div>
-                <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div>
-              <h2>Study Abroad</h2> -->
-            </div>
-            <div class="what-does-card" style="background:url('./assets/index/study-3.jpg');background-size: cover;">
-              <!-- <div class="what-does-card-content">
-                <div>
-                  <h3>Courtney Henry</h3>
-                  <p>Nurse from Germany </p>
-                </div>
-                <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div>
-              <h2>Nurses To Germany</h2> -->
-            </div>
-
-          </div>
-
-          <!-- <button style="border: 2px solid white  ; background-color: #101663;;color: white; cursor: pointer; width: 10%;height: 50px; border-radius: 20px; ">Explore More</button> -->
-          <!-- <button class="button-3" >Explore More</button>  -->
-
-          <button class="btn btn-primary"style="border: 3px solid white  ; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
-
-          <div class="what-does-cards">
-            <div class="what-does-card" style="background:url('./assets/index/study-6.jpeg');background-size: cover;">
-              <!-- <div class="what-does-card-content">
-                <div>
-                  <h3>Rachel</h3>
-                  <p>A student Review</p>
-                </div>
-                <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div>
-              <h2>Education</h2> -->
-            </div>
-            <div class="what-does-card" style="background:url('./assets/index/study-7.jpeg');background-size: cover;">
-              <!-- <div class="what-does-card-content">
-                <div class="what-does-card-desc">
-                  <h3>Leslie Alexander</h3>
-                  <p>From German University</p>
-                </div>
-                <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div>
-              <h2>Study Abroad</h2> -->
-            </div>
-            <div class="what-does-card" style="background:url('./assets/index/study-8.jpeg');background-size: cover;">
-              <!-- <div class="what-does-card-content">
-                <div>
-                  <h3>Courtney Henry</h3>
-                  <p>Nurse from Germany </p>
-                </div>
-                <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div>
-              <h2>Nurses To Germany</h2> -->
-            </div>
-            
-          </div>
-        
-<button class="btn btn-primary"style="border: 3px solid white  ; background-color: #101663; cursor: pointer; border-radius: 20px; ">Explore More</button>
-<br>
-      
-          
-  
-          
-          
-            
-          </div>
-        </div>
-
-      </div>
-      <!-- /Mobile View -->
       <div class="what-does-container">
         <div class="what-does-content">
           <!-- <p class="what-does-content-desc">What does EDU PACE Offers</p> --><br>
