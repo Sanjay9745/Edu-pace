@@ -25,6 +25,7 @@
     <meta name="description" content="Nursing jobs in Germany for foreigners">
     <meta name="description" content="Doctors to germany from india">
     <meta name="description" content="Best doctors to germany">
+    <meta name="description" content="Established in 2015, Edu Pace Language Academy stands tall as a revered service provider excelling in language training and human resources solutions. Our robust footprint spans across the Middle East, Europe, India, and Australia, fostering trust and expertise in fulfilling diverse linguistic and HR needs. We pride ourselves on specializing in translating your HR strategies into flawless execution, tailored precisely to your envisioned outcomes.">
     <meta name="description" content="Explore unparalleled study abroad experiences in Thrissur! Discover top-notch educational opportunities, vibrant cultural immersion, and a welcoming environment. Unlock your global potential with the best study abroad programs in Thrissur. Start your transformative journey today!">
     <meta property="og:title" content="Edu Pace">
     <meta property="og:url" content="https://edupace.org/">
@@ -33,20 +34,11 @@
     <meta property="og:image:alt" content="No-1 Best Study Abroad Academy In Thrissur">
 
     <title>Edupace Language Academy Thrissur No-1 </title>
-    <link rel="canonical">
-    <link rel="stylesheet" href="./css/index.css" />
-    <!-- <link rel="stylesheet" href="./css/navbar.css" /> -->
-    <link rel="stylesheet" href="./css/home.css" />
-    <link rel="stylesheet" href="./css/home-mobile.css" />
-    <!-- <link rel="stylesheet" href="./css/footer.css" /> -->
-    <link rel="stylesheet" href="./css/blob.css">
-    <link rel="stylesheet" href="./css/animation-card.css">
-    <link rel="stylesheet" href="./css/testimonial.css">
+     <link rel="canonical" href="https://edupace.org/" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
     
 
-    <!-- <link rel="stylesheet" href="./css/education.css" /> -->
-
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <link
       rel="stylesheet"
@@ -58,12 +50,20 @@
 
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-    <!-- <link rel="stylesheet" type="text/css" media="screen" href="style.css" /> -->
-    <link rel="stylesheet" href="animation-card.css">
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-ND928RWF');</script>
+<!-- End Google Tag Manager -->
   </head>
   <body>
-
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-ND928RWF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
     <?php include("header/header.php") ?>
   
     
@@ -79,13 +79,13 @@
   <!-- The slideshow/carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/images/hero-slider1 (2).jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style="width:100%; background-size: cover;" >
+      <img src="assets/slider/Spanish Language Academy Thrissur No-1.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" width:100% style=" background-size: cover;" >
     </div>
     <div class="carousel-item">
-      <img src="assets/images/hero-slider1 (1).jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style="width:100%">
+      <img src="assets/slider/Nurses To Spain Thrissur No-1 Language Academy.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" width:100% style="background-size: cover;">
     </div>
     <div class="carousel-item">
-      <img src="assets/slider/slider-2.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style="width:100%">
+      <img src="assets/slider/German Language Academy Thrissur No-1.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" width:100% style="background-size: cover;">
     </div>
   </div>
   
@@ -118,7 +118,7 @@
           <p style="text-align: justify;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
           </div>
           <div class="vision-right">
-            <img src="./assets/index/about-3.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" >
+            <img src="assets/index/Study Abroad Language Academy" alt="No-1 Best Study Abroad Academy In Thrissur" >
           </div>
 
         </div>
@@ -129,7 +129,7 @@
       <div class="missionvision-container">
         <div class="mission">
           <div class="mission-left">
-            <img src="./assets/images/mission.png" alt="No-1 Best Study Abroad Academy In Thrissur">
+            <img src="assets/images/Study Abroad Language Academy.png" alt="No-1 Best Study Abroad Academy In Thrissur">
           </div>
           <div class="mission-right">
             <h3>Mission</h3>
@@ -150,7 +150,7 @@
 
           </div>
           <div class="vision-right">
-            <img src="./assets/images/vision.png" alt="No-1 Best Study Abroad Academy In Thrissur">
+            <img src="assets/images/Study Abroad Language Academy No-1.png" alt="No-1 Best Study Abroad Academy In Thrissur">
 
             <p style="text-align:justify;"><b>Innovation and Agility:</b> We remain at the forefront of innovation, constantly evolving our methodologies and solutions to meet the ever-changing needs of the modern world. Our agility allows us to anticipate trends and pioneer new approaches in language education and HR solutions.</p>
             <p style="text-align:justify;"><b>Measurable Impact:</b> We are committed to measurable outcomes. Through data-driven insights and continual assessment, we ensure that every learner and organization experiences tangible growth and development.</p>
@@ -175,8 +175,8 @@
                 <!-- Tab 1 English -->
                 <div class="row education-card-container">
                     <div class="col-md-4 mb-4">
-                        <div class="card edu-card" onclick="location.href='./training/ielts.html';">
-                            <img src="assets/index/services/IELTS_1.jpg" class="card-img-top" alt="No-1 Best Study Abroad Academy In Thrissur" />
+                        <div class="card edu-card" onclick="location.href='training/ielts.html';">
+                            <img src="assets/index/services/Thrissur No-1 IELTS Coaching Center.jpg" class="card-img-top" alt="Thrissur No-1 IELTS Coaching Center" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">IELTS</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -187,8 +187,8 @@
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
-                        <div class="card edu-card" onclick="location.href='./training/oet.html';">
-                            <img src="assets/index/services/i1.jpg" class="card-img-top" alt="No-1 Best Study Abroad Academy In Thrissur" />
+                        <div class="card edu-card" onclick="location.href='training/oet.html';">
+                            <img src="assets/index/services/Thrissur No-1 OET Coaching Center.jpg" class="card-img-top" alt="No-1 Best Study Abroad Academy In Thrissur" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">OET</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -199,8 +199,8 @@
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
-                        <div class="card edu-card" onclick="location.href='./training/german.html';">
-                            <img src="assets/index/services/german.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
+                        <div class="card edu-card" onclick="location.href='training/german.html';">
+                            <img src="assets/index/services/Thrissur No-1 GERMAN Coaching Center.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">GERMAN</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -224,7 +224,7 @@
                 <div class="row education-card-container">
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/french.html';">
-                            <img src="assets/index/services/f1.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
+                            <img src="assets/index/services/Thrissur No-1 FRENCH Coaching Center.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">SPANISH</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -236,7 +236,7 @@
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/spanish.html';">
-                            <img src="assets/index/services/SPANISH.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
+                            <img src="assets/index/services/Thrissur No-1 SPANISHCoaching Center.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">FRENCH</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -248,7 +248,7 @@
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/pte.html';">
-                            <img src="assets/index/services/pte1.jpg" class="card-img-top" alt="German Language Coaching" />
+                            <img src="assets/index/services/Thrissur No-1 PTE Coaching Center.jpg" class="card-img-top" alt="German Language Coaching" />
                             <!-- <div class="card-body">
                                 <h1 class="card-title">PTE</h1>
                                 <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
@@ -459,7 +459,7 @@
           </h4>
           <div class="what-does-cards">
               <div class="what-does-card reel" >
-                <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen  playsinline></iframe> -->
+                
                <video class="videoFrame" width="100%" height="100%" controls style="border-radius: 40px;">
                   <source src="./assets/video/reel.mp4" type="video/mp4">
               </video>
@@ -475,7 +475,7 @@
               <!-- <h2>Education</h2> -->
             </div>
             <div class="what-does-card reel" >
-                <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen ></iframe> -->
+                
                 <video class="videoFrame" width="100%" height="100%" controls style="border-radius: 40px;">
                   <source src="./assets/video/reel.mp4" type="video/mp4">
               </video>
@@ -492,7 +492,7 @@
             </div>
 
             <div class="what-does-card reel" >
-                <!-- <iframe class="videoFrame" width="100%" height="100%" src="./assets/video/reel.mp4" frameborder="0" allowfullscreen ></iframe> -->
+                
                 <video class="videoFrame" width="100%" height="100%" controls style="border-radius: 40px;">
                   <source src="./assets/video/reel.mp4" type="video/mp4">
               </video>

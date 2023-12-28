@@ -4,41 +4,20 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Edu Pace</title>
-    <link rel="stylesheet" href="./css/index.css" />
-    <link rel="stylesheet" href="./css/navbar.css" />
-    <link rel="stylesheet" href="./css/home.css" />
-    <link rel="stylesheet" href="./css/home-mobile.css" />
-    <link rel="stylesheet" href="./css/footer.css" />
-    <link rel="stylesheet" href="./css/blob.css">
-    <link rel="stylesheet" href="./css/animation-card.css">
-    
-
-    <!-- <link rel="stylesheet" href="./css/education.css" /> -->
+    <title>Edupace Language Academy Thrissur No-1</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
-
-
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-    <!-- <link rel="stylesheet" type="text/css" media="screen" href="style.css" /> -->
-    <link rel="stylesheet" href="animation-card.css">
+    <
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   </head>
   <body>
 
-    <nav>
+    <nav class="container-fluid">
       <div class="navbar">
         <i class="fa-solid fa-bars open-bars"></i>
         <div class="logo">
-          <img src="assets/images/edupace-logo-ch.png" style="width: 300px; height: auto;" alt="Thrissur No-1 Study Abroad Academy">
+          <img src="assets/images/edupace-logo-ch.png" width: 300px height: auto alt="Thrissur No-1 Study Abroad Academy">
           <!-- <a href="#">Edu Pace Langauge Academy</a> -->
         </div>
         <button class="mobbutton-9" role="button">Get Started</button>
