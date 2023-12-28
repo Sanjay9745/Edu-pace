@@ -69,7 +69,7 @@
               <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
               <ul class="htmlCss-sub-menu sub-menu">
                 <li><a href="#">Ausbildung Germany</a></li>
-                <li><a href="#">Vocation Training Program In Spain</a></li>
+                <li><a href="../vocational_training.php">Vocation Training Program In Spain</a></li>
                 <li><a href="#">Masters Program at Germany</a></li>
                 <li><a href="#">Doctors To Europe</a></li>
                 <li><a href="#">Paid Internship Program</a></li>
