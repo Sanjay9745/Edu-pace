@@ -19,7 +19,7 @@
 <div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="./assets/slider/Doctors to Spain_ Edupace Language Academy_Thrissur.jpg" class="d-block w-100" alt="Slide 1">
+        <img src="./assets/slider/vocational-training-program-in-spain_edupace-Academy-Thrissur.jpg" class="d-block w-100" alt="Slide 1">
         <div class="carousel-caption d-none d-md-block">
           
         </div>

@@ -7,7 +7,7 @@
   
   
   
-  <title>Download</title>
+  <title>Edupace Language Academy Thrissur No-1</title>
 </head>
 <body>
 
@@ -22,105 +22,33 @@
     </div>
   </div>
 
-  <div class="brochure-container">
-    <div class="slider1-container">
-        <h2>Brochures</h2>
-        <div class="slider1">
-            <div class="card1">
-                <img src="image.webp" alt="">
-                <a href="image.webp" download="image1">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <!-- ... (repeat for other cards) ... -->
-            <i class="fa-solid fa-arrow-left" onclick="scrollslider1(-1)"></i>
-            <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
-        </div>
-    </div>
-    <div class="slider1-container">
-        <h2>Forms</h2>
-        <div class="slider1">
-            <div class="card1">
-                <img src="image.webp" alt="">
-                <a href="image.webp" download="image1">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <div class="card1">
-                <img src="image2.webp" alt="">
-                <a href="image2.webp" download="image2">Download</a>
-            </div>
-            <!-- ... (repeat for other cards) ... -->
-            <i class="fa-solid fa-arrow-left" onclick="scrollslider1(-1)"></i>
-            <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
-        </div>
-    </div>
+  
 
     <div class="download-card-container">
         <h1>Brochures</h1>
         <div class="download-cards-inner">
         <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
+            <img src="assets/brochure/Doctors To Spain.jpeg" alt=" Doctors To Spain">
+            <a href="assets/brochure/Doctors To Spain.pdf" download="Doctors To Spain">Download</a>
+            <h4>Doctors To Spain</h4>
         </div>
         <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
+            <img src="assets/brochure/vocational training to spain_edupace language academy.jpg" alt="">
+            <a href="assets/brochure/VOCATIONAL.pdf" download="Vocational Training Program">Download</a>
+            <h4>Vocational Training Program</h4>
         </div>
         <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
+            <img src="assets/brochure/Ausbildung educational Language Academy.jpg" alt="Ausbildung educational Language Academy">
+            <a href="assets/brochure/Ausbildung.pdf" download="Ausbildung Germany">Download</a>
+            <h4>Ausbildung Germany</h4>
         </div>
         
         </div>
         <div class="download-cards-inner">
         <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
+            <img src="assets/brochure/NURSE TO GERMANY_EDUPACE LANGUAGE ACADEMY.jpg" alt="NURSE TO GERMANY_EDUPACE LANGUAGE ACADEMY">
+            <a href="assets/brochure/nurses to germany.pdf" download="Nurses To Germany">Download</a>
+            <h4>Nurses To Germany</h4>
         </div>
         <div class="download-card">
             <img src="../assets/images/download-card.png" alt="">
@@ -135,45 +63,7 @@
         
         </div>
     </div>
-    <div class="download-card-container">
-        <h1>Forms</h1>
-        <div class="download-cards-inner">
-        <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
-        </div>
-        <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
-        </div>
-        <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
-        </div>
-        
-        </div>
-        <div class="download-cards-inner">
-        <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
-        </div>
-        <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
-        </div>
-        <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
-            <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
-        </div>
-        
-        </div>
-    </div>
+    
     
 
   </div>
