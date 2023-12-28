@@ -92,6 +92,7 @@
 </div>
 
 
+
     <br>
       <div class="our-company-container">
 
@@ -117,7 +118,45 @@
         </div>
       </div>
 
+<div class="budhha-container container">
+    <div class="budhha-head">
+        <h1>Budhha</h1>
+        <h3>बुद्धा शिक्षा विद्यालय</h3>
+    </div>
+    <div class="budhha-container-body container">
+      <div class="budhha-body-left">
+        <img src="https://img.freepik.com/premium-vector/concept-enlightenment-mind-graphic-wireframe-man-meditating-with-outer-space-background_46706-1107.jpg?size=626&ext=jpg&uid=P118124127&ga=GA1.1.767184273.1695731208&semt=ais"
+         alt="No-1 Best Study Abroad Academy In Thrissur">
+      </div>
+      <div class="budhha-body-right">
+        
+        <p>
+        The Buddha Foundation is a non-profit organization devoted to fostering language learners' development. 
+        Our mission is to offer quality education to all, irrespective of cultural background or 
+        educational level. We believe in the pivotal role of language education in personal growth.
+         Committed to our members' success, we provide resources and unwavering support for their goals.
+        </p>
+      </div>
+    </div>
+    <div class="budhha-container-body container" id="budhha-container-body2">
+    
+    <div class="budhha-body-left">
+        <img src="https://img.freepik.com/premium-vector/concept-enlightenment-mind-graphic-wireframe-man-meditating-with-outer-space-background_46706-1107.jpg?size=626&ext=jpg&uid=P118124127&ga=GA1.1.767184273.1695731208&semt=ais"
+         alt="No-1 Best Study Abroad Academy In Thrissur">
+      </div>
+      <div class="budhha-body-right">
+        
+        <p>
+        The Buddha Foundation is a non-profit organization devoted to fostering language learners' development. 
+        Our mission is to offer quality education to all, irrespective of cultural background or 
+        educational level. We believe in the pivotal role of language education in personal growth.
+         Committed to our members' success, we provide resources and unwavering support for their goals.
+        </p>
+      </div>
+      
+    </div>
 
+</div>
 
       <div class="missionvision-container">
         <div class="mission">
