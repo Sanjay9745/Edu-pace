@@ -21,7 +21,7 @@
     <div class="about-container" >
       <div class="about-hero-container">
        
-        <div class="about-hero-content" style="background-image: url('assets/index/about/'); background-size: cover; background-repeat: no-repeat;">
+        <div class="about-hero-content" style="background-image: url('assets/slider/ausbildung in Germany_ Edupace Language Academy.jpg'); background-size: cover; background-repeat: no-repeat;">
           
           <!-- <div class="about-txt">
           <p style="color: white;">The Carrier</p>

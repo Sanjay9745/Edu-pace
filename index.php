@@ -25,6 +25,7 @@
     <meta name="description" content="Nursing jobs in Germany for foreigners">
     <meta name="description" content="Doctors to germany from india">
     <meta name="description" content="Best doctors to germany">
+    <meta property="og:type" content="website">
     <meta name="description" content="Established in 2015, Edu Pace Language Academy stands tall as a revered service provider excelling in language training and human resources solutions. Our robust footprint spans across the Middle East, Europe, India, and Australia, fostering trust and expertise in fulfilling diverse linguistic and HR needs. We pride ourselves on specializing in translating your HR strategies into flawless execution, tailored precisely to your envisioned outcomes.">
     <meta name="description" content="Explore unparalleled study abroad experiences in Thrissur! Discover top-notch educational opportunities, vibrant cultural immersion, and a welcoming environment. Unlock your global potential with the best study abroad programs in Thrissur. Start your transformative journey today!">
     <meta property="og:title" content="Edu Pace">
@@ -32,15 +33,16 @@
     <meta property="og:description" content="At our academy, we are dedicated to making the journey of learning German, Spanish, French, IELTS, OET as an inspiring one. Our passionate instructors provide high-quality lessons to help you master the German, Spanish,and French language with confidence. Whether you are a beginner or looking to dee...">
     <meta property="og:image" content="https://edupace.org/assets/images/hero-slider1 (2).jpeg">
     <meta property="og:image:alt" content="No-1 Best Study Abroad Academy In Thrissur">
+    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
 
-    <title>Edupace Language Academy Thrissur No-1 </title>
+    <title>Edupace Language Academy Thrissur No-1</title>
      <link rel="canonical" href="https://edupace.org/" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
     
 
     
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    <link
+    <!-- <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
       integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
@@ -49,21 +51,12 @@
     />
 
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"> -->
     
-    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-ND928RWF');</script>
-<!-- End Google Tag Manager -->
+    
   </head>
   <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-ND928RWF"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    
     <?php include("header/header.php") ?>
   
     
@@ -79,13 +72,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- The slideshow/carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/slider/Spanish Language Academy Thrissur No-1.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" width:100% style=" background-size: cover;" >
+      <img src="assets/slider/Spanish Language Academy Thrissur No-1.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style=" background-size: cover; width:100% " >
     </div>
     <div class="carousel-item">
-      <img src="assets/slider/Nurses To Spain Thrissur No-1 Language Academy.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" width:100% style="background-size: cover;">
+      <img src="assets/slider/Nurses To Spain Thrissur No-1 Language Academy.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block"  style="background-size: cover; width:100%">
     </div>
     <div class="carousel-item">
-      <img src="assets/slider/German Language Academy Thrissur No-1.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" width:100% style="background-size: cover;">
+      <img src="assets/slider/German Language Academy Thrissur No-1.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block"  style="background-size: cover; width:100%">
     </div>
   </div>
   
@@ -109,7 +102,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
               <h3><span style="color: #101663;"><b>Unlocking Potential, Igniting Careers: Your Journey To Success Begins Here!</b></span></h3>
               <br>
-            <p style="text-align: justify;">
+              <p style="text-align: justify;">
               At our academy, we are dedicated to making the journey of learning German, Spanish, French, IELTS, OET as an inspiring one. Our passionate instructors provide high-quality lessons to help you master the German, Spanish,and French language with confidence. Whether you are a beginner or looking to deepen your knowledge, you'll find the perfect learning environment here. Explore the richness of  culture and language with us! 
 
 
@@ -118,7 +111,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <p style="text-align: justify;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
           </div>
           <div class="vision-right">
-            <img src="assets/index/Study Abroad Language Academy" alt="No-1 Best Study Abroad Academy In Thrissur" >
+            <img src="assets/index/Study Abroad Language Academy.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" >
           </div>
 
         </div>
@@ -594,7 +587,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li>Intensive Language Training</li>
             <li>Experienced Language Instructors</li>
           </ul>
-          <img src="assets/index/about-3.jpg" class="mx-auto d-block" alt="German Language Coaching">
+          <img src="assets/index/Study Abroad Language Academy.jpg" class="mx-auto d-block" alt="German Language Coaching">
         </div>
       </div>
 
@@ -639,12 +632,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
     </div>
-      <!-- <div class="comments-pannel-container" >
-        <img src="./assets/images/comment-panel.svg" alt="">
-        
-        <textarea name="" id="" cols="30" rows="10" class="comments-pannel-textarea" placeholder="Your message Make Us better"></textarea>
-        <button class="comments-pannel-btn">Post Your Comment</button>
-      </div> -->
+      
       
     <div class="testimonal-container">
       <div class="testimonal-head">
@@ -659,7 +647,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="card">
                       <div class="card-body">
                         <div class="card-body-left">
-                            <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="German Language Coaching">
+                            <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="German Language Coaching"> -->
                         </div>
                         <div class="card-body-right">
                             <h3 class="card-title">Vyshnavi Prasee</h3>
@@ -676,7 +664,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="card">
                     <div class="card-body">
                       <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="Nurses to Germany in thrissur">
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="Nurses to Germany in thrissur"> -->
                       </div>
                       <div class="card-body-right">
                           <h3 class="card-title">Dana Sidhik</h3>
@@ -693,7 +681,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="card">
                     <div class="card-body">
                       <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="Nurses to Germany in thrissur">
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="Nurses to Germany in thrissur"> -->
                       </div>
                       <div class="card-body-right">
                           <h3 class="card-title">Sanjay </h3>
@@ -710,7 +698,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="card">
                     <div class="card-body">
                       <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="Nurses to Germany in thrissur">
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="Nurses to Germany in thrissur"> -->
                       </div>
                       <div class="card-body-right">
                           <h3 class="card-title">Anju C S </h3>
@@ -727,7 +715,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="card">
                     <div class="card-body">
                       <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="German Study Abroad Agency in Thrissur">
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="German Study Abroad Agency in Thrissur"> -->
                       </div>
                       <div class="card-body-right">
                           <h3 class="card-title">Swetha K Sathyan </h3>
@@ -744,7 +732,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="card">
                     <div class="card-body">
                       <div class="card-body-left">
-                          <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="No-1 Best Study Abroad Academy In Thrissur">
+                          <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="No-1 Best Study Abroad Academy In Thrissur"> -->
                       </div>
                       <div class="card-body-right">
                           <h3 class="card-title">Shinto Roy </h3>

@@ -341,7 +341,7 @@
 
           <details open>
             <summary>
-              <span style="color:#101663;">The IELTS exam lasts for how long?</span>
+              <span style="color:#101663;">Is German a difficult language to learn?</span>
               <svg
                 class="control-icon control-icon-expand"
                 width="24"
@@ -365,13 +365,13 @@
                 />
               </svg>
             </summary>
-            <p style="text-align:justify; color: black;">The exam takes two hours and forty-five minutes to complete. While the Speaking session can be finished the same day as the others or up to a week later, the Reading, Writing, and Listening sessions must all be completed in one sitting.
+            <p style="text-align:justify; color: black;">The difficulty of learning German can vary depending on your native language and previous language learning experience. For English speakers, German shares similarities that can make it more accessible compared to languages with different linguistic roots.
 </p>
           </details>
 
           <details>
             <summary>
-              <span style="color:#101663;">What is a good score on the IELTS exam?</span>
+              <span style="color:#101663;">Are there language exchange programs for learning German?</span>
               <svg
                 class="control-icon control-icon-expand"
                 width="24"
@@ -395,7 +395,7 @@
                 />
               </svg>
             </summary>
-            <p style="text-align:justify; color: black;">The IELTS exam is graded from 1 to 9, where 9 represents the highest score. A score of 6.5 or above is typically regarded as good, and it might be necessary for professional registration, immigration, or university admission.</p>
+            <p style="text-align:justify; color: black;">Yes, language exchange programs and platforms allow you to connect with native German speakers who want to learn your language. This provides an opportunity for language practice and cultural exchange.</p>
           </details>
 
           <details>
