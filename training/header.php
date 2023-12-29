@@ -68,10 +68,10 @@
               <a href="#">Study Abroad</a>
               <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
               <ul class="htmlCss-sub-menu sub-menu">
-                <li><a href="#">Ausbildung Germany</a></li>
+                <li><a href="../ausbildung.php">Ausbildung Germany</a></li>
                 <li><a href="../vocational_training.php">Vocation Training Program In Spain</a></li>
                 <li><a href="#">Masters Program at Germany</a></li>
-                <li><a href="#">Doctors To Europe</a></li>
+                <li><a href="#">Doctors To Spain</a></li>
                 <li><a href="#">Paid Internship Program</a></li>
                 <!-- <li class="more">
                   <span
@@ -91,9 +91,9 @@
               <ul class="node-sub-menu sub-menu">
                 <li><a href="../nursetogerman.php">Nurses To Germany</a></li>
                 <li><a href="../drivertogerman.php">Drivers To Germany</a></li>
-                <li><a href="../nursetospain.php">Nurses To Spain</a></li>
+                <!-- <li><a href="../nursetospain.php">Nurses To Spain</a></li> -->
                 
-                <li><a href="../doctors_to_spain.php">Doctors To Spain</a></li>
+                <li><a href="../doctors_to_spain.php">Doctors To Spain(MBBS / BDS)</a></li>
                 <li><a href="../download.php">Downloads</a></li>
               </ul>
             </li>

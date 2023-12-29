@@ -4,10 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Vocation Training Program</title>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+ <!--  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script> -->
+  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
   <link rel="stylesheet" href="./css/testimonial.css">
 
   <link rel="stylesheet" href="./css/vocation.css">
@@ -16,40 +18,36 @@
 <body>
 
 <?php include("header/header.php") ?>
-<div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="./assets/slider/vocational-training-program-in-spain_edupace-Academy-Thrissur.jpg" class="d-block w-100" alt="Slide 1">
-        <div class="carousel-caption d-none d-md-block">
-          
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="./assets/slider/slider-2.jpg" class="d-block w-100" alt="Slide 2">
-        <div class="carousel-caption d-none d-md-block">
-          
-        </div>
-      </div>
-      <div class="carousel-item">
-        <img src="./assets/slider/slider.jpg" class="d-block w-100" alt="Slide 3">
-        <div class="carousel-caption d-none d-md-block">
-          
-        </div>
-      </div>
+
+<div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+  <!-- Indicators/dots -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+    <!-- <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button> -->
+  </div>
+
+  <!-- The slideshow/carousel -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/slider/vocational-training-program-in-spain_edupace-Academy-Thrissur.jpg" alt="Best Study Abroad Language Academy in Thrissur" class="d-block w-100">
     </div>
-  
-    <!-- Navigation buttons at the bottom -->
-    <div class="carousel-controls">
-      <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden"></span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden"></span>
-      </button>
+    <div class="carousel-item">
+      <img src="assets/slider/vocational-training-program-in-spain_edupace-Academy-Thrissur-1.jpg" alt="Best Study Abroad Language Academy in Thrissur" class="d-block w-100">
     </div>
-  
+    <!-- <div class="carousel-item">
+      <img src="ny.jpg" alt="New York" class="d-block w-100">
+    </div> -->
+  </div>
+
+  <!-- Left and right controls/icons -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
 </div>
 
 <div class="vocation-container ">
@@ -59,10 +57,9 @@
     
     <div class="vocation-content-top container">
        <div class="vocation-content-left">
-        <h2>About Program </h2>
-        <p >Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod
-          semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
-          commodo.</p>
+        <h2>Opportunities For Professionals</h2>
+        <p style="text-align: justify;">Spain has a diverse economy, with key sectors including tourism, agriculture, manufacturing, technology, and services. Professionals in fields such as finance, information technology, engineering, tourism, and healthcare can find opportunities.Spain has a growing startup ecosystem, particularly in cities like Barcelona and Madrid. Entrepreneurs and professionals interested in startups may find opportunities in various industries, including fintech, biotech, and e-commerce.Professionals in law, finance, and accounting can find opportunities in Spain's business and financial sectors. Knowledge of Spanish business regulations and practices is often beneficial.It's important for professionals considering opportunities in Spain to research specific industries, understand the local job market, and consider factors such as language requirements and qualifications recognition. Networking and building connections within the professional community can also be valuable for job seekers.</p>
+
 
        </div> 
 
@@ -90,22 +87,29 @@
     </div>
     <div class="vocation-content-bottom container">
        <div class="vocation-content-left">
-        <h2>First featurette heading. It’ll blow your mind.</h2>
-        <p >Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod
-          semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
-          commodo.</p>
+        <h2>Facts About Spain</h2>
+        <ul>
+          <li>Spain is located in southwestern Europe on the Iberian Peninsula, and it shares borders with Portugal to the west and France to the northeast.</li>
+          <li>The capital city of Spain is Madrid.</li>
+          <li>The official language is Spanish (Castilian).</li>
+          <li>Spain has a population of over 47 million people.</li>
+          <li>Spain has diverse landscapes, including mountains, plains, and a long coastline.</li>
+          <li>Spain is home to numerous UNESCO World Heritage Sites, including the historic centers of cities like Toledo, Córdoba, and Salamanca.</li>
+        </ul>
 
        </div> 
 
        <div class="vocation-content-right">
         <div class="flip-card " id="card-2-flip">
             <div class="flip-card-inner">
-              <div class="flip-card-front">
-                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VCPGMjCW0is?autoplay=1&controls=0" frameborder="0" allowfullscreen></iframe>                
-                <button type="button" class="btn btn-primary" id="flip-btn-3">Button</button>
+              <img src="assets/index/Best Study Abroad in Spain.jpeg" style="width: 500px;" >
+              <!-- <div class="flip-card-front"> -->
+                <!-- <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VCPGMjCW0is?autoplay=1&controls=0" frameborder="0" allowfullscreen></iframe>                 -->
+                <!-- <button type="button" class="btn btn-primary" id="flip-btn-3">Button</button> -->
+
 
                 
-              </div>
+              <!-- </div> -->
               <div class="flip-card-back">
                 <ul>
                     
@@ -121,12 +125,13 @@
         
     </div>
     <div class="vocation-para container">
-        <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod
-            semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
-            commodo.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore 
-            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
-            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <h3>Programs</h3>
+        <ul>
+          <li>Auxiliary Nursing care Technician: 1400 Hrs Duration, 960 Classroom Training.</li>
+          <li>Pharmacy and Parapharmacy Technician: Two years Duration, 1630 Classroom Training. </li>
+          <li>Senior Technician in Multiplatform Application Development: 2000 Hrs, 1630 Classroom Training.</li>
+          <li>Higher Technician in Computer Network Systems Management: 2 Years Duration, 1630 Classroom Training.</li>
+        </ul>
 
     </div>
 
@@ -134,19 +139,30 @@
 
     <div class="vocation-infographics">
     <div class="infogrphics-head container">
-        <h1>Ordered List Arrow Cards</h1>
+        <h1>How To Get Started</h1>
 
     </div>
     <div class="infogrphics-content container">
 
         <div class="info-left">
-            <h3>Lorem Ipsum</h3>
-            <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem.</p>
+            <h3>Qualifications Required</h3>
+            <!-- <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem.</p> -->
             <ul>
-                <li>Maecenas at lorem ac tortor posuere finibus.</li>
-                <li>Nam rutrum purus eget massa viverra egestas.</li>
-                <li>Sed vitae ex sed dolor cursus fermentum.</li>
-                <li>Nullam eget nibh a mauris posuere tincidunt.</li>
+                <li>Plus Two Required</li>
+                <li>A1, A2, B1, B2 Proficiency is required in Spanish Language</li>
+                <li>Age limit is under 35</li>
+                <li>Application from overseas universities are also given preferences for this program</li>
+            </ul>
+            <h3>Program Coverage</h3>
+            <ul>
+              <li>B1, B2 Spanish Language</li>
+              <li>Visa Process</li>
+              <li>Document Attestation</li>
+              <li>Translation and Attestation</li>
+              <li>Immigration Clearance</li>
+              <li>Local Registration</li>
+              <li>Health Insurance </li>
+              <li>Bank Account Opening Assitance</li>
             </ul>
         </div>
         <div class="info-right">
@@ -154,31 +170,46 @@
             <li style="--cardColor:#fc374e">
                 <div class="content">
                     
-                    <div class="title">Lorem Ipsum</div>
-                    <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem.</div>
+                    <div class="title">Application Process</div>
+                    <div class="text">Apply throungh Edupace Language Academy </div>
                 </div>
             </li>
             <li style="--cardColor:#36aeb3">
                 <div class="content">
                     
-                    <div class="title">Lorem Ipsum</div>
-                    <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem.</div>
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">Take Part in the University screening process.</div>
                 </div>
             </li>
             <li style="--cardColor:#162d59">
                 <div class="content">
                     
-                    <div class="title">Lorem Ipsum</div>
-                    <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem.</div>
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">After the completion the screening procedure, the candidate should study Spanish Language.</div>
                 </div>
             </li>
             <li style="--cardColor:#f15f0e">
                 <div class="content">
                     
-                    <div class="title">Lorem Ipsum</div>
-                    <div class="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem.</div>
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">The Candidate have to submit the origin necessary documents.</div>
                 </div>
             </li>
+            <li style="--cardColor:#6666ff">
+                <div class="content">
+                    
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">After Completing A2 Level, the candidate can travel to Spain. </div>
+                </div>
+            </li>
+            <li style="--cardColor:#ff3399">
+                <div class="content">
+                    
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">After Completing the B2 Level, the candidate can begin their Internship.</div>
+                </div>
+            </li>
+            
         </ol>
         </div>
     
@@ -188,14 +219,14 @@
    
     <!-- faq -->
 
-      <div class="about-faq">
-        <div class="about-faq-section1">
-          <h1>Frequently asked questions</h1>
-          <p>Everything you need to know about the product and billing</p>
-        </div>
+     <section class="bg-light py-3 py-md-5">
+  <div class="container">
+    <div class="row gy-5 gy-lg-0 align-items-lg-center">
+      <div class="col-12 col-lg-6">
+        
         <div class="about-faq-section2">
           <div class="about-section-content1">
-            <img src="./assets/images/about-avatar-group.png" alt="" />
+            <img src="assets/images/about-avatar-group.png" alt="" />
             <h4>Still have questions?</h4>
             <p>
               Can’t find the answer you’re looking for? <br />
@@ -204,182 +235,69 @@
             <!-- HTML !-->
             <button class="button-9" role="button">Get in touch</button>
           </div>
-          <div class="about-section-content2">
-        
-  
-            <div
-              style="
-                visibility: hidden;
-                position: absolute;
-                width: 0px;
-                height: 0px;
-              "
-            >
-              <svg xmlns="http://www.w3.org/2000/svg">
-                <symbol viewBox="0 0 24 24" id="expand-more">
-                  <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z" />
-                  <path d="M0 0h24v24H0z" fill="none" />
-                </symbol>
-                <symbol viewBox="0 0 24 24" id="close">
-                  <path
-                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
-                  />
-                  <path d="M0 0h24v24H0z" fill="none" />
-                </symbol>
-              </svg>
+        </div>
+      </div>
+      <div class="col-12 col-lg-6">
+        <div class="row justify-content-xl-end">
+          <div class="col-12 col-xl-11">
+            <h2 class="h1 mb-3">Still Have Questions?</h2>
+            <p class="lead fs-4 text-secondary mb-5">Can't find the answer you'r looking for ? <br> Please chat to our friendly team.</p>
+            <div class="accordion accordion-flush" id="accordionExample">
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                  <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                   What languages does EduPace Language Academy offer courses in?
+                  </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">EduPace Language Academy offers a diverse range of language courses, including but not limited to English, Spanish, French, German, and many more. Our goal is to cater to a wide array of language learners</p>
+                    <!-- <ul>
+                      <li>Go to our website and sign in to your account.</li>
+                      <li>Click on your profile picture in the top right corner of the page and select "Account Settings."</li>
+                      <li>Under the "Billing Information" section, click on "Edit."</li>
+                      <li>Make your changes and click on "Save."</li>
+                    </ul> -->
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Can I enroll in multiple language courses simultaneously ?
+                  </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">Yes, you can enroll in multiple courses simultaneously. Our flexible scheduling allows you to tailor your language learning journey according to your preferences and availability.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    What is the duration of each course?
+                  </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="text-align:justify;">Course durations vary depending on the language and proficiency level. Typically, courses range from 4 months to 6 months. You can find specific details on the duration of each course on our website or by contacting our admissions team.</p>
+                    <!-- <ul>
+                      <li>Go to our website and sign in to your account.</li>
+                      <li>Click on your profile picture in the top right corner of the page and select "Account Settings."</li>
+                      <li>Scroll to the bottom of the page and click on "Cancel Account."</li>
+                      <li>Enter your password and click on "Cancel Account."</li>
+                    </ul> -->
+                  </div>
+                </div>
+              </div>
             </div>
-  
-            <details open>
-              <summary>
-                Do you assist students who have completed Germen language get placed ?
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>Yes, we have programs such as Dual Training Program, Nurses to Germany and Drivers to Germany Programs where 
-                we assist students who have passed the required level of German Language.</p>
-            </details>
-  
-            <details>
-              <summary>
-                Can I bring family to Germany?
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>Yes, you can bring family members. Specific requirements vary, so check with German authorities or the embassy 
-                for details.</p>
-            </details>
-  
-            <details>
-              <summary>
-                Can i work as a Nurse in Germany without language training ? 
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>No, language proficiency is crucial. It's highly recommended to undergo German language training, especially 
-                in professions like nursing.</p>
-            </details>
-            <details>
-              <summary>
-                How much does the whole program cost
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>Cost varies based on program, duration, and location. Research specific programs for accurate estimates. 
-                Scholarships and aid may be available.</p>
-            </details>
-            <details>
-              <summary>
-                Will you assist for stay in Germany?
-                <svg
-                  class="control-icon control-icon-expand"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#expand-more"
-                  />
-                </svg>
-                <svg
-                  class="control-icon control-icon-close"
-                  width="24"
-                  height="24"
-                  role="presentation"
-                >
-                  <use
-                    xmlns:xlink="http://www.w3.org/1999/xlink"
-                    xlink:href="#close"
-                  />
-                </svg>
-              </summary>
-              <p>Institutions and employers often offer support for accommodation, cultural orientation, and administrative 
-                processes. Check with them for details and consider local expat communities for additional resources.</p>
-            </details>
           </div>
         </div>
-      </div>  
-
+      </div>
+    </div>
+  </div>
+</section>
     <!-- end faq  -->
 
 </div>

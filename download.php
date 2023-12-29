@@ -44,24 +44,44 @@
         </div>
         
         </div>
-        <div class="download-cards-inner">
+    <div class="download-cards-inner">
         <div class="download-card">
             <img src="assets/brochure/NURSE TO GERMANY_EDUPACE LANGUAGE ACADEMY.jpg" alt="NURSE TO GERMANY_EDUPACE LANGUAGE ACADEMY">
             <a href="assets/brochure/nurses to germany.pdf" download="Nurses To Germany">Download</a>
             <h4>Nurses To Germany</h4>
         </div>
         <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
+            <img src="assets/brochure/DRIVERS TO GERMANY_EDUPACE LANGUAGE ACADEMY.jpg" alt="DRIVERS TO GERMANY_EDUPACE LANGUAGE ACADEMY">
             <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
+            <h4>Drivers To Germany</h4>
         </div>
         <div class="download-card">
-            <img src="../assets/images/download-card.png" alt="">
+            <img src="assets/brochure/Masters Program at germany_edupace.jpg" alt="Masters Program at germany_edupace">
             <a href="image.webp" download="image1">Download</a>
-            <h4>Brochure</h4>
+            <h4>Master Program at Germany</h4>
         </div>
         
+        
+    </div>
+    <div class="download-cards-inner">
+        
+        <div class="download-card">
+            <img src="assets/brochure/doctors to europe.edupace.jpg" alt="doctors to europe.edupace">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Doctors to Europe</h4>
         </div>
+        <div class="download-card">
+            <img src="assets/brochure/paid internship program spain_edupace.jpg" alt="paid internship program spain_edupace">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Paid Internship Program</h4>
+        </div>
+        <div class="download-card">
+            <img src="assets/brochure/paid internship program spain_edupace.jpg" alt="paid internship program spain_edupace">
+            <a href="image.webp" download="image1">Download</a>
+            <h4>Truck Drivers to Germany</h4>
+        </div>
+        
+    </div>
     </div>
     
     

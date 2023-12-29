@@ -31,7 +31,9 @@
     
     <link rel="stylesheet" href="animation-card.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"> -->
+    
   </head>
+    
   <body>
 
     <!-- Footer -->
@@ -85,13 +87,8 @@
                   <p style="text-align:justify; color: white;">
                     Welcome to Edupace Academy, where talent meets opportunity and careers are crafted with precision. We are architects of professional success, dedicated to connecting exceptional talent with thriving organizations.
                   </p>
-                </div>
-                <!-- Grid column -->
-        
-                <!-- Grid column -->
-                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-                  <!-- Links -->
-                  <h6 class="text-uppercase fw-bold mb-4" style="color: white;">
+                  <br>
+                  <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
                     Quick Links
                   </h6>
                   <p>
@@ -109,8 +106,41 @@
                   <p>
                     <a href="" class="nav-link" style="color: white;">Career Abroad</a>
                   </p>
+                </div>
+                <!-- Grid column -->
+        
+                <!-- Grid column -->
+                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                  <!-- Links -->
+                  <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
+                    Documentations
+                  </h6>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Data Flow</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Eligiblity</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Credentials</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Good Standing</a>
+                  </p>
+                  <p>
+                    <a href="" class="nav-link" style="color: white;">Embassy Attestation</a>
+                  </p>
+                  <p>
+                    <a href="" class="nav-link" style="color: white;">HRD Attestation</a>
+                  </p>
+                  <p>
+                    <a href="" class="nav-link" style="color: white;">Exam Registration</a>
+                  </p>
+                  <p>
+                    <a href="" class="nav-link" style="color: white;">Foreign Verification</a>
+                  </p>
                   <br>
-                  <h6 class="text-uppercase fw-bold mb-4" style="color: white;">
+                  <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
                     Language Training
                   </h6>
                   <p>
@@ -131,7 +161,7 @@
                 <!-- Grid column -->
                 <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4" style="color: white;">
                   <!-- Links -->
-                  <h6 class="text-uppercase fw-bold mb-4">
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">
                     German Program
                   </h6>
                   <p>
@@ -144,7 +174,7 @@
                     <a href="#!" class="nav-link" style="color: white;">Professionals</a>
                   </p>
                   <br>
-                  <h6 class="text-uppercase fw-bold mb-4">
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">
                     Spain Program
                   </h6>
                   <p>
@@ -156,13 +186,40 @@
                   <p>
                     <a href="#!" class="nav-link" style="color: white;">Student</a>
                   </p>
+                  <br>
+                  <h6 class="text-uppercase fw-bold mb-4">
+                    Study Materials
+                  </h6>
+                  <h6 class="text-uppercase fw-bold mb-4">
+                    Online Training
+                  </h6>
+                  <h6 class="text-uppercase fw-bold mb-4">
+                    Placements
+                  </h6>
+                  <h6 class="text-uppercase fw-bold mb-4">
+                    Careers
+                  </h6>
+                  
                 </div>
                 <!-- Grid column -->
         
                 <!-- Grid column -->
                 <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4" style="color: white;">
                   <!-- Links -->
-                  <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">
+                    For Medical Professionals
+                  </h6>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">DHA</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">HAAD</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">PROMETRIC</a>
+                  </p>
+                  <br>
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">Contact</h6>
                   <p><i class="fas fa-home me-3" style="color: white; cursor: pointer;"></i> Edupace Language Academy</p>
                   <p>
                     <i class="fas fa-envelope me-3" style="color: white; cursor: pointer;"></i>
@@ -170,6 +227,18 @@
                   </p>
                   <p><i class="fas fa-phone me-3" style="color: white; cursor: pointer;"></i><a href="tel:+918592925900" style="text-decoration:none; color:white;"> +91 8592925900</a></p>
                   <p><i class="fas fa-phone me-3" style="color: white; cursor: pointer;"></i> <a href="tel:+919072545002" style="text-decoration:none; color:white;">+91 9072545002</a></p>
+                  <br>
+                  <form>
+                    <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">Get Touch With Us !</h6>
+                    <label >Name</label>
+                    <input type="text" name="" class="form-control">
+                    <label >Contact Number</label>
+                    <input type="text" name="" class="form-control">
+                    <label >Email</label>
+                    <input type="email" name="" class="form-control">
+                    <br>
+                    <button class="btn hover" style="color: white; border: 3px solid yellow ; width: 100%; " name="submit">Submit</button>
+                  </form>
                 </div>
                 <!-- Grid column -->
               </div>
@@ -177,7 +246,7 @@
             </div>
           </section>
           <!-- Section: Links  -->
-        
+        <br>
           <!-- Copyright -->
           <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05); color: white;">
             © 2023 Copyright:

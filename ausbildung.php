@@ -1,164 +1,259 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Edupace Language Academy - Thrissur No-1 Academy</title>
-    <link rel="stylesheet" href="css/index.css" />
-    <link rel="stylesheet" href="css/about.css" />
-    <link rel="stylesheet" href="css/about-mobile.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
-  </head>
-  <body>
-    <?php include("header/header.php") ?>
-    <div class="about-container" >
-      <div class="about-hero-container">
-       
-        <div class="about-hero-content" style="background-image: url('assets/slider/ausbildung in Germany_ Edupace Language Academy.jpg'); background-size: cover; background-repeat: no-repeat;">
-          
-          <!-- <div class="about-txt">
-          <p style="color: white;">The Carrier</p>
-          <h2 style="color: white;">PLANNING <span>ADVISOR</span></h2>
-        </div> -->
-        </div>
-      </div>
-      <div class="about-success-container">
-        <div class="about-success-top">
-          <h3>Crafting Careers, Shaping Success!</h3>
-          <!-- <h2>SUPPORT</h2> -->
-          <p> Your Journey Starts Here with Ausbildung in Germany.</p>
-        </div>
-        <div class="about-success-content">
-          <div class="about-success-card">
-            <a href="#" class="about-success-hover">Mission</a>
-            <p class="about-success-card-3-p" style="text-align:justify; font-family: sans-serif;">
-              At EduPace Language Academy, our mission is to seamlessly intertwine language proficiency and HR solutions, empowering individuals and organizations to thrive in a diverse, interconnected world. Through cutting-edge hybrid methodologies, personalized education, and tailored HR strategies, we aim to culti- vate linguistic fluency, foster cultural understanding, and drive professional growth, ensuring our learners and partners excel on the global stage."
-            </p>
-          </div>
-          <div class="about-success-card">
-            <!-- <a href="#" class="about-success-hover">Study Abroad</a>
-            <p class="about-success-card-3-p" style="text-align:justify; font-family: sans-serif;">
-              Edupace Language Aacdemy specializes in programs for a range of disciplines, such as business, engineering, hospitality, allied health sciences, and medicine, among others. In these fields, we offer postgraduate and doctorate studies in addition to MBBS and Doctorates. Students nowadays require a global perspective in order to succeed in this competitive atmosphere. Students who are eager to broaden their horizons can find these professional opportunities from Edupace Study Abroad, a leader in the field.
-            </p> -->
-            <img src="assets/index/Ausbildung/Ausbildung Thrissur No - 1.jpg" style="width: 400px; border-radius: 20px;" alt="Ausbildung Thrissur No - 1">
-          </div>
-          <div class="about-success-card">
-            <a href="#" class="about-success-hover"
-              >Vission</a
-            >
-            <p class="about-success-card-3-p" style="text-align:justify; font-family: sans-serif;">
-             Empowering global professionals with a seamless fusion of language proficiency and HR excellence, EduPace Language Academy envisions a future where borders dissolve in the face of effective communi- cation. Our innovative hybrid approach redefines language education and HR solutions, fostering a world where linguistic agility propels careers and organizations towards unparalleled success!
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="about-our-profile-container">
-        <img src="assets/images/360_F_558614246_A8WRQufvKBipdP8f0R80FLkeIN2JPmeR 2.png" class="arrow" alt="">
-        <div class="about-our-profile-right">
-          <div class="about-our-profile-right-heading">
-            <span>EduPace Language Academy: Ausbildung Program</span>
-            
-          </div>  
-          <h2 style="text-align:center;">About The Program</h2>
-          <br>
-          <img src="assets/images/pic 2.png" alt="" />
-        </div>
-        <div class="about-our-profile-left">
-          <p style="text-align: justify; font-family: sans-serif;">
-            Edu Pace Language Academy, established in 2015, has built a strong reputation for its exceptional language training and HR solutions across the Middle East, Europe, India, and Australia. Specializing in translating HR strategies into precise execution, we cater to diverse linguistic needs while empowering clients to excel in talent development across seven prominent languages.</p>
-            <p style="text-align: justify; font-family: sans-serif;">Driven by a collective commitment to unparalleled service quality, we pride ourselves on an impeccable hundred percent client satisfaction rate. Our dedication extends beyond language proficiency, offering comprehensive HR solutions aimed at fostering teams' growth effectively. For a deeper understanding of our transformative approach, visit our website and embark on a journey towards linguistic mastery and elevated organizational success.</p>
-            
-        </div>
-      </div>
-      <div class="about-study-us-container">
-        <img src="assets/images/360_F_558614246_A8WRQufvKBipdP8f0R80FLkeIN2JPmeR 2.png" class="arrow" alt="">
-        <div class="about-study-us-right">
-          <p style="text-align:justify; font-family: sans-serif;">Germany is renowned for its dual education system, which blends real-world work experience with vocational instruction. This method has also been included into nursing school, with a focus on theoretical understanding as well as practical abilities. In Germany, nurses have the option to pursue additional specialization and on going education in a range of nursing practice domains following the completion of their basic nursing education. This enables them to progress in their professions and get more knowledge in particular healthcare domains.
-          </p>
-          <h4>What Germany Offers You</h4>
-          <ul>
-            <li><span style="font-family: sans-serif;">Spend three years living in one of the world's most developed and prosperous economies, Germany you'll be surrounded by orderly people and live in a clean, healthy atmosphere. </span></li>
-            <li><span style="font-family: sans-serif;">Receive instruction from one of Germany's top-ranked and most reputable institutions, including hands-on training in renowned hospitals</span></li>
-           
-            
-          </ul>
-          <button>Show More</button>
-        </div>
-        <div class="about-study-us-left">
-            <div class="about-study-us-left-content">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vocation Training Program</title>
+ <!--  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script> -->
+  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="./css/testimonial.css">
 
-                <!-- <h4>Germany Calling</h4> -->
-                <h3>GERMANY CALLING</h3>
-            </div>
-          <img src="assets/images/about-girl.png" alt="" />
-          <ul>
-             <li><span style="font-family: sans-serif;">To take part in specialized training that will prepare you both academically and practically so that you can work as a specialized nurse in Germany and the European Union's main cities.</span></li>
-              <li><span style="font-family: sans-serif;">Assured work visa and employment in Germany, as well as the ability to seek for permanent residence (after the course, once you have worked for two years</span></li>
-          </ul>
-        </div>
-      </div>
-      <!-- <div class="about-story-container">
-        <div class="about-story-content">
+  <link rel="stylesheet" href="./css/vocation.css">
+  <link rel="stylesheet" href="./css/info.css">
+</head>
+<body>
 
-            <div class="about-story-right">
-                <div class="about-story-right-top">
-                    <h4>Our Happy Customers</h4>
-                    <h2>Our Successful<br> Stories</h2>
-                </div>
-                <div class="about-story-right-bottom">
-                    <div class="about-story-right-bottom-1">
-                        <h3>1573</h3>
-                        <p>Trained Individuals</p>
-                    </div>
-                    <div class="about-story-right-bottom-2">
-                        <h3>1573</h3>
-                        <p>Trained Individuals</p>
-                    </div>
-                </div>
-            </div>
-            <div class="about-story-left">
-                <div class="slider1-container">
+<?php include("header/header.php") ?>
+
+<div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+  <!-- Indicators/dots -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+    <!-- <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button> -->
+  </div>
+
+  <!-- The slideshow/carousel -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/slider/ausbildung in Germany_ Edupace Language Academy.jpg" alt="Best Study Abroad Language Academy in Thrissur" class="d-block w-100">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/slider/ausbildung in Germany_ Edupace Language Academy 1.jpg" alt="Best Study Abroad Language Academy in Thrissur" class="d-block w-100">
+    </div>
+    <!-- <div class="carousel-item">
+      <img src="ny.jpg" alt="New York" class="d-block w-100">
+    </div> -->
+  </div>
+
+  <!-- Left and right controls/icons -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+</div>
+
+<div class="vocation-container ">
+    <div class="vocation-head container">
+         <h1>Opportunities for Ausbildung Program in Germany</h1>
+    </div>
     
-                    <div class="slider1">
-                        <div class="card1">
-                            <img src="./assets/images/UAE-Candidates.png" alt="">
-                        </div>
-                        <div class="card1">
-                            <img src="./assets/images/UAE-Candidates.png" alt="">
-                        </div>
-                        <div class="card1">
-                            <img src="./assets/images/UAE-Candidates.png" alt="">
-                        </div>
-                        <div class="card1">
-                            <img src="./assets/images/UAE-Candidates.png" alt="">
-                        </div>
-                        <div class="card1">
-                            <img src="./assets/images/UAE-Candidates.png" alt="">
-                        </div>
-                        <div class="card1">
-                            <img src="./assets/images/UAE-Candidates.png" alt="">
-                        </div>
-                        <div class="card1">
-                            <img src="./assets/images/UAE-Candidates.png" alt="">
-                        </div>
-                        <i class="fa-solid fa-arrow-left" onclick="scrollslider1(-1)"></i>
-                        <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
-                    </div>
-                </div>
+    <div class="vocation-content-top container">
+       <div class="vocation-content-left">
+        <h2>Germany Calling</h2>
+        <p style="text-align: justify;">Germany is renowned for its dual education system, which blends real-world work experience with vocational instruction. This method has also been included into nursing school, with a focus on theoretical understanding as well as practical abilities. In Germany, nurses have the option to pursue additional specialization and on going education in a range of nursing practice domains following the completion of their basic nursing education. This enables them to progress in their professions and get more knowledge in particular healthcare domains.</p>
+
+
+       </div> 
+
+       <div class="vocation-content-right">
+        <div class="flip-card" id="card-1-flip">
+            <div class="flip-card-inner">
+              <div class="flip-card-front">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VCPGMjCW0is?autoplay=1&controls=0" frameborder="0" allowfullscreen></iframe>
+                <button type="button" class="btn btn flip-btn-1" id="flip-btn-1">Click Here</button>
+                
+              </div>
+              <div class="flip-card-back">
+                <ul>
+                    
+                    <li>Maecenas at lorem ac tortor posuere finibus.</li>
+                    <li>Nam rutrum purus eget massa viverra egestas.</li>
+                    <li>Sed vitae ex sed dolor cursus fermentum.</li>
+                  </ul>
+                  <button type="button" class="btn btn-primary flip-btn-1" id="flip-btn-2">Button</button>
+              </div>
             </div>
         </div>
-      </div> -->
+       </div>
+        
+    </div>
+    <div class="vocation-content-bottom container">
+       <div class="vocation-content-left">
+        <h2>Citizenship Progression</h2>
+        <ul>
+          <li>Arriving Germany on a Training Visa.</li>
+          <li>After Five Years, Aquire Permenent Residency.</li>
+          <li>Able to Accept any employment opportunities</li>
+          <li>After ATS you can become a German Citizen and enjoy the best social security in Europe</li>
+          <li>You will be Eligible for Health Insurance oldage pension etc...</li>
+        </ul>
+
+       </div> 
+
+       <div class="vocation-content-right">
+        <div class="flip-card " id="card-2-flip">
+            <div class="flip-card-inner">
+              <img src="assets/slider/Study Abroad.jpg" style="width: 500px;" >
+              <!-- <div class="flip-card-front"> -->
+                <!-- <iframe width="100%" height="100%" src="https://www.youtube.com/embed/VCPGMjCW0is?autoplay=1&controls=0" frameborder="0" allowfullscreen></iframe>                 -->
+                <!-- <button type="button" class="btn btn-primary" id="flip-btn-3">Button</button> -->
 
 
-      <!-- FAQ 1 - Bootstrap Brain Component -->
-<section class="bg-light py-3 py-md-5">
+                
+              <!-- </div> -->
+              <div class="flip-card-back">
+                <ul>
+                    
+                    <li>Maecenas at lorem ac tortor posuere finibus.</li>
+                    <li>Nam rutrum purus eget massa viverra egestas.</li>
+                    <li>Sed vitae ex sed dolor cursus fermentum.</li>
+                  </ul>
+                  <button type="button" class="btn btn-primary" id="flip-btn-4">Button</button>
+              </div>
+            </div>
+        </div>
+       </div>
+        
+    </div>
+    <br>
+    <div class="vocation-para container">
+        <h3 style="text-align: center; "><b>What Germany Offers You</b></h3>
+        <br>
+        <ul>
+          <li>Spend three years living in one of the world's most developed and prosperous economies, Germany you'll be surrounded by orderly people and live in a clean, healthy atmosphere. </li>
+          <li>Receive instruction from one of Germany's top-ranked and most reputable institutions, including hands-on training in renowned hospitals </li>
+          <li>To take part in specialized training that will prepare you both academically and practically so that you can work as a specialized nurse in Germany and the European Union's main cities.</li>
+          <li>Assured work visa and employment in Germany, as well as the ability to seek for permanent residence (after the course, once you have worked for two years)</li>
+        </ul>
+
+    </div>
+
+    <!-- infographics -->
+
+    <div class="vocation-infographics">
+    <div class="infogrphics-head container">
+        <h1>How To Get Started</h1>
+
+    </div>
+    <div class="infogrphics-content container">
+
+        <div class="info-left">
+            <h3>Qualifications Required</h3>
+            <!-- <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, voluptatem.</p> -->
+            <ul>
+                <li>Higher Secondary School Certificate in any Stream</li>
+                <li>Age limit 18 to 28 Years</li>
+                <li>German Language Proficiency with Goethe, OSD, ECL</li>
+                <li>Telc B1 Level for General program</li>
+                <li>Police Clearance Certificate</li>
+            </ul>
+            <h3>Program Coverage</h3>
+            <ul>
+              <li>German Language Training</li>
+              <li>Documentation Assitance</li>
+              <li>Visa Processing Assistance</li>
+              <li>Translation and Attestation</li>
+              <li>Accomodation Arranged in Germany</li>
+              <li></li>
+            </ul>
+        </div>
+        <div class="info-right">
+        <ol class="olcards">
+            <li style="--cardColor:#fc374e">
+                <div class="content">
+                    
+                    <div class="title">Application Process</div>
+                    <div class="text">Submit Detailed CV</div>
+                </div>
+            </li>
+            <li style="--cardColor:#36aeb3">
+                <div class="content">
+                    
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">Pre Interview with German Consultant</div>
+                </div>
+            </li>
+            <li style="--cardColor:#162d59">
+                <div class="content">
+                    
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">Start Language Learning</div>
+                </div>
+            </li>
+            <li style="--cardColor:#f15f0e">
+                <div class="content">
+                    
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">Submit all Documents</div>
+                </div>
+            </li>
+            <li style="--cardColor:#6666ff">
+                <div class="content">
+                    
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">After Completing B2 Level, the Candidate can obtain Admission.</div>
+                </div>
+            </li>
+            <li style="--cardColor:#ff3399">
+                <div class="content">
+                    
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">Apply Training Apprenticeship Visa</div>
+                </div>
+            </li>
+            <li style="--cardColor:#0099e6">
+                <div class="content">
+                    
+                    <!-- <div class="title">Lorem Ipsum</div> -->
+                    <div class="text">FLY to Germany </div>
+                </div>
+            </li>
+            
+        </ol>
+        </div>
+    
+    </div>
+    </div>
+
+<h1><b>Ausbildung Programs in Germany</b></h1>
+
+  <div class="row">
+    <div class="col p-3 text-white">
+      <ol class="alternate">
+        <li style="--accent-color: #36b9ea">IT Specialist: Training in programming, network administration, and software development.</li>
+        <li style="--accent-color: #3ecbb1">Automation Technology: Focus on manufacturing processes, robotics, and control systems.</li>
+        <li style="--accent-color: #fcc003">Materials Testing Specialists: Involved in evaluating material properties and quality control.</li>
+        <li style="--accent-color: #fb337b">Tool & Die Specialist: Specializes in the development and creation of equipment and tools for the metalworking and manufacturing industries.</li>
+        <li style="--accent-color: #9c54e5">Sewage Technology Specialist: Training in managing wastewater and operating sewage treatment facilities.</li>
+        <li style="--accent-color: #0080ff">Food Technology Technician: Focus on food preparation, quality assurance, and hygiene in the food industry.</li>
+        
+      </ol>
+    </div>
+    <div class="col p-3  text-white">
+      <ol class="alternate">
+        <li style="--accent-color: #0080ff">Technical Product Designers: Skills in CAD, technical drawing, and product development for the manufacturing and engineering sectors.</li>
+        <li style="--accent-color: #9c54e5">Construction Industry Expert: Involves building management, civil engineering, and architectural design in the construction industry.</li>
+        <li style="--accent-color: #fb337b">Architect: Training in architectural drawing, building regulations, and design principles.</li>
+        <li style="--accent-color: #fcc003">Cook: Culinary arts training, including various cooking methods, menu planning, and food presentation.</li>
+        <li style="--accent-color: #3ecbb1">Heavy Driver: Training for operating and maintaining large vehicles in logistics and transportation.</li>
+        <li style="--accent-color: #36b9ea">Office Secretary: Administrative tasks and office management across various sectors.</li>
+        
+      </ol>
+    </div>
+  </div>
+<!--  -->
+   
+    <!-- faq -->
+
+     <section class="bg-light py-3 py-md-5">
   <div class="container">
     <div class="row gy-5 gy-lg-0 align-items-lg-center">
       <div class="col-12 col-lg-6">
@@ -237,33 +332,116 @@
     </div>
   </div>
 </section>
-      
-      <!-- <div id="footer"></div> -->
-      <?php include("header/footer.php") ?>
-    </div>
-    
+    <!-- end faq  -->
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
-    <script>
-        gsap.from(".about-txt ",{
-            opacity:0,
-            duration:1.5,
-            x:-500
-        });
+</div>
 
-        gsap.from(".about-our-profile-right-heading, h1",{
-            opacity:0,
-            duration:1.5,
-            x:-500
-        });
 
-        gsap.from(".about-study-us-left-content",{
-            opacity:0,
-            duration:1.5,
-            x:500
-        });
+<?php include("header/footer.php") ?>
+
+<script>
+  fetch('./header.html')
+    .then(response => response.text())
+    .then(html => document.getElementById('header').innerHTML = html);
+
+  fetch('./footer.html')
+    .then(response => response.text())
+    .then(html => document.getElementById('footer').innerHTML = html);
+
+</script>
+
   
-    </script>
-    
-  </body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  <script>
+    $(document).ready(function() {
+      $('#heroCarousel').carousel({
+        interval: 3000
+      });
+    });
+  </script>
+
+<script>
+    $(document).ready(function() {
+      $('#imageCarousel').carousel({
+        interval: 3000
+      });
+    });
+  </script>
+
+<script>
+    const slider1 = document.querySelector(".slider1");
+    let card1Width = document.querySelector(".card1").offsetWidth;
+
+    // Clone the slider1 content for continuous scrolling
+    slider1.innerHTML += slider1.innerHTML;
+
+    function scrollslider1(direction) {
+        if (direction === 1) {
+            slider1.scrollBy({
+                left: card1Width + 20,
+                behavior: 'smooth'
+            });
+        } else if (direction === -1) {
+            slider1.scrollBy({
+                left: -card1Width - 20,
+                behavior: 'smooth'
+            });
+        } else {
+            slider1.scrollBy({
+                left: card1Width + 20,
+                behavior: 'smooth'
+            });
+        }
+
+        // Reset scroll position to the beginning when it reaches the cloned set
+        if (slider1.scrollLeft >= slider1.scrollWidth / 2) {
+            slider1.scrollTo({
+                left: 0,
+                behavior: 'auto'
+            });
+        }
+    }
+
+    // Automatic scroll every 3 seconds
+    setInterval(scrollslider1, 3000);
+</script>
+
+
+<!-- flipcard -->
+<script>
+    // script.js
+    document.getElementById('flip-btn-1').addEventListener('click', function() {
+  console.log("Button clicked!");  // Check if the button click is being captured
+  const card = document.getElementById('card-1-flip');
+  console.log(card);  // Check if the card element is being selected
+  card.classList.add("active");
+  });
+    document.getElementById('flip-btn-2').addEventListener('click', function() {
+  console.log("Button clicked!");  // Check if the button click is being captured
+  const card = document.getElementById('card-1-flip');
+  console.log(card);  // Check if the card element is being selected
+  card.classList.remove("active");
+  });
+
+    document.getElementById('flip-btn-3').addEventListener('click', function() {
+  console.log("Button clicked!");  // Check if the button click is being captured
+  const card = document.getElementById('card-2-flip');
+  console.log(card);  // Check if the card element is being selected
+  card.classList.add("active");
+  });
+    document.getElementById('flip-btn-4').addEventListener('click', function() {
+  console.log("Button clicked!");  // Check if the button click is being captured
+  const card = document.getElementById('card--flip');
+  console.log(card);  // Check if the card element is being selected
+  card.classList.remove("active");
+  });
+
+</script>
+
+
+</body>
 </html>
