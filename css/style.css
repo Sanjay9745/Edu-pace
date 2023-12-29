@@ -240,10 +240,7 @@ body{
     margin: 0;
   }
 
-  .vision img{
-    width: 250px;
-    height: auto;
-  }
+
 
   .vision p {
     line-height: 2;
@@ -558,8 +555,13 @@ body{
 }
 
 .testimonal-head h1{
-    font-size: 35px;
+  color: var(--dark-blue);
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+
 }
+    
 
 .testimonal-head button{
     width: 150px;
@@ -629,7 +631,9 @@ body{
     justify-content: center;
     flex-direction: column;
     gap: 20px;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 1.8;
     background: #fff;
     border-radius: 15px;
     box-shadow: 0 5px 25px rgba(1 1 1 / 20%);
@@ -768,12 +772,14 @@ body{
 
 
 
+
+
 /* home carousel */
 
   .carousel-inner {
     position: relative;
     width: 100%;
-    margin-top: -30px;
+    margin-top: -50px;
     overflow: hidden;
   }
 
@@ -868,23 +874,102 @@ body{
   font-weight: 400;
 }
 
-.start-your-journey-mobile{
-  display: none;
-}
-
-/* .tabcontents h1{
-  color: var(--dark-blue);
-  font-size: 2.5rem;
-  font-weight: 600;
-  text-align: left;
-  padding: 20px;
-  width: 60%;
-} */
 
 
 
 /* budhha content end */
 
+.start-your-journey-mobile{
+  display: none;
+}
+
+
+.what-does-container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.what-does-content{
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.tabcontents{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+
+.tabcontents p{
+  width: 90%;
+  text-align: justify;
+  line-height: 2;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.tabcontents h1{
+  color: var(--dark-blue);
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  padding: 50px;
+  width: 70%;
+}
+
+.what-does-container .what-does-content h1{
+  color: var(--dark-blue);
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+
+.start-your-journey-container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.start-your-journey-container img{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  
+}
+
+.start-your-journey-container h1{
+  color: var(--dark-blue);
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+
+.choose-us-container h1{
+  color: var(--dark-blue);
+  font-weight: 600;
+  text-align: center;
+  margin: 50px 0;
+  
+}
 
 
 
@@ -929,6 +1014,16 @@ body{
 
     }
 
+    .tabcontents h1{
+      color: var(--dark-blue);
+      font-size: 1.5rem;
+      font-weight: 600;
+      line-height: 1.5;
+      text-align: center;
+      width: 100%;
+      padding: 0;
+    }
+
     .tabcontent{
       width: 100%;
       /* margin-left: 10px; */
@@ -940,6 +1035,10 @@ body{
       width: 100%;
     }
 
+    .start-your-journey-container{
+      display: none;
+    }
+
     .start-your-journey-mobile{
       display: block;
       width: 100%;
@@ -948,6 +1047,13 @@ body{
       justify-content: center;
       margin-top: 30px;
       background-image: url('/assets/images/1st\ BG.png')
+    }
+
+    .start-your-journey-mobile h1{
+      color: var(--dark-blue);
+      font-size: 1.5rem;
+      font-weight: 600;
+      text-align: center;
     }
 
     .container-fluid{
@@ -964,6 +1070,35 @@ body{
       gap: 20px;
 
     }
+
+    .choose-us-mob-container{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    .choose-us-mob-container h1{
+      color: var(--dark-blue);
+      font-size: 2.5rem;
+      font-weight: 600;
+      text-align: center;
+    }
+
+    .what-does-container .what-does-content h1{
+      
+      font-size: 1.5rem;
+      padding: 0;
+      width: 100%;
+    }
+
+    .testimonal .row{
+      width: 100%;
+      
+  }
+
+
     
   }
 

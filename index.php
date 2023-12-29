@@ -100,9 +100,9 @@
 
     <br>
     
-      <div class="our-company-container container">
+      <div class="our-company-container ">
 
-        <div class="vision">
+        <div class="vision container">
           <div class="vision-left">
             <h2 style="color: red;">Welcome To Edupace Academy!</h2>
             <br>
@@ -117,15 +117,10 @@
           <p style="text-align: justify;">We are committed to providing an immersive and enriching experience for language learners of all levels. Our team of experienced instructors is here to guide you on a journey of linguistic discovery, fostering a supportive environment that empowers you to embrace the beauty of diverse languages.</p>
           <p style="text-align: justify;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
           </div>
-<<<<<<< HEAD
+
 
           <div class="vision-right-home">
             <img src="./assets/index/Study Abroad Language Academy.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" >
-=======
-          <div class="vision-right">
-            <img src="assets/index/Study Abroad Language Academy.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" >
->>>>>>> f2767b6a7811addaba9b91419299372f528365ee
-          </div>
 
         </div>
       </div>
@@ -182,8 +177,8 @@
             </p>
           </div>
         </div>
-        <div class="vision">
-          <div class="vision-left">
+        <div class="vision container">
+          <div class="vision-left ">
             <h3>Vision</h3>
             <p style="text-align:justify;">At EduPace Language Academy, we envision a dynamic learning environment where language mastery and professional growth intersect seamlessly. We are the trailblazers in revolutionizing hybrid language training and HR solutions, fostering a global community of culturally adept and linguistically agile individuals.</p>
             <p style="text-align:justify;">Our commitment lies in empowering learners and organizations alike through:</p>
@@ -193,7 +188,7 @@
             <p style="text-align:justify;"><b>Empowering Global Citizens:</b> Beyond language mastery, we aim to nurture global citizens. Our programs instill cultural empathy, enabling individuals to navigate diverse landscapes with respect, understanding, and a spirit of inclusion.</p>
 
           </div>
-          <div class="vision-right">
+          <div class="vision-right ">
             <img src="assets/images/Study Abroad Language Academy No-1.png" alt="No-1 Best Study Abroad Academy In Thrissur" class="vision-img">
 
             <p style="text-align:justify;"><b>Innovation and Agility:</b> We remain at the forefront of innovation, constantly evolving our methodologies and solutions to meet the ever-changing needs of the modern world. Our agility allows us to anticipate trends and pioneer new approaches in language education and HR solutions.</p>
@@ -215,7 +210,7 @@
             Matching Talent With Opportunity For a  Brighter Tomorrow</b>
             <br>
             <br> -->
-            <div class="tabcontents">
+          <div class="tabcontents">
           <h1>Matching Talent With Opportunity For a  Brighter Tomorrow</h1>
             <div class="tabcontent" id="tab_div1" style="display: block;">
                 <!-- Tab 1 English -->
@@ -319,7 +314,7 @@
 
     
       <div class="container-fluid mt-3  row-hover-hide">
-        <h1 style="text-align:center; font-size: 50px;">Start Your Journey With Us!</h1>
+        <h1 >Start Your Journey With Us!</h1>
         <br>
         <!-- <p style="text-align:center;  font-size: 28px;">Opportunities in Spain For Doctors, Engineers and Students. </p> -->
         <br>
@@ -352,9 +347,9 @@
     </div>   
 
 
-    <div class="start-your-journey-mobile">
+<div class="start-your-journey-mobile">
     <div class="container-fluid">
-  <h1 class="text-center mt-3">Start Your Journey With Us!</h1>
+      <h1 class="text-center mt-3">Start Your Journey With Us!</h1>
 
   <!-- Carousel -->
   <div id="mobileCardCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -438,11 +433,11 @@
     </div>
 
       <div class="what-does-container">
-        <div class="what-does-content">
+        <div class="what-does-content container">
           <!-- <p class="what-does-content-desc">What does EDU PACE Offers</p> --><br>
-          <h4><span style="font-size: 50px;">
-            Speak Beyond Borders</span>
-          </h4>
+          <h1>
+            Speak Beyond Borders
+          </h1>
           <div class="what-does-cards">
               <div class="what-does-card reel" >
                 
@@ -538,7 +533,7 @@
 
 
       <div class="choose-us-container">
-        <h4 style="font-size:50px;">WHY CHOOSE US ?</h4>
+        <h1>WHY CHOOSE US ?</h1>
         <!-- <div class="slider1-container">
 
           <div class="slider1">
@@ -604,7 +599,7 @@
       </div>
     </div>
     <div class="choose-us-mob-container">
-      <h4 style="font-size:50px;">WHY CHOOSE US ?</h4>
+      <h1>WHY CHOOSE US ?</h1>
       <div class="choose-us-mob-cards">
 
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll1.png');background-size: cover; ">
@@ -630,7 +625,7 @@
     <div class="testimonal-container">
       <div class="testimonal-head">
           <!-- <button>Testimonials</button> -->
-          <h4 style="font-size:50px; text-align: center;">What do you think!</h4>
+          <h4 style="font-size:2.5rem; text-align: center; font-weight: 600; margin-bottom: 2rem; color: var(--dark-blue);">What do you think!</h4>
       </div>
 
       <div class="testimonal ">
