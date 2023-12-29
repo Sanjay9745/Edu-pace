@@ -625,7 +625,7 @@
     <div class="testimonal-container">
       <div class="testimonal-head">
           <!-- <button>Testimonials</button> -->
-          <h4 style="font-size:2.5rem; text-align: center; font-weight: 600; margin-bottom: 2rem; color: var(--dark-blue);">What do you think!</h4>
+          <h4 style="font-size:1.5rem; text-align: center; font-weight: 600; color: var(--dark-blue);">What do you think!</h4>
       </div>
 
       <div class="testimonal ">
