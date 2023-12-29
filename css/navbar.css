@@ -441,7 +441,7 @@ nav .navbar .links li .sub-menu li{
   max-width: 100%;
 } 
 .navbar .fa-bars.open-bars{
-  bottom: -60px;
+  /* bottom: -60px; */
 }
 }
 
