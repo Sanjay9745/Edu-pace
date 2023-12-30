@@ -2,11 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta name="author" content="EDUPACE LANGUAGE ACADEMY">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Best Study Abroad in Thrissur">
-    <meta name="description" content="Best Study Abroad agency in Thrissur">
-    <meta name="description" content="German Study Abroad Agency in Thrissur">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <!-- <meta name="description" content="Best Study Abroad agency in Thrissur"> -->
+    <!-- <meta name="description" content="German Study Abroad Agency in Thrissur">
     <meta name="description" content="Germany Language Coaching in thrissur">
     <meta name="description" content="Spanish Language coaching in thrissur">
     <meta name="description" content="Pathway program in thrissur">
@@ -24,29 +26,31 @@
     <meta name="description" content="Germany nursing recruitment agency">
     <meta name="description" content="Nursing jobs in Germany for foreigners">
     <meta name="description" content="Doctors to germany from india">
-    <meta name="description" content="Best doctors to germany">
+    <meta name="description" content="Best doctors to germany"> -->
     <meta property="og:type" content="website">
-    <meta name="description" content="Established in 2015, Edu Pace Language Academy stands tall as a revered service provider excelling in language training and human resources solutions. Our robust footprint spans across the Middle East, Europe, India, and Australia, fostering trust and expertise in fulfilling diverse linguistic and HR needs. We pride ourselves on specializing in translating your HR strategies into flawless execution, tailored precisely to your envisioned outcomes.">
-    <meta name="description" content="Explore unparalleled study abroad experiences in Thrissur! Discover top-notch educational opportunities, vibrant cultural immersion, and a welcoming environment. Unlock your global potential with the best study abroad programs in Thrissur. Start your transformative journey today!">
+    <meta name="description" content="Best Study Abroad agency - German language school in Thrissur for both online and offline German classes is German Language Course Thrissur.Top Center for Levels A1 A2 B1 B2 C1 C2.">
+    
     <meta property="og:title" content="Edu Pace">
     <meta property="og:url" content="https://edupace.org/">
-    <meta property="og:description" content="At our academy, we are dedicated to making the journey of learning German, Spanish, French, IELTS, OET as an inspiring one. Our passionate instructors provide high-quality lessons to help you master the German, Spanish,and French language with confidence. Whether you are a beginner or looking to dee...">
+    <!-- <meta property="og:url" content="https://edupace.org/"> -->
+   
     <meta property="og:image" content="https://edupace.org/assets/images/hero-slider1 (2).jpeg">
     <meta property="og:image:alt" content="No-1 Best Study Abroad Academy In Thrissur">
     <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+    <meta property="og:description" content="French, German, Spanish, and English are the languages that EduPace Language Academy specializes in teaching.  The faculty members are courteous, approachable, and have extensive experience in their respective fields. For students to fully acquire the language, our courses adhere to the highest standards. They also understand the diverse educational needs of our students. They employ a method that is both focused and enjoyable to teach our students how to learn a new language efficiently.">
 
 
-    <title>Edupace Language Academy Thrissur No-1 </title>
-    <link rel="canonical" href="https://edupace.org/" />
+    
+    <link rel="canonical" href="https://edupace.org/about.php" />
 
-    <title>Edupace Language Academy Thrissur No-1</title>
-     <link rel="canonical" href="https://edupace.org/" />
+    <title>Best German Language Course in Thrissur</title>
+     <!-- <link rel="canonical" href="https://edupace.org/" /> -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     
 
     
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- <link
+    <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
       integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
@@ -55,7 +59,7 @@
     />
 
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     
     
   </head>
@@ -76,13 +80,13 @@
   <!-- The slideshow/carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/slider/Spanish Language Academy Thrissur No-1.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style=" background-size: cover; width:100% " >
+      <img src="assets/slider/Spanish Language Academy Thrissur No-1.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style=" background-size: cover; width:100%; margin-top: 50px;" >
     </div>
     <div class="carousel-item">
-      <img src="assets/slider/Nurses To Spain Thrissur No-1 Language Academy.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block"  style="background-size: cover; width:100%">
+      <img src="assets/slider/Nurses To Spain Thrissur No-1 Language Academy.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block"  style="background-size: cover; width:100%; margin-top: 50px;">
     </div>
     <div class="carousel-item">
-      <img src="assets/slider/German Language Academy Thrissur No-1.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block"  style="background-size: cover; width:100%">
+      <img src="assets/slider/German Language Academy Thrissur No-1.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block"  style="background-size: cover; width:100%; margin-top: 50px;">
     </div>
   </div>
   
@@ -106,15 +110,15 @@
             <h2 style="color: red;">Welcome To Edupace Academy!</h2>
             <br>
             
-              <h3><span style="color: #101663;"><b>Unlocking Potential, Igniting Careers: Your Journey To Success Begins Here!</b></span></h3>
+              <h3><span style="color: #101663; font-weight: 200px;">Unlocking Potential, Igniting Careers: Your Journey To Success Begins Here!</span></h3>
               <br>
-              <p style="text-align: justify;">
+              <p style="text-align: justify; font-family: PT-serif; font-size: 21px;">
               At our academy, we are dedicated to making the journey of learning German, Spanish, French, IELTS, OET as an inspiring one. Our passionate instructors provide high-quality lessons to help you master the German, Spanish,and French language with confidence. Whether you are a beginner or looking to deepen your knowledge, you'll find the perfect learning environment here. Explore the richness of  culture and language with us! 
 
 
           </p>
-          <p style="text-align: justify;">We are committed to providing an immersive and enriching experience for language learners of all levels. Our team of experienced instructors is here to guide you on a journey of linguistic discovery, fostering a supportive environment that empowers you to embrace the beauty of diverse languages.</p>
-          <p style="text-align: justify;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
+          <p style="text-align: justify; font-family: PT-serif; font-size: 21px;">We are committed to providing an immersive and enriching experience for language learners of all levels. Our team of experienced instructors is here to guide you on a journey of linguistic discovery, fostering a supportive environment that empowers you to embrace the beauty of diverse languages.</p>
+          <p style="text-align: justify; font-family: PT-serif; font-size: 21px;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
           </div>
 
 
@@ -127,7 +131,7 @@
 <div class="budhha-container container">
     <div class="budhha-head">
         <h1>Digital Buddha</h1>
-        <h3>बुद्धा शिक्षा विद्यालय</h3>
+        <h4>बुद्धा शिक्षा विद्यालय</h4>
     </div>
     <div class="budhha-container-body container">
       <div class="budhha-body-left">
@@ -136,8 +140,8 @@
       </div>
       <div class="budhha-body-right">
         
-        <p style="text-align:justify;">
-        The concept behind the logo of Digital Bodhi encapsulates a profound metaphorical journey—a virtual tree crafted from digital nodes and wires, analogous to the sacred Bodhi tree under which Lord Buddha attained enlightenment. In this ethereal digital realm, the fruits hanging from the branches represent pulsars and neutron stars, symbolizing the wisdom and knowledge that Digital Bodhi bears. Just as the Bodhi tree’s shade offered sanctuary and enlightenment to seekers, the hues of this hybrid digital tree aim to liberate individuals, fostering their freedom to learn and transform their lives through language education.
+        <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">
+        The concept behind the logo of Digital Bodhi encapsulates a profound metaphorical journey a virtual tree crafted from digital nodes and wires, analogous to the sacred Bodhi tree under which Lord Buddha attained enlightenment. In this ethereal digital realm, the fruits hanging from the branches represent pulsars and neutron stars, symbolizing the wisdom and knowledge that Digital Bodhi bears. Just as the Bodhi tree’s shade offered sanctuary and enlightenment to seekers, the hues of this hybrid digital tree aim to liberate individuals, fostering their freedom to learn and transform their lives through language education.
         </p>
       </div>
     </div>
@@ -149,7 +153,7 @@
       </div>
       <div class="budhha-body-right">
         
-        <p style="text-align:justify;">Digital Bodhi embodies the essence of the Bodhi tree's transformative power in a modern context, providing a virtual haven where people gather under its metaphorical shade to embrace hybrid language learning. Just as the Bodhi tree supported individuals on their spiritual quest, this digital rendition stands as a guiding beacon, nurturing linguistic diversity and understanding. It represents a convergence of technology and enlightenment, offering a space where individuals can flourish, liberated by the wisdom of languages and the transformative potential of hybrid education.
+        <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">Digital Bodhi embodies the essence of the Bodhi tree's transformative power in a modern context, providing a virtual haven where people gather under its metaphorical shade to embrace hybrid language learning. Just as the Bodhi tree supported individuals on their spiritual quest, this digital rendition stands as a guiding beacon, nurturing linguistic diversity and understanding. It represents a convergence of technology and enlightenment, offering a space where individuals can flourish, liberated by the wisdom of languages and the transformative potential of hybrid education.
         </p>
       </div>
       
@@ -163,30 +167,30 @@
             <img src="assets/images/Study Abroad Language Academy.png" alt="No-1 Best Study Abroad Academy In Thrissur">
           </div>
           <div class="mission-right">
-            <h3>Mission</h3>
-            <p style="text-align:justify;">
+            <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Mission</h4>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">
               At EduPace Language Academy, our mission is to seamlessly intertwine language proficiency and HR solutions, empowering individuals and organizations to thrive in a diverse, interconnected world. Through cutting-edge hybrid methodologies, personalized education, and tailored HR strategies, we aim to cultivate linguistic fluency, foster cultural understanding, and drive professional growth, ensuring our learners and partners excel on the global stage.
             </p>
           </div>
         </div>
         <div class="vision container">
           <div class="vision-left ">
-            <h3>Vision</h3>
-            <p style="text-align:justify;">At EduPace Language Academy, we envision a dynamic learning environment where language mastery and professional growth intersect seamlessly. We are the trailblazers in revolutionizing hybrid language training and HR solutions, fostering a global community of culturally adept and linguistically agile individuals.</p>
-            <p style="text-align:justify;">Our commitment lies in empowering learners and organizations alike through:</p>
-            <p style="text-align:justify;"><b>Hybrid Language Proficiency:</b> We embrace innovative pedagogies to deliver comprehensive language education that transcends boundaries. Blending technology with immersive experiences, we empower learners to communicate fluently and confidently in a multilingual world.</p>
-            <p style="text-align:justify;"><b>Adaptive HR Solutions:</b> We redefine HR solutions, integrating language proficiency as a cornerstone for organizational success. Our tailored programs foster diverse workplaces where language skills serve as bridges, enriching collaborations and fostering inclusivity.</p>
-            <p style="text-align:justify;"><b>Collaborative Learning Ecosystem:</b> We cultivate an ecosystem where collaboration thrives. Through partnerships with industry leaders, educators, and technology innovators, we create synergies that elevate both individual language competence and organizational effectiveness.</p>
-            <p style="text-align:justify;"><b>Empowering Global Citizens:</b> Beyond language mastery, we aim to nurture global citizens. Our programs instill cultural empathy, enabling individuals to navigate diverse landscapes with respect, understanding, and a spirit of inclusion.</p>
+            <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Vision</h4>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">At EduPace Language Academy, we envision a dynamic learning environment where language mastery and professional growth intersect seamlessly. We are the trailblazers in revolutionizing hybrid language training and HR solutions, fostering a global community of culturally adept and linguistically agile individuals.</p>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">Our commitment lies in empowering learners and organizations alike through:</p>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;"><b>Hybrid Language Proficiency:</b> We embrace innovative pedagogies to deliver comprehensive language education that transcends boundaries. Blending technology with immersive experiences, we empower learners to communicate fluently and confidently in a multilingual world.</p>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;"><b>Adaptive HR Solutions:</b> We redefine HR solutions, integrating language proficiency as a cornerstone for organizational success. Our tailored programs foster diverse workplaces where language skills serve as bridges, enriching collaborations and fostering inclusivity.</p>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;"><b>Collaborative Learning Ecosystem:</b> We cultivate an ecosystem where collaboration thrives. Through partnerships with industry leaders, educators, and technology innovators, we create synergies that elevate both individual language competence and organizational effectiveness.</p>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;"><b>Empowering Global Citizens:</b> Beyond language mastery, we aim to nurture global citizens. Our programs instill cultural empathy, enabling individuals to navigate diverse landscapes with respect, understanding, and a spirit of inclusion.</p>
 
           </div>
           <div class="vision-right ">
             <img src="assets/images/Study Abroad Language Academy No-1.png" alt="No-1 Best Study Abroad Academy In Thrissur" class="vision-img">
 
-            <p style="text-align:justify;"><b>Innovation and Agility:</b> We remain at the forefront of innovation, constantly evolving our methodologies and solutions to meet the ever-changing needs of the modern world. Our agility allows us to anticipate trends and pioneer new approaches in language education and HR solutions.</p>
-            <p style="text-align:justify;"><b>Measurable Impact:</b> We are committed to measurable outcomes. Through data-driven insights and continual assessment, we ensure that every learner and organization experiences tangible growth and development.</p>
-            <p style="text-align:justify;">At EduPace, our vision transcends conventional boundaries, creating a future where language fluency and HR excellence converge to shape a world of endless possibilities.</p>
-            <p style="text-align:justify;">This vision captures EduPace Language Academy as a pioneering force in hybrid language education and HR solutions, emphasizing the fusion of language proficiency and professional development for a globally connected world.</p>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;"><b>Innovation and Agility:</b> We remain at the forefront of innovation, constantly evolving our methodologies and solutions to meet the ever-changing needs of the modern world. Our agility allows us to anticipate trends and pioneer new approaches in language education and HR solutions.</p>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;"><b>Measurable Impact:</b> We are committed to measurable outcomes. Through data-driven insights and continual assessment, we ensure that every learner and organization experiences tangible growth and development.</p>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">At EduPace, our vision transcends conventional boundaries, creating a future where language fluency and HR excellence converge to shape a world of endless possibilities.</p>
+            <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">This vision captures EduPace Language Academy as a pioneering force in hybrid language education and HR solutions, emphasizing the fusion of language proficiency and professional development for a globally connected world.</p>
           </div>
 
         </div>
@@ -203,44 +207,26 @@
             <br>
             <br> -->
           <div class="tabcontents">
-          <h1>Matching Talent With Opportunity For a  Brighter Tomorrow</h1>
+          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Matching Talent With Opportunity For a  Brighter Tomorrow</h4>
             <div class="tabcontent" id="tab_div1" style="display: block;">
                 <!-- Tab 1 English -->
                 <div class="row education-card-container">
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='training/ielts.html';">
                             <img src="assets/index/services/Thrissur No-1 IELTS Coaching Center.jpg" class="card-img-top" alt="Thrissur No-1 IELTS Coaching Center" />
-                            <!-- <div class="card-body">
-                                <h1 class="card-title">IELTS</h1>
-                                <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
-                                <p class="card-text">Residential Program: 4 Hrs / 30 Working Days.</p>
-                                <p class="card-text">Maximum Participants: 10 Students / Batch.</p>
-                                <p class="card-text">Book We Follow: A1 Netzwerk Deutsch als Fremdsprache.</p>
-                            </div> -->
+                            
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='training/oet.html';">
-                            <img src="assets/index/services/Thrissur No-1 OET Coaching Center.jpg" class="card-img-top" alt="No-1 Best Study Abroad Academy In Thrissur" />
-                            <!-- <div class="card-body">
-                                <h1 class="card-title">OET</h1>
-                                <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
-                                <p class="card-text">Residential Program: 4 Hrs / 30 Working Days.</p>
-                                <p class="card-text">Maximum Participants: 10 Students / Batch.</p>
-                                <p class="card-text">Book We Follow: A1 Netzwerk Deutsch als Fremdsprache.</p>
-                            </div> -->
+                            <img src="assets/index/services/Thrissur No-1 OET Coaching Center.png" class="card-img-top" alt="No-1 Best Study Abroad Academy In Thrissur" />
+                            
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='training/german.html';">
                             <img src="assets/index/services/Thrissur No-1 GERMAN Coaching Center.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
-                            <!-- <div class="card-body">
-                                <h1 class="card-title">GERMAN</h1>
-                                <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
-                                <p class="card-text">Residential Program: 4 Hrs / 30 Working Days.</p>
-                                <p class="card-text">Maximum Participants: 10 Students / Batch.</p>
-                                <p class="card-text">Book We Follow: A1 Netzwerk Deutsch als Fremdsprache.</p>
-                            </div> -->
+                            
                         </div>
                     </div>
 
@@ -258,37 +244,19 @@
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/french.html';">
                             <img src="assets/index/services/Thrissur No-1 FRENCH Coaching Center.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
-                            <!-- <div class="card-body">
-                                <h1 class="card-title">SPANISH</h1>
-                                <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
-                                <p class="card-text">Residential Program: 4 Hrs / 30 Working Days.</p>
-                                <p class="card-text">Maximum Participants: 10 Students / Batch.</p>
-                                <p class="card-text">Book We Follow: A1 Netzwerk Deutsch als Fremdsprache.</p>
-                            </div> -->
+                           
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/spanish.html';">
                             <img src="assets/index/services/Thrissur No-1 SPANISHCoaching Center.jpg" class="card-img-top" alt="Best Study Abroad in Thrissur" />
-                            <!-- <div class="card-body">
-                                <h1 class="card-title">FRENCH</h1>
-                                <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
-                                <p class="card-text">Residential Program: 4 Hrs / 30 Working Days.</p>
-                                <p class="card-text">Maximum Participants: 10 Students / Batch.</p>
-                                <p class="card-text">Book We Follow: A1 Netzwerk Deutsch als Fremdsprache.</p>
-                            </div> -->
+                            
                         </div>
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='./training/pte.html';">
                             <img src="assets/index/services/Thrissur No-1 PTE Coaching Center.jpg" class="card-img-top" alt="German Language Coaching" />
-                            <!-- <div class="card-body">
-                                <h1 class="card-title">PTE</h1>
-                                <p class="card-text">Online Program: 2.5 Hrs / 35 Working Days.</p>
-                                <p class="card-text">Residential Program: 4 Hrs / 30 Working Days.</p>
-                                <p class="card-text">Maximum Participants: 10 Students / Batch.</p>
-                                <p class="card-text">Book We Follow: A1 Netzwerk Deutsch als Fremdsprache.</p>
-                            </div> -->
+                            
                         </div>
                     </div>
 
@@ -306,7 +274,7 @@
 
     
       <div class="container-fluid mt-3  row-hover-hide">
-        <h1 >Start Your Journey With Us!</h1>
+        <h4 style="font-size: 30px; font-weight:200px; color:#101663; text-align: center;">Start Your Journey With Us!</h4>
         <br>
         <!-- <p style="text-align:center;  font-size: 28px;">Opportunities in Spain For Doctors, Engineers and Students. </p> -->
         <br>
@@ -341,7 +309,7 @@
 
 <div class="start-your-journey-mobile">
     <div class="container-fluid">
-      <h1 class="text-center mt-3">Start Your Journey With Us!</h1>
+      <h4 style="font-size: 30px; font-weight:200px; color:#101663;" class="text-center mt-3">Start Journey With Us!</h4>
 
   <!-- Carousel -->
   <div id="mobileCardCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -427,41 +395,23 @@
       <div class="what-does-container">
         <div class="what-does-content container">
           <!-- <p class="what-does-content-desc">What does EDU PACE Offers</p> --><br>
-          <h1>
+          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">
             Speak Beyond Borders
-          </h1>
+          </h4>
           <div class="what-does-cards">
               <div class="what-does-card reel" >
                 
                <video class="videoFrame" width="100%" height="100%" controls style="border-radius: 40px;">
                   <source src="./assets/video/reel.mp4" type="video/mp4">
               </video>
-                <!-- <div class="what-does-card-content"> -->
-                <!-- <div>
-                  <h3>Rachel</h3>
-                  <p>A student Review</p>
-                </div> -->
-                <!-- <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div> -->
-              <!-- <h2>Education</h2> -->
+               
             </div>
             <div class="what-does-card reel" >
                 
                 <video class="videoFrame" width="100%" height="100%" controls style="border-radius: 40px;">
                   <source src="./assets/video/reel.mp4" type="video/mp4">
               </video>
-              <!-- <div class="what-does-card-content"> -->
-                <!-- <div class="what-does-card-desc">
-                  <h3>Leslie Alexander</h3>
-                  <p>From German University</p>
-                </div> -->
-                <!-- <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div> -->
-              <!-- <h2>Study Abroad</h2> -->
+              
             </div>
 
             <div class="what-does-card reel" >
@@ -469,16 +419,7 @@
                 <video class="videoFrame" width="100%" height="100%" controls style="border-radius: 40px;">
                   <source src="./assets/video/reel.mp4" type="video/mp4">
               </video>
-              <!-- <div class="what-does-card-content"> -->
-                <!-- <div>
-                  <h3>Courtney Henry</h3>
-                  <p>Nurse from Germany </p>
-                </div> -->
-                <!-- <div class="what-does-card-button">
-                  <i class="fa-solid fa-play"></i>
-                </div>
-              </div> -->
-              <!-- <h2>Nurses To Germany</h2> -->
+              
             </div>
 
           </div>
@@ -494,78 +435,27 @@
         videoElement.pause();
     });
 </script>
-      <!-- <div class="choose-us-container">
-        <h1>WHY CHOOSE US ?</h1>
-        <div class="slider1-container">
-
-          <div class="slider1">
-              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll1.png');background-size: cover;">
-                <h3>We prepare you for 
-                  B2 Examination</h3>
-              </div>
-              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll2.png');background-size: cover;">
-                <h3>Convenient Learning </h3>
-              </div>
-              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll3.png');background-size: cover;">
-                <h3>Placement Assistance
-                  In Germany</h3>
-              </div>
-              <div class="card1 choose-us-card"  style="background:url('./assets/images/Scroll4.png');background-size: cover;">
-                <h3>200+ Successful 
-                  Recruitments</h3>
-              </div>
-          
-        
-          
-              <i class="fa-solid fa-arrow-left" onclick="scrollslider1(-1)"></i>
-              <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
-          </div>
-      </div>
-    </div> -->
+      
 
 
       <div class="choose-us-container">
-        <h1>WHY CHOOSE US ?</h1>
-        <!-- <div class="slider1-container">
-
-          <div class="slider1">
-              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll1.png');background-size: cover;">
-                <h3>We prepare you for 
-                  B2 Examination</h3>
-              </div>
-              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll2.png');background-size: cover;">
-                <h3>Convenient Learning </h3>
-              </div>
-              <div class="card1 choose-us-card"  style="background:url('./assets/images/scroll3.png');background-size: cover;">
-                <h3>Placement Assistance
-                  In Germany</h3>
-              </div>
-              <div class="card1 choose-us-card"  style="background:url('./assets/images/Scroll4.png');background-size: cover;">
-                <h3>200+ Successful 
-                  Recruitments</h3>
-              </div>
-          
+        <h4 style="font-size: 30px; font-weight:200px; color:#101663;">WHY CHOOSE US ?</h4>
         
-          
-              <i class="fa-solid fa-arrow-left" onclick="scrollslider1(-1)"></i>
-              <i class="fa-solid fa-arrow-right" onclick="scrollslider1(1)"></i>
-          </div>
-      </div> -->
       <div class="container-fluid"  id="void">
         
         <div style="width: 45%; float: left; text-align: justify; margin-left: 30px;">
-          <p style="text-align:center; font-size: 30px;"><b>Your Journey to Fluency Starts Here!</b></p>
-          <p>Edupace Language Academy is more than just a place to learn; it's a community of language enthusiasts. Our forums, collaborative projects, and events foster a sense of belonging and provide opportunities for students to practice their language skills in real-life scenarios. Whether you're a beginner embarking on your first language learning adventure or an advanced learner seeking mastery, Edupace Language Academy  welcomes you.</p>
+          <p style="text-align:center; font-size: 30px;  font-family: PT-serif; "><b>Your Journey to Fluency Starts Here!</b></p>
+          <p style="text-align:justify; font-family: PT-serif; font-size:21px;">Edupace Language Academy is more than just a place to learn; it's a community of language enthusiasts. Our forums, collaborative projects, and events foster a sense of belonging and provide opportunities for students to practice their language skills in real-life scenarios. Whether you're a beginner embarking on your first language learning adventure or an advanced learner seeking mastery, Edupace Language Academy  welcomes you.</p>
           <ul>
-            <li>Hybrid Language Learning</li>
-            <li>Advanced Digital Language Labs</li>
-            <li>Ai assistance 24/7</li>
-            <li>Ai Guru as Companion</li>
-            <li>Advanced Library Sharing System</li>
-            <li>Comprehensive Language Courses</li>
-            <li>Interactive Learning Tools</li>
-            <li>Intensive Language Training</li>
-            <li>Experienced Language Instructors</li>
+            <li style="font-family: PT-serif; font-size: 21px;">Hybrid Language Learning</li>
+            <li style="font-family: PT-serif; font-size: 21px;">Advanced Digital Language Labs</li>
+            <li style="font-family: PT-serif; font-size: 21px;">Ai assistance 24/7</li>
+            <li style="font-family: PT-serif; font-size: 21px;">Ai Guru as Companion</li>
+            <li style="font-family: PT-serif; font-size: 21px;">Advanced Library Sharing System</li>
+            <li style="font-family: PT-serif; font-size: 21px;">Comprehensive Language Courses</li>
+            <li style="font-family: PT-serif; font-size: 21px;">Interactive Learning Tools</li>
+            <li style="font-family: PT-serif; font-size: 21px;">Intensive Language Training</li>
+            <li style="font-family: PT-serif; font-size: 21px;">Experienced Language Instructors</li>
           </ul>
           <img src="assets/index/Study Abroad Language Academy.jpg" class="mx-auto d-block" alt="German Language Coaching">
         </div>
@@ -575,13 +465,13 @@
         
         <div class="crop">
           <ul id="card-circle-list" style="--count: 6;">
-              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Personalized Learning Paths</span></a></div></li>
-              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Flexible Learning Options</span></a></div></li>
-              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name"> Periodic Assessments
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name" style="font-family: PT-serif;">Personalized Learning Paths</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name" style="font-family: PT-serif;">Flexible Learning Options</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name" style="font-family: PT-serif;"> Periodic Assessments
                 </span></a></div></li>
-              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">200+ Successful 
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name" style="font-family: PT-serif;">200+ Successful 
                 Recruitments</span></a></div></li>
-              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name">Placement Assistance To Germany, Spain and Many Others</span></a></div></li>
+              <li class="circle-li"><div class="card-circle"><a href=""><span class="model-name" style="font-family: PT-serif;">Placement Assistance To Germany, Spain and Many Others</span></a></div></li>
           </ul>
         <div class="last-circle"></div>
         <div class="second-circle"></div>
@@ -591,24 +481,24 @@
       </div>
     </div>
     <div class="choose-us-mob-container">
-      <h1>WHY CHOOSE US ?</h1>
+      <h4 style="font-size: 30px; font-weight:200px; color:#101663;">WHY CHOOSE US ?</h4>
       <div class="choose-us-mob-cards">
 
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll1.png');background-size: cover; ">
-          <h3>Personalized Learning Paths</h3>
+          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Personalized Learning Paths</h4>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll2.png');background-size: cover;">
-          <h3>Flexible Learning Options</h3>
+          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Flexible Learning Options</h4>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll3.png');background-size: cover;">
-          <h3>Periodic Assessments</h3>
+          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Periodic Assessments</h4>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll4.png');background-size: cover;">
-          <h3>200+ Successful 
-                Recruitments</h3>
+          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">200+ Successful 
+                Recruitments</h4>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll4.png');background-size: cover;">
-          <h3>Placement Assistance To Germany, Spain and Many Others</h3>
+          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Placement Assistance To Germany, Spain and Many Others</h4>
         </div>
       </div>
     </div>
@@ -617,7 +507,7 @@
     <div class="testimonal-container">
       <div class="testimonal-head">
           <!-- <button>Testimonials</button> -->
-          <h1>What do you think!</h1>
+          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">What do you think!</h4>
       </div>
 
       <div class="testimonal ">
@@ -630,13 +520,15 @@
                             <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="German Language Coaching"> -->
                         </div>
                         <div class="card-body-right">
-                            <h3 class="card-title">Vyshnavi Prasee</h3>
+                            <h4 class="card-title">Vyshnavi Prasee </h4>
+                            <p>Thrissur</p>
+
                             <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
                         </div>
                     </div>
                     <div class="card-desc">
-                        <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
-                        <p class="card-text" style="text-align:justify;">I had a fantastic experience with Edupace Language Academy in Thrissur. They were remarkably efficient, and they helped me through the process. Despite their tight schedule, they remained responsive throughout. I'm truly grateful and highly recommend Edupace Language Academy to anyone in Thrissur looking for an education abroad.</p>
+                        
+                        <p class="card-text" style="text-align:justify; font-family: PT-serif;">I had a fantastic experience with Edupace Language Academy in Thrissur. They were remarkably efficient, and they helped me through the process. Despite their tight schedule, they remained responsive throughout. I'm truly grateful and highly recommend Edupace Language Academy to anyone in Thrissur looking for an education abroad.</p>
                     </div>
                   </div>
               </div>
@@ -647,13 +539,14 @@
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="Nurses to Germany in thrissur"> -->
                       </div>
                       <div class="card-body-right">
-                          <h3 class="card-title">Dana Sidhik</h3>
+                          <h4 class="card-title">Dana Sidhik</h4>
+                          <p>Calicut</p>
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
                       </div>
                   </div>
                   <div class="card-desc">
-                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
-                      <p class="card-text" style="text-align:justify;">I had a great time getting my student visa for Germany through Edupace Language Academy in Thrissur. Everything went smoothly, and the team was really helpful and responsive to my questions. I want to thank the whole team for their support. I highly recommend Edupace Language Academy in Thrissur for an easy and hassle-free experience. Thanks, Team Edupace, for making my dream a reality!</p>
+                      
+                      <p class="card-text" style="text-align:justify; font-family: PT-serif;">I had a great time getting my student visa for Germany through Edupace Language Academy in Thrissur. Everything went smoothly, and the team was really helpful and responsive to my questions. I want to thank the whole team for their support. I highly recommend Edupace Language Academy in Thrissur for an easy and hassle-free experience. Thanks, Team Edupace, for making my dream a reality!</p>
                   </div>
                 </div>
               </div>
@@ -664,13 +557,14 @@
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="Nurses to Germany in thrissur"> -->
                       </div>
                       <div class="card-body-right">
-                          <h3 class="card-title">Sanjay </h3>
+                          <h4 class="card-title">Sanjay </h4>
+                          <p>Thrissur</p>
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
                       </div>
                   </div>
                   <div class="card-desc">
-                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
-                      <p class="card-text" style="text-align:justify;">I had a great experience with Edupace Language Academy Thrissur. They helped me throughout my application process, clarified my doubts, trained me to attend the client interview, and also helped me get accommodation in the Germany without commission. I am really grateful to all the members of the Edupace Language Academy team. Thank you.</p>
+                      
+                      <p class="card-text" style="text-align:justify; font-family: PT-serif;">I had a great experience with Edupace Language Academy Thrissur. They helped me throughout my application process, clarified my doubts, trained me to attend the client interview, and also helped me get accommodation in the Germany without commission. I am really grateful to all the members of the Edupace Language Academy team. Thank you.</p>
                   </div>
                 </div>
               </div>
@@ -681,13 +575,14 @@
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140047.png" alt="Nurses to Germany in thrissur"> -->
                       </div>
                       <div class="card-body-right">
-                          <h3 class="card-title">Anju C S </h3>
+                          <h4 class="card-title">Anju C S </h4>
+                          <p>Kottayam</p>
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
                       </div>
                   </div>
                   <div class="card-desc">
-                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
-                      <p class="card-text" style="text-align:justify;">I strongly recommend Edupace Language Academy Thrissur for anyone dreaming of studying abroad. Their staff is knowledgeable, professional, and always ready to help with any questions. They went the extra mile to assist me in every step, from choosing the right program to handling visa applications. Their expertise, attention to detail, and personalized approach make them an excellent choice for anyone in Thrissur seeking guidance in international education.</p>
+                      
+                      <p class="card-text" style="text-align:justify; font-family: PT-serif;">I strongly recommend Edupace Language Academy Thrissur for anyone dreaming of studying abroad. Their staff is knowledgeable, professional, and always ready to help with any questions. They went the extra mile to assist me in every step, from choosing the right program to handling visa applications. Their expertise, attention to detail, and personalized approach make them an excellent choice for anyone in Thrissur seeking guidance in international education.</p>
                   </div>
                 </div>
               </div>
@@ -698,13 +593,14 @@
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="German Study Abroad Agency in Thrissur"> -->
                       </div>
                       <div class="card-body-right">
-                          <h3 class="card-title">Swetha K Sathyan </h3>
+                          <h4 class="card-title">Swetha K Sathyan </h4>
+                          <p>Ernakulam</p>
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
                       </div>
                   </div>
                   <div class="card-desc">
-                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
-                      <p class="card-text" style="text-align:justify;">Edupace Language Academy has my sincere gratitude for making my dream of studying in the Spain a reality. Thank you so much. They followed a systematic approach from beginning to end, supporting me through my journey. The whole team at Edupace is working hard to achieve my dream. All the processes and procedures are really smooth. Once again, I felt gratitude for all the team members who worked behind this successful journey to the Germany.</p>
+                      
+                      <p class="card-text" style="text-align:justify; font-family: PT-serif;">Edupace Language Academy has my sincere gratitude for making my dream of studying in the Spain a reality. Thank you so much. They followed a systematic approach from beginning to end, supporting me through my journey. The whole team at Edupace is working hard to achieve my dream. All the processes and procedures are really smooth. Once again, I felt gratitude for all the team members who worked behind this successful journey to the Germany.</p>
                   </div>
                 </div>
               </div>
@@ -715,13 +611,14 @@
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/4140/4140048.png" alt="No-1 Best Study Abroad Academy In Thrissur"> -->
                       </div>
                       <div class="card-body-right">
-                          <h3 class="card-title">Shinto Roy </h3>
+                          <h4 class="card-title">Shinto Roy </h4>
+                          <p>Kuriyachira</p>
                           <!-- <img src="https://cdn-icons-png.flaticon.com/128/992/992001.png" alt=""> -->
                       </div>
                   </div>
                   <div class="card-desc">
-                      <!-- <h3 class="card-title">Nayzak UI Kit</h3> -->
-                      <p class="card-text" style="text-align:justify;">I strongly recommend Edupace Language Academy Thrissur for anyone dreaming of studying abroad. Their staff is knowledgeable, professional, and always ready to help with any questions. They went the extra mile to assist me in every step, from choosing the right program to handling visa applications. Their expertise, attention to detail, and personalized approach make them an excellent choice for anyone in Thrissur seeking guidance in international education.</p>
+                      
+                      <p class="card-text" style="text-align:justify; font-family: PT-serif;">. I'm extremely delighted by the service provided by Edupace Language Academy in Thrissur. The staff is well-mannered, polite, and really helpful in each and every step. I would personally prefer the Edupace service for anyone who's looking to study abroad. Thank you for your service, and I wish you goodwill in your future endeavors.</p>
                   </div>
                 </div>
               </div>
