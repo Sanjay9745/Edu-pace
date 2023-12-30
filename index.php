@@ -4,31 +4,14 @@
     <meta charset="UTF-8" />
     <meta name="author" content="EDUPACE LANGUAGE ACADEMY">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
-    <!-- <meta name="description" content="Best Study Abroad agency in Thrissur"> -->
-    <!-- <meta name="description" content="German Study Abroad Agency in Thrissur">
-    <meta name="description" content="Germany Language Coaching in thrissur">
-    <meta name="description" content="Spanish Language coaching in thrissur">
-    <meta name="description" content="Pathway program in thrissur">
-    <meta name="description" content="Nurses to Germany in thrissur">
-    <meta name="description" content="ausbildung in Thrissur">
-    <meta name="description" content="Free ausbildung in Thrissur">
-    <meta name="description" content="Best ausbildung in Thrissur">
-    <meta name="description" content="Ausbildung in thrissur courses">
-    <meta name="description" content="Best study abroad consultants in Thrissur">
-    <meta name="description" content="Study abroad consultants in Thrissur">
-    <meta name="description" content="Education consultancy Thrissur">
-    <meta name="description" content="study abroad consultants near me">
-    <meta name="description" content="overseas Education Consultants in Thrissur">
-    <meta name="description" content="Best education consultants in Thrissur">
-    <meta name="description" content="Germany nursing recruitment agency">
-    <meta name="description" content="Nursing jobs in Germany for foreigners">
-    <meta name="description" content="Doctors to germany from india">
-    <meta name="description" content="Best doctors to germany"> -->
+    
     <meta property="og:type" content="website">
-    <meta name="description" content="Best Study Abroad agency - German language school in Thrissur for both online and offline German classes is German Language Course Thrissur.Top Center for Levels A1 A2 B1 B2 C1 C2.">
+    <meta name="google-site-verification" content="b0kcgpDsVCYJX7SYm9XeBC2gHT9LdYynxSBtEm5OOSI" />
+    <meta name="description" content="German Language Course in Thrissur,Best German Language Institute in Thrissur for Online & Offline German Classes .Best Centre for A1 to C1.">
     
     <meta property="og:title" content="Edu Pace">
     <meta property="og:url" content="https://edupace.org/">
@@ -41,7 +24,7 @@
 
 
     
-    <link rel="canonical" href="https://edupace.org/about.php" />
+    <link rel="canonical" href="https://edupace.org/training/german_thrissur.php" />
 
     <title>Best German Language Course in Thrissur</title>
      <!-- <link rel="canonical" href="https://edupace.org/" /> -->
@@ -130,7 +113,7 @@
 
 <div class="budhha-container container">
     <div class="budhha-head">
-        <h1>Digital Buddha</h1>
+        <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Digital Buddha</h4>
         <h4>बुद्धा शिक्षा विद्यालय</h4>
     </div>
     <div class="budhha-container-body container">
@@ -207,7 +190,7 @@
             <br>
             <br> -->
           <div class="tabcontents">
-          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Matching Talent With Opportunity For a  Brighter Tomorrow</h4>
+          <h1 >Matching Talent With Opportunity For a  Brighter Tomorrow</h1>
             <div class="tabcontent" id="tab_div1" style="display: block;">
                 <!-- Tab 1 English -->
                 <div class="row education-card-container">
@@ -481,7 +464,7 @@
       </div>
     </div>
     <div class="choose-us-mob-container">
-      <h4 style="font-size: 30px; font-weight:200px; color:#101663;">WHY CHOOSE US ?</h4>
+      <h4 style="font-size: 30px; font-weight:200px; color:#101663;">REASON TO SELECTORS ? </h4>
       <div class="choose-us-mob-cards">
 
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll1.png');background-size: cover; ">

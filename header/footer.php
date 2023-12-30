@@ -92,19 +92,19 @@
                     Quick Links
                   </h6>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Home</a>
+                    <a href="index.php" class="nav-link" style="color: white;">Home</a>
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">About Us</a>
+                    <a href="about.php" class="nav-link" style="color: white;">About Us</a>
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Coaching</a>
+                    <a href="training/ielts.php" class="nav-link" style="color: white;">Coaching</a>
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Study Abroad</a>
+                    <a href="ausbildung.php" class="nav-link" style="color: white;">Study Abroad</a>
                   </p>
                   <p>
-                    <a href="" class="nav-link" style="color: white;">Career Abroad</a>
+                    <a href="nursestogerman.php" class="nav-link" style="color: white;">Career Abroad</a>
                   </p>
                 </div>
                 <!-- Grid column -->
@@ -115,45 +115,45 @@
                   <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
                     Documentations
                   </h6>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Data Flow</a>
+                  <p style="color:white;">
+                    Data Flow
                   </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Eligiblity</a>
+                  <p style="color:white;">
+                    Eligiblity
                   </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Credentials</a>
+                  <p style="color:white;">
+                    Credentials
                   </p>
-                  <p>
-                    <a href="#!" class="nav-link" style="color: white;">Good Standing</a>
+                  <p style="color:white;">
+                    Good Standing
                   </p>
-                  <p>
-                    <a href="" class="nav-link" style="color: white;">Embassy Attestation</a>
+                  <p style="color:white;">
+                    Embassy Attestation
                   </p>
-                  <p>
-                    <a href="" class="nav-link" style="color: white;">HRD Attestation</a>
+                  <p style="color:white;">
+                    HRD Attestation
                   </p>
-                  <p>
-                    <a href="" class="nav-link" style="color: white;">Exam Registration</a>
+                  <p style="color:white;">
+                    Exam Registration
                   </p>
-                  <p>
-                    <a href="" class="nav-link" style="color: white;">Foreign Verification</a>
+                  <p style="color:white;">
+                    Foreign Verification
                   </p>
                   <br>
                   <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
                     Language Training
                   </h6>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">English</a>
+                    <a href="training/ielts.php" class="nav-link" style="color: white;">English</a>
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Spanish</a>
+                    <a href="training/spanish.php" class="nav-link" style="color: white;">Spanish</a>
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">French</a>
+                    <a href="training/french.php" class="nav-link" style="color: white;">French</a>
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">German</a>
+                    <a href="training/german.php" class="nav-link" style="color: white;">German</a>
                   </p>
                 </div>
                 <!-- Grid column -->
@@ -165,26 +165,26 @@
                     German Program
                   </h6>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Nurses</a>
+                    <a href="nursetogerman.php" class="nav-link" style="color: white;">Nurses</a>
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Ausbildung</a>
+                    <a href="ausbildung.php" class="nav-link" style="color: white;">Ausbildung</a>
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Professionals</a>
+                    Professionals
                   </p>
                   <br>
                   <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">
                     Spain Program
                   </h6>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Doctors</a>
+                    Doctors
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Engineers</a>
+                    Engineers</a>
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">Student</a>
+                    Student
                   </p>
                   <br>
                   <h6 class="text-uppercase fw-bold mb-4">
@@ -210,13 +210,13 @@
                     For Medical Professionals
                   </h6>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">DHA</a>
+                    DHA
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">HAAD</a>
+                    HAAD
                   </p>
                   <p>
-                    <a href="#!" class="nav-link" style="color: white;">PROMETRIC</a>
+                    PROMETRIC
                   </p>
                   <br>
                   <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">Contact</h6>
