@@ -411,7 +411,7 @@ body{
   text-align: center;
   font-size:1.5rem;
   font-weight: 500;
-  color:var(--dark-blue)
+  color:white;
 }
 .choose-us-mob-cards{
     width: 100%;

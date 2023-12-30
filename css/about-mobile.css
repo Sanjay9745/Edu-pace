@@ -1,4 +1,4 @@
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 640px) {
     html,
 body {
   overflow-x: hidden;
@@ -52,6 +52,10 @@ body {
         padding: 200px 0 0 20px;
         font-size: 2rem;
         color: var(--dark-blue);
+        width: 100%;
+        height: auto;
+        /* max-height: 900px; Set a maximum height if needed */
+        object-fit: cover;
       }
       .about-hero-content p {
         font-size: 2rem;

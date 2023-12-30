@@ -110,7 +110,7 @@
             <h2 style="color: red;">Welcome To Edupace Academy!</h2>
             <br>
             
-              <h3><span style="color: #101663; font-weight: 200px;">Unlocking Potential, Igniting Careers: Your Journey To Success Begins Here!</span></h3>
+              <h3><span style="color: #101663; font-weight: 200px;">Best German Language Coaching Center in Thrissur</span></h3>
               <br>
               <p style="text-align: justify; font-family: PT-serif; font-size: 21px;">
               At our academy, we are dedicated to making the journey of learning German, Spanish, French, IELTS, OET as an inspiring one. Our passionate instructors provide high-quality lessons to help you master the German, Spanish,and French language with confidence. Whether you are a beginner or looking to deepen your knowledge, you'll find the perfect learning environment here. Explore the richness of  culture and language with us! 
@@ -485,20 +485,20 @@
       <div class="choose-us-mob-cards">
 
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll1.png');background-size: cover; ">
-          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Personalized Learning Paths</h4>
+          <h4 style="font-size: 30px; font-weight:200px; color:white;">Personalized Learning Paths</h4>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll2.png');background-size: cover;">
-          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Flexible Learning Options</h4>
+          <h4 style="font-size: 30px; font-weight:200px; color:white;">Flexible Learning Options</h4>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll3.png');background-size: cover;">
-          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Periodic Assessments</h4>
+          <h4 style="font-size: 30px; font-weight:200px; color:white;">Periodic Assessments</h4>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll4.png');background-size: cover;">
-          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">200+ Successful 
+          <h4 style="font-size: 30px; font-weight:200px; color: white;">200+ Successful 
                 Recruitments</h4>
         </div>
         <div class="choose-us-mob-card"  style="background:url('./assets/images/scroll4.png');background-size: cover;">
-          <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Placement Assistance To Germany, Spain and Many Others</h4>
+          <h4 style="font-size: 30px; font-weight:200px; color: white;">Placement Assistance To Germany, Spain and Many Others</h4>
         </div>
       </div>
     </div>
