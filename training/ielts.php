@@ -70,6 +70,7 @@
           navLinks.classList.toggle("show4");
         };
   </script>
+  
     <div class="internship-container">
       <div class="internship-home-container">
         <div class="internship-home-header " style= "background: url('./assets/images/IELTS.jpg');">
@@ -133,7 +134,7 @@
           <div class="internship-home-course-timeline-list">
 
             <ul>
-              <p style="padding-right: 50px;" ><b>Learning Pathway</b></p>
+              <p  ><b>Learning Pathway</b></p>
               <li>
                 Familiarize Yourself with the Test
                 
@@ -190,7 +191,7 @@
             </ul>
           </div>
           <div class="internship-course-certification">
-            <img src="../assets/index/about-1.jpg" class="education-english" style="width: 430px; height:250px; border-radius: 20px; margin-bottom: 30%; margin-top: 3%;" alt="" />
+            <img src="../assets/index/about-1.jpg" class="education-english"  alt="" />
             <!-- <div>
               <h3>Master's Certificate</h3>
               <p>*You will get individual certificates for each course.</p>
@@ -425,6 +426,26 @@
             
           </form>
         </div>
+
+        <div class="request-form-mob">
+        <form>
+            <h3 style="color: #101663;">Request For More Information</h3>
+            <br>
+            <div class="request-form-field">
+              <label class="form-label" style="color: #101663;">Name</label>
+              <input type="" name=""  class="form-control" placeholder="Enter Your Name">
+              <label class="form-label" style="color: #101663;">Email</label>
+              <input type="" name=""  class="form-control" placeholder="Enter Your Email">
+              <label class="form-label" style="color: #101663;">Contact Number</label>
+              <input type="" name=""  class="form-control" placeholder="Contact Number">
+              <label class="form-label" style="color: #101663;">Write Your Quote</label>
+              <textarea type="" name=""  class="form-control">Message</textarea>
+              <button class="btn button-color" >Send Message!</button>
+            </div>
+            
+          </form>
+        </div>
+
       <!-- <div class="internship-subscribe">
         <div class="internship-subscribe-container">
           <img src="./assets/images/email.svg" alt="" >

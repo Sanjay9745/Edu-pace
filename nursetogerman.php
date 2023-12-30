@@ -39,7 +39,7 @@
 
 </div>
 
-<div class="nurses-container">
+<div class="nurses-container ">
     <div class="nurse-content">
         <h1>Nurses to Germany</h1>
         <p>We Support How You Support!</p>

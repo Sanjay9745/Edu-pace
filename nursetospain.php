@@ -51,7 +51,7 @@
         <div class="about-program-left">
             <img src="https://careoptionsforkids.com/hubfs/Imported_Blog_Media/Is-It-Hard-to-Become-a-Nurse-1.jpg" alt="img">
         </div>
-        <div class="about-program-right">
+        <div class="about-program-right" id="about-program-right-nursestospain">
             <h1>About the Program</h1>
             <ul>
                 <li>

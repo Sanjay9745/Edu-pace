@@ -72,7 +72,7 @@
   </script>
     <div class="internship-container">
       <div class="internship-home-container">
-        <div class="internship-home-header " style="background: url('assets/images/german.jpg');">
+        <div class="internship-home-header "  id="german-hero" style="background-image: url('assets/images/german.jpg');">
           <div class="internship-home-header-content">
             <h1 style="color:black;">Speak the language of success - German connects worlds</h1>
             <!-- <div class="internship-home-header-middle">
@@ -85,7 +85,7 @@
                 <i class="fa-regular fa-star"></i>
               </span>
             </div> -->
-            <p style="text-align:justify; color:black;">
+            <p style="color:black; text-align:justify; font-size:20px; ">
               In Central Europe, German is the language that is most commonly spoken. In addition, it is the most commonly spoken language in the German-speaking communities of Belgium, Liechtenstein, South Tyrol, Austria, and Switzerland. It is also an official language in Luxembourg, though it is not the majority tongue there. Nouns, pronouns, and adjectives in German have four cases: nominative, accusative, genitive, and dative. and the three genders (neutral, feminine, and masculine). and verbs, both strong and weak. That being said, one of the best ways to improve the appearance of your future is to learn German. Furthermore, after English, it is the second most commonly spoken Germanic language.
             </p>
             <br>
@@ -160,14 +160,12 @@
               </li>
               <li>Introduction to German Culture</li>
               <p>Intermediate Level (B1-B2): Building Proficiency</p>
-              
-            <li>Expanded Vocabulary<span></span></li>
+                <li>Expanded Vocabulary<span></span></li>
                 <li>Intermediate Grammar<span></span></li>
-              
-              <li>Reading Comprehension<span></span></li>
-              <li>Listening and Speaking Practice<span></span></li>
-              <li>Writing Skills<span></span></li>
-              <li>Cultural Exploration<span></span></li>
+                <li>Reading Comprehension<span></span></li>
+                <li>Listening and Speaking Practice<span></span></li>
+                <li>Writing Skills<span></span></li>
+                <li>Cultural Exploration<span></span></li>
               <!-- <li>
                 Nodejs
 
@@ -201,7 +199,7 @@
             </ul>
           </div>
           <div class="internship-course-certification">
-            <img src="../assets/index/about-1.jpg" class="education-english" style="width: 430px; height:250px; border-radius: 20px; margin-bottom: 30%; margin-top: 3%;" alt="" />
+            <img src="../assets/index/about-1.jpg" class="education-english" alt="" />
             <!-- <div>
               <h3>Master's Certificate</h3>
               <p>*You will get individual certificates for each course.</p>
@@ -448,6 +446,26 @@
             
           </form>
         </div>
+
+        <div class="request-form-mob">
+        <form>
+            <h3 style="color: #101663;">Request For More Information</h3>
+            <br>
+            <div class="request-form-field">
+              <label class="form-label" style="color: #101663;">Name</label>
+              <input type="" name=""  class="form-control" placeholder="Enter Your Name">
+              <label class="form-label" style="color: #101663;">Email</label>
+              <input type="" name=""  class="form-control" placeholder="Enter Your Email">
+              <label class="form-label" style="color: #101663;">Contact Number</label>
+              <input type="" name=""  class="form-control" placeholder="Contact Number">
+              <label class="form-label" style="color: #101663;">Write Your Quote</label>
+              <textarea type="" name=""  class="form-control">Message</textarea>
+              <button class="btn button-color" >Send Message!</button>
+            </div>
+            
+          </form>
+        </div>
+
       <!-- <div class="internship-subscribe">
         <div class="internship-subscribe-container">
           <img src="./assets/images/email.svg" alt="" >

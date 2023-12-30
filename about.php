@@ -21,7 +21,7 @@
     <div class="about-container" >
       <div class="about-hero-container">
        
-        <div class="about-hero-content" style="background-image: url('assets/index/about/about.jpg'); background-size: cover; background-repeat: no-repeat;">
+        <div class="about-hero-content" style="background-image: url('assets/index/about/about.jpg'); background-size: cover; background-repeat: no-repeat; background-position: bottom;">
           
           <!-- <div class="about-txt">
           <p style="color: white;">The Carrier</p>
@@ -72,7 +72,7 @@
             <span>Edu Pace Language Academy:</span>
             
           </div>  
-          <h2 style="text-align:center;">Redefining Linguistic Proficiency and HR Excellence</h2>
+          <h2>Redefining Linguistic Proficiency and HR Excellence</h2>
           <br>
           <img src="./assets/images/pic 2.png" alt="" />
         </div>

@@ -16,11 +16,22 @@ body {
     color: #fff;
     font-size: 2.5em;
   }
+
+  .carousel-inner{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-top: 70px;
+
+  }
   
   .carousel-item img {
     width: 100%;
-    height: 600px;
-  }
+    height: auto;
+    /* max-height: 900px; Set a maximum height if needed */
+    object-fit: cover;
+}
+
   
   .carousel-controls {
     position: absolute;
@@ -183,7 +194,7 @@ body {
     width: 400px;
     height: auto;
     border-radius: 15px;
-    background-color: #f0f2f5;
+    background-color: #f0f2f500;
 
 }
 
@@ -224,7 +235,7 @@ body {
     top: 50%;
     left: 30px;
     font-size: 30px;
-    color: #3b3838;
+    color: #3b383800;
     cursor: pointer;
 }
 
@@ -233,11 +244,15 @@ body {
     top: 50%;
     right: 30px;
     font-size: 30px;
-    color: #312f2f;
+    color: #312f2f00;
     cursor: pointer;
 }
 
 @media (max-width: 767px) {
+    
+    .nurses-container {
+        padding: 0;
+    }
     
     .nurse-content h1{
         font-size: 2rem;
@@ -261,17 +276,19 @@ body {
         align-items: center;
         flex-direction: column;
         gap: 20px;
-        padding: 20px;
+        /* padding: 20px; */
         width: 100%;
         height: 100%;
     }
 
     .about-program-right {
         width: 100%;
+        padding: 0;
     }
 
     .about-program-left {
         width: 100%;
+        padding: 0;
     }
 
 
@@ -279,6 +296,18 @@ body {
         width: 100%;
         height: auto;
         object-fit: cover;
+    }
+
+    #about-program-right-nursestospain {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        padding-left: 20px;
+    }
+
+    #about-program-right-nursestospain ul{
+        margin-left: -16px
+
     }
     
     .about-program-right ul {
@@ -312,8 +341,13 @@ body {
         scroll-behavior: smooth;
     }
 
+    .slider1 .container {
+        height: 0;
+    }
+
     .slider1 .card1 {
         flex: 0 0 auto;
+        width: 100%;
     }
 
     .slider1 .card1 img {
