@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Edu Pace</title>
     <link rel="stylesheet" href="./css/index.css" />
-    <link rel="stylesheet" href="./css/navbar.css" />
+    <!-- <link rel="stylesheet" href="./css/navbar.css" /> -->
     <link rel="stylesheet" href="./css/home.css" />
     <link rel="stylesheet" href="./css/home-mobile.css" />
-    <link rel="stylesheet" href="./css/footer.css" />
+    <!-- <link rel="stylesheet" href="./css/footer.css" /> -->
     <link rel="stylesheet" href="./css/blob.css">
     <link rel="stylesheet" href="./css/animation-card.css">
     
@@ -34,83 +34,62 @@
   </head>
   <body>
 
-    <nav>
-      <div class="navbar">
-        <i class="fa-solid fa-bars open-bars"></i>
-        <div class="logo">
-          <img src="../assets/images/edupace-logo-ch.png" style="width: 270px; height: auto;" alt="">
-          <!-- <a href="#">Edu Pace Langauge Academy</a> -->
-        </div>
-        <button class="mobbutton-9" role="button">Get Started</button>
-      
-        <div class="nav-links">
-          <div class="sidebar-logo">
-            
-          
-            <i class="fa-solid fa-xmark close-bars"></i>
-          </div>
-          
-          <ul class="links">
-            <li class="active"><a href="../index.php">Home</a></li>
-              <li><a href="../about.php">About Us</a></li>
-         
-            <li>
-              <a href="#">Language Training</a>
-              <i class="fa-solid fa-chevron-down arrow js-arrow"></i>
-              <ul class="js-sub-menu sub-menu">
-                <li><a href="ielts.php">English</a></li>
-                <li><a href="german.php">German</a></li>
-                <li><a href="spanish.php">Spanish</a></li>
-                <li><a href="french.php">French</a></li>
-              </ul>
-            </li>
-               <li>
-              <a href="#">Study Abroad</a>
-              <i class="fa-solid fa-chevron-down htmlcss-arrow arrow"></i>
-              <ul class="htmlCss-sub-menu sub-menu">
-                <li><a href="../ausbildung.php">Ausbildung Germany</a></li>
-                <li><a href="../vocational_training.php">Vocation Training Program In Spain</a></li>
-                <li><a href="#">Masters Program at Germany</a></li>
-                <li><a href="#">Doctors To Spain</a></li>
-                <li><a href="#">Paid Internship Program</a></li>
-                <!-- <li class="more">
-                  <span
-                    ><a href="#">More</a>
-                    <i class="fa-solid fa-chevron-down arrow more-arrow"></i>
-                  </span>
-                  <ul class="more-sub-menu sub-menu">
-                    <li><a href="#">Neumorphism</a></li>
-                    <li><a href="#">Pre-loader</a></li>
-                    <li><a href="#">Glassmorphism</a></li>
-                  </ul>
-                </li> -->
-              </ul>
-            </li>
-            <li><a href="#">Careers</a>
-              <i class="fa-solid fa-chevron-down node-arrow arrow "></i>
-              <ul class="node-sub-menu sub-menu">
-                <li><a href="../nursetogerman.php">Nurses To Germany</a></li>
-                <li><a href="../drivertogerman.php">Drivers To Germany</a></li>
-                <!-- <li><a href="../nursetospain.php">Nurses To Spain</a></li> -->
-                
-                <li><a href="../doctors_to_spain.php">Doctors To Spain(MBBS / BDS)</a></li>
-                <li><a href="../download.php">Downloads</a></li>
-              </ul>
-            </li>
-            <li><a href="../contact.php">Contact Us</a></li>
-            <li>
-              <button class="button-9" role="button">Get Started</button>
-            </li>
+    <nav class="navbar navbar-expand-sm fixed-top" style="background-color: white;">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="../assets/images/edupace-logo-ch.png"  alt="Thrissur No-1 Study Abroad Academy" style="height: 70px; width: auto;"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a href="../index.php" class="nav-link " style="color: #101663; font-weight: bold; font-size: 17px;">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="../about.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">About Us</a>
+        </li>
+        <li class="nav-item">
+          <a href="../documentations.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">Documentation</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Language Training</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item nav-link" href="ielts.php" style="color: #101663; font-weight: bold; font-size: 17px;">English</a></li>
+            <li><a class="dropdown-item nav-link" href="german.php" style="color: #101663; font-weight: bold; font-size: 17px;">German</a></li>
+            <li><a class="dropdown-item nav-link" href="spanish.php" style="color: #101663; font-weight: bold; font-size: 17px;">Spanish</a></li>
+            <li><a class="dropdown-item nav-link" href="french.php" style="color: #101663; font-weight: bold; font-size: 17px;">French</a></li>
           </ul>
-        </div>
-        <div class="search-box">
-          <i class="bx bx-search"></i>
-          <div class="input-box">
-            <input type="text" placeholder="Search..." />
-          </div>
-        </div>
-      </div>
-    </nav>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Study Abroad</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item nav-link" href="../ausbildung.php" style="color: #101663; font-weight: bold; font-size: 17px;">Ausbildung Germany</a></li>
+            <li><a class="dropdown-item nav-link" href="../vocational_training.php" style="color: #101663; font-weight: bold; font-size: 17px;">Vocation Training Program In Spain</a></li>
+            <li><a class="dropdown-item nav-link" href="#" style="color: #101663; font-weight: bold; font-size: 17px;">Masters Program at Germany</a></li>
+            <li><a class="dropdown-item nav-link" href="../doctors_to_spain.php" style="color: #101663; font-weight: bold; font-size: 17px;">Doctors To Spain</a></li>
+            <li><a class="dropdown-item nav-link" href="#" style="color: #101663; font-weight: bold; font-size: 17px;">Paid Internship Program</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Career Abroad</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item nav-link" href="../nursetogerman.php" style="color: #101663; font-weight: bold; font-size: 17px;">Nurses To Germany</a></li>
+            <li><a class="dropdown-item nav-link" href="../drivers_to_german.php" style="color: #101663; font-weight: bold; font-size: 17px;">Drivers To Germany</a></li>
+            <li><a class="dropdown-item nav-link" href="../doctors_to_spain.php" style="color: #101663; font-weight: bold; font-size: 17px;">Doctors To Spain(MBBS / BDS)</a></li>
+            <li><a class="dropdown-item nav-link" href="../download.php" style="color: #101663; font-weight: bold; font-size: 17px;">Downloads</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a href="../contact.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">Contact Us</a>
+        </li>
+        <li class="nav-item">
+          <!-- <a href="about.php" class="nav-link btn" style="color: #101663; font-weight: bold;">Get Started</a> -->
+          <button class="btn" style="background-color:#101663;"><a href="about.php" style="color: white; font-weight: bold; font-size: 17px; text-decoration: none;">Get Started</a></button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
   
    
   </body>
