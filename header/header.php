@@ -38,7 +38,7 @@
       <div class="navbar">
         <i class="fa-solid fa-bars open-bars "></i>
         <div class="logo">
-          <img src="assets/images/edupace-logo-ch.png"  alt="Thrissur No-1 Study Abroad Academy">
+          <img src="assets/images/edupace.gif"  alt="Thrissur No-1 Study Abroad Academy" style="height: 80px; width: auto;">
           <!-- <a href="#">Edu Pace Langauge Academy</a> -->
         </div>
         <button class="mobbutton-9" role="button">Get Started</button>
