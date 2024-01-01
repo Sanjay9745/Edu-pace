@@ -35,24 +35,29 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-sm fixed-top" style="background-color: white;">
-  <div class="container">
-    <a class="navbar-brand" href="#"><img src="assets/images/edupace-logo-ch.png"  alt="Thrissur No-1 Study Abroad Academy" style="height: 70px; width: auto;"></a>
+  <div class="container-fluid logo-header">
+    <a class="navbar-brand" href="#"><img src="assets/images/logo.png"  alt="Thrissur No-1 Study Abroad Academy" style=" width: 250px; height: auto;"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
         <li class="nav-item active">
-          <a href="index.php" class="nav-link " style="color: #101663; font-weight: bold; font-size: 17px;">Home</a>
+          <a href="index.php" class="nav-link " style="color: #101663; font-weight: bold; font-size: 17px; margin-right: 10px;">Home</a>
         </li>
         <li class="nav-item">
-          <a href="about.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">About Us</a>
-        </li>
-        <li class="nav-item">
-          <a href="documentations.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">Documentation</a>
+          <a href="about.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px; margin-right: 10px;">About Us</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Language Training</a>
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px; margin-right: 10px;">For Medical Professionals</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item nav-link" href="HAAD.php" style="color: #101663; font-weight: bold; font-size: 17px;">HAAD</a></li>
+            <li><a class="dropdown-item nav-link" href="DHA.php" style="color: #101663; font-weight: bold; font-size: 17px;">DHA</a></li>
+            <li><a class="dropdown-item nav-link" href="QATAR_PROMETRIC.php" style="color: #101663; font-weight: bold; font-size: 17px;">PROMETRIC</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px; margin-right: 10px;">Language Training</a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item nav-link" href="training/ielts.php" style="color: #101663; font-weight: bold; font-size: 17px;">English</a></li>
             <li><a class="dropdown-item nav-link" href="training/german.php" style="color: #101663; font-weight: bold; font-size: 17px;">German</a></li>
@@ -61,7 +66,7 @@
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Study Abroad</a>
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px; margin-right: 10px;">Study Abroad</a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item nav-link" href="ausbildung.php" style="color: #101663; font-weight: bold; font-size: 17px;">Ausbildung Germany</a></li>
             <li><a class="dropdown-item nav-link" href="vocational_training.php" style="color: #101663; font-weight: bold; font-size: 17px;">Vocation Training Program In Spain</a></li>
@@ -71,16 +76,17 @@
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Career Abroad</a>
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px; margin-right: 10px;">Career Abroad</a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item nav-link" href="nursetogerman.php" style="color: #101663; font-weight: bold; font-size: 17px;">Nurses To Germany</a></li>
             <li><a class="dropdown-item nav-link" href="drivers_to_german.php" style="color: #101663; font-weight: bold; font-size: 17px;">Drivers To Germany</a></li>
             <li><a class="dropdown-item nav-link" href="doctors_to_spain.php" style="color: #101663; font-weight: bold; font-size: 17px;">Doctors To Spain(MBBS / BDS)</a></li>
+            <li><a class="dropdown-item nav-link" href="documentations.php" style="color: #101663; font-weight: bold; font-size: 17px;">Documentation</a></li>
             <li><a class="dropdown-item nav-link" href="download.php" style="color: #101663; font-weight: bold; font-size: 17px;">Downloads</a></li>
           </ul>
         </li>
         <li class="nav-item">
-          <a href="contact.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">Contact Us</a>
+          <a href="contact.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;margin-right: 10px;">Contact Us</a>
         </li>
         <li class="nav-item">
           <!-- <a href="about.php" class="nav-link btn" style="color: #101663; font-weight: bold;">Get Started</a> -->

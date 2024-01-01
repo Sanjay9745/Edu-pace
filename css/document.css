@@ -14,7 +14,7 @@ body {
     scroll-behavior: smooth;
 
   }
-  
+
   .carousel-caption h1 {
     color: #fff;
     font-size: 2.5em;
@@ -150,10 +150,10 @@ body {
     height: 300px;
   }
 
-  img{
+  /*img{
     box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.1);
     border-radius: 10px
-  }
+  }*/
 
 .content-details{
   position: absolute;
@@ -215,6 +215,138 @@ body {
     gap: 20px;
   }  
 
+}
+
+/*DHA*/
+
+.text-black-content h3{
+    background-color: #101663;
+    width: 100%;
+    color: white;
+    height: auto;
+  }
+.text-black-content p{
+  color: black;
+  text-align: justify;
+  font-size: 20px;
+  font-family: PT-serif;
+}
+.text-black-content ul{
+  color: black;
+  text-align: justify;
+  font-size: 20px;
+  font-family: PT-serif;
+}
+.text-black-content-left{
+  display: none;
+}
+.ads-content-left img{
+  display: none;
+}
+.text-black-content-right .active{
+  background-color: #101663;
+}
+.text-black-content-right .active a{
+  color: white;
+}
+
+.text-black-content-right p{
+  background-color: #d9d9d9;
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+  top: 0px;
+  height: 50px;
+  font-weight: bold;
+}
+.text-black-content-right p a{
+  text-decoration: none;
+  color: black;
+}
+.ads-content-right img{
+  width: 100%;
+}
+.header-image-full-mobile{
+  display: none;
+}
+.text-black-content ol{
+  color: black;
+}
+
+@media  screen and (max-width: 640px) {
+      
+        
+          
+                
+      .mobile-row{
+          width: 160%;
+      }
+      .text-black-content h3{
+        text-align: center;
+      }
+      .text-black-content p{
+        text-align: justify;
+      }
+      .text-black-content-left{
+        display: inline-block;
+      }
+      .ads-content-left img{
+        display: inline-block;
+      }
+      .text-black-content-left{
+        width: 100%;
+
+      }
+      .text-black-content ol{
+        color: black;
+      }
+      .text-black-content-left .active{
+        background-color: #101663;
+      }
+      .text-black-content-left .active a{
+        color: white;
+      }
+      .text-black-content-left p{
+        background-color: #d9d9d9;
+        height: 50px;
+        color: black;
+        text-align: center;
+        padding-top: 10px;
+        top: 0px;
+        
+/*        width: 100%;*/
+        font-weight: bold;
+      }
+      .ads-content-left img{
+        width: 100%
+      }
+      /*.header-image-full{
+        height: 50%;
+      }*/
+      .header-image-full{
+        display: none;
+      }
+      .header-image-full-mobile{
+        display: inline-block;
+      }
+      .header-image-full-mobile img{
+        width: 100%;
+        height: auto;
+/*  height: 400px;*/
+        /*height: 500px;
+        margin-bottom: -180px;
+        margin-top: -100px;*/
+        margin-top: 90px;
+        object-fit: contain;
+        background-size: auto;
+        background-repeat: no-repeat;
+      }
+      .text-black-content-left a{
+        text-decoration: none;
+        color: black;
+      }
+
+    
 }
 
 
