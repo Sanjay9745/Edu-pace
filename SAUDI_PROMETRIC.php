@@ -42,7 +42,7 @@
 
 <section>
     <div class="header-image-full">
-        <img src="assets/slider/Nurses To Spain Thrissur No-1 Language Academy.jpeg" class="img-fluid" alt="...">
+        <img src="assets/slider/Saudhi-Prometric-Coaching--in-Thrissur.jpg" class="img-fluid" alt="...">
     </div>
 </section>
 <!-- Mobile View -->

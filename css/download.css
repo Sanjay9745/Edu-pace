@@ -243,7 +243,9 @@ body{
   border-radius: 15px;
   box-shadow: 0px 10px 15px -3px rgba(0,0,0,0.1);
 }
-
+.header-image-full-mobile{
+  display: none;
+}
 
 @media (max-width: 767px) {
     .slider1 .card1 img {
@@ -284,4 +286,22 @@ body{
         border-radius: 15px;
 
     }
+    .header-image-full{
+        display: none;
+      }
+      .header-image-full-mobile{
+        display: inline-block;
+      }
+      .header-image-full-mobile img{
+        width: 100%;
+        height: auto;
+/*  height: 400px;*/
+        /*height: 500px;
+        margin-bottom: -180px;
+        margin-top: -100px;*/
+        margin-top: 90px;
+        object-fit: contain;
+        background-size: auto;
+        background-repeat: no-repeat;
+      }
 }

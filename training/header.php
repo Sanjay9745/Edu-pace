@@ -48,8 +48,15 @@
         <li class="nav-item">
           <a href="../about.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px; margin-right: 10px;" >About Us</a>
         </li>
-        <li class="nav-item">
-          <a href="../documentations.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px; margin-right: 10px;">For Medical Professionals</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">For Medical Professionals</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item nav-link" href="../HAAD.php" style="color: #101663; font-weight: bold; font-size: 17px;">HAAD</a></li>
+            <li><a class="dropdown-item nav-link" href="../DHA.php" style="color: #101663; font-weight: bold; font-size: 17px;">DHA</a></li>
+            <li><a class="dropdown-item nav-link" href="../SAUDI_PROMETRIC.php" style="color: #101663; font-weight: bold; font-size: 17px;">SAUDI PROMETRIC</a></li>
+            <li><a class="dropdown-item nav-link" href="../QATAR_PROMETRIC.php" style="color: #101663; font-weight: bold; font-size: 17px;">QATAR PROMETRIC</a></li>
+            <li><a class="dropdown-item nav-link" href="../OMAN_PROMETRIC.php" style="color: #101663; font-weight: bold; font-size: 17px;">OMAN PROMETRIC</a></li>
+          </ul>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Language Training</a>
@@ -60,6 +67,9 @@
             <li><a class="dropdown-item nav-link" href="french.php" style="color: #101663; font-weight: bold; font-size: 17px;">French</a></li>
           </ul>
         </li>
+        <li class="nav-item">
+          <a href="../documentations.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">Documentation</a>
+        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Study Abroad</a>
           <ul class="dropdown-menu">
@@ -67,7 +77,7 @@
             <li><a class="dropdown-item nav-link" href="../vocational_training.php" style="color: #101663; font-weight: bold; font-size: 17px;">Vocation Training Program In Spain</a></li>
             <li><a class="dropdown-item nav-link" href="#" style="color: #101663; font-weight: bold; font-size: 17px;">Masters Program at Germany</a></li>
             <li><a class="dropdown-item nav-link" href="../doctors_to_spain.php" style="color: #101663; font-weight: bold; font-size: 17px;">Doctors To Spain</a></li>
-            <li><a class="dropdown-item nav-link" href="#" style="color: #101663; font-weight: bold; font-size: 17px;">Paid Internship Program</a></li>
+            <!-- <li><a class="dropdown-item nav-link" href="#" style="color: #101663; font-weight: bold; font-size: 17px;">Paid Internship Program</a></li> -->
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -76,17 +86,15 @@
             <li><a class="dropdown-item nav-link" href="../nursetogerman.php" style="color: #101663; font-weight: bold; font-size: 17px;">Nurses To Germany</a></li>
             <li><a class="dropdown-item nav-link" href="../drivers_to_german.php" style="color: #101663; font-weight: bold; font-size: 17px;">Drivers To Germany</a></li>
             <li><a class="dropdown-item nav-link" href="../doctors_to_spain.php" style="color: #101663; font-weight: bold; font-size: 17px;">Doctors To Spain(MBBS / BDS)</a></li>
-            <li><a class="dropdown-item nav-link" href="../documentations.php" style="color: #101663; font-weight: bold; font-size: 17px;">Documentation</a></li>
             <li><a class="dropdown-item nav-link" href="../download.php" style="color: #101663; font-weight: bold; font-size: 17px;">Downloads</a></li>
           </ul>
         </li>
         <li class="nav-item">
           <a href="../contact.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">Contact Us</a>
         </li>
-        <li class="nav-item">
-          <!-- <a href="about.php" class="nav-link btn" style="color: #101663; font-weight: bold;">Get Started</a> -->
+        <!-- <li class="nav-item">
           <button class="btn" style="background-color:#101663;"><a href="about.php" style="color: white; font-weight: bold; font-size: 17px; text-decoration: none;">Get Started</a></button>
-        </li>
+        </li> -->
       </ul>
     </div>
   </div>

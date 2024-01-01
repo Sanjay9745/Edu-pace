@@ -18,15 +18,18 @@
 <body>
 
     <?php include("header/header.php") ?>
-  <div class="download-container" style="background-image: url('./assets/images/download.png');">
-    <div class="download-hero-container">
-      <div class="download-hero-content" >
-        <div class="download-txt">
-          <h2>Downloads</h2>
+ 
+    <section>
+        <div class="header-image-full">
+            <img src="assets/slider/download-edupace_language-academy_best-german-language-acdemy-in-thrissur (1).jpg" class="img-fluid" alt="...">
         </div>
-      </div>
-    </div>
-  </div>
+    </section>
+    <!-- Mobile View -->
+    <section>
+        <div class="header-image-full-mobile">
+            <img src="assets/slider/mobile.jpg" class="img-fluid" alt="...">
+        </div>
+    </section>
 
   
 
