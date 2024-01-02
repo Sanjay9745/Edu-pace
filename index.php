@@ -101,6 +101,7 @@
           </p>
           <p style="text-align: justify; font-family: PT-serif; font-size: 21px;">We are committed to providing an immersive and enriching experience for language learners of all levels. Our team of experienced instructors is here to guide you on a journey of linguistic discovery, fostering a supportive environment that empowers you to embrace the beauty of diverse languages.</p>
           <p style="text-align: justify; font-family: PT-serif; font-size: 21px;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
+          <p>We at Edupace Academy Thrissur, provide you German language training in Thrissur to help you to secure the best score to confirm your future prospects of working as a registered nurse , drivers or in selected healthcare departments.</p>
           </div>
 
 
@@ -201,7 +202,7 @@
                     </div>
                     <div class="col-md-4 mb-4">
                         <div class="card edu-card" onclick="location.href='training/oet.html';">
-                            <img src="assets/index/services/Thrissur No-1 OET Coaching Center.png" class="card-img-top" alt="No-1 Best Study Abroad Academy In Thrissur" />
+                            <img src="assets/index/services/Thrissur No-1 OET Coaching Center.jpg" class="card-img-top" alt="No-1 Best Study Abroad Academy In Thrissur" />
                             
                         </div>
                     </div>

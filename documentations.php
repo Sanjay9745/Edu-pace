@@ -19,7 +19,7 @@
 <div id="heroCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="./assets/slider/slider-1.jpg" class="d-block w-100" alt="Slide 1">
+        <img src="./assets/slider/Best-Study-Abroad-Agency-Documentation--Edupace-language-academy.jpg" class="d-block w-100" alt="Slide 1">
         <div class="carousel-caption d-none d-md-block">
           
         </div>
@@ -30,7 +30,7 @@
     </div>
   
     <!-- Navigation buttons at the bottom -->
-    <div class="carousel-controls">
+    <!-- <div class="carousel-controls">
       <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden"></span>
@@ -39,7 +39,7 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden"></span>
       </button>
-    </div>
+    </div> -->
   
 </div>
 

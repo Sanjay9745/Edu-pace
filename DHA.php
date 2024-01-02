@@ -97,7 +97,7 @@
                 <p><a href="OMAN_PROMETRIC.php">OMAN PROMETRIC</a></p>
             </div>
             <div class="ads-content-right">
-                <img src="assets/ads/Kerala Number one Web Development Company.jpeg">
+                <img src="assets/ads/slider.jpg">
             </div>
         </div>
       </div>

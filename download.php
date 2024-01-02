@@ -85,7 +85,7 @@
             <h4>Paid Internship Program</h4>
         </div>
         <div class="download-card">
-            <img src="assets/brochure/paid internship program spain_edupace.jpg" alt="paid internship program spain_edupace">
+            <img src="assets/brochure/Truck Drivers To Germany.jpeg" alt="paid internship program spain_edupace">
             <a href="image.webp" download="image1">Download</a>
             <h4>Truck Drivers to Germany</h4>
         </div>

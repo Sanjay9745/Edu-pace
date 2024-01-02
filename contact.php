@@ -12,8 +12,8 @@
     <?php include("header/header.php") ?>
     <div class="contact-container">
       
-      <div class="contact-hero" style="background-image: url('../assets/images/contact-banner.png');">
-        <h1 class="contact-txt">Contact us</h1>
+      <div class="contact-hero" style="background-image: url('assets/slider/Best-Study-Abroad-Agency-thrissur_-Contact-Number_-Edupace-language-academy.jpg');">
+        <!-- <h1 class="contact-txt">Contact us</h1> -->
       </div>
       <div class="contact-form-container">
         <h4>Contact Us</h4>
