@@ -58,6 +58,9 @@
             <li><a class="dropdown-item nav-link" href="../OMAN_PROMETRIC.php" style="color: #101663; font-weight: bold; font-size: 17px;">OMAN PROMETRIC</a></li>
           </ul>
         </li>
+        <li class="nav-item">
+          <a href="../documentations.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">Documentation</a>
+        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Language Training</a>
           <ul class="dropdown-menu">
@@ -67,9 +70,7 @@
             <li><a class="dropdown-item nav-link" href="french.php" style="color: #101663; font-weight: bold; font-size: 17px;">French</a></li>
           </ul>
         </li>
-        <li class="nav-item">
-          <a href="../documentations.php" class="nav-link" style="color: #101663; font-weight: bold; font-size: 17px;">Documentation</a>
-        </li>
+        
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Study Abroad</a>
           <ul class="dropdown-menu">

@@ -113,12 +113,12 @@
 
 <div class="budhha-container container">
     <div class="budhha-head">
-        <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Digital Buddha</h4>
+        <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Digital Boddhi</h4>
         <h4>बुद्धा शिक्षा विद्यालय</h4>
     </div>
     <div class="budhha-container-body container">
       <div class="budhha-body-left">
-        <img src="assets/images/buddha.jpg"
+        <img src="assets/images/edu.png"
          alt="No-1 Best Study Abroad Academy In Thrissur">
       </div>
       <div class="budhha-body-right">
@@ -131,7 +131,7 @@
     <div class="budhha-container-body container" id="budhha-container-body2">
     
     <div class="budhha-body-left">
-        <img src="assets/images/edu.png"
+        <img src="assets/images/buddha.jpg"
          alt="No-1 Best Study Abroad Academy In Thrissur">
       </div>
       <div class="budhha-body-right">
@@ -150,7 +150,7 @@
             <img src="assets/images/Study Abroad Language Academy.png" alt="No-1 Best Study Abroad Academy In Thrissur">
           </div>
           <div class="mission-right">
-            <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Mission</h4>
+            <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Mission-Boddhi</h4>
             <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">
               At EduPace Language Academy, our mission is to seamlessly intertwine language proficiency and HR solutions, empowering individuals and organizations to thrive in a diverse, interconnected world. Through cutting-edge hybrid methodologies, personalized education, and tailored HR strategies, we aim to cultivate linguistic fluency, foster cultural understanding, and drive professional growth, ensuring our learners and partners excel on the global stage.
             </p>
@@ -158,7 +158,7 @@
         </div>
         <div class="vision container">
           <div class="vision-left ">
-            <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Vision</h4>
+            <h4 style="font-size: 30px; font-weight:200px; color:#101663;">Vision-Boddhi</h4>
             <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">At EduPace Language Academy, we envision a dynamic learning environment where language mastery and professional growth intersect seamlessly. We are the trailblazers in revolutionizing hybrid language training and HR solutions, fostering a global community of culturally adept and linguistically agile individuals.</p>
             <p style="text-align:justify; font-family: PT-serif; font-size: 21px;">Our commitment lies in empowering learners and organizations alike through:</p>
             <p style="text-align:justify; font-family: PT-serif; font-size: 21px;"><b>Hybrid Language Proficiency:</b> We embrace innovative pedagogies to deliver comprehensive language education that transcends boundaries. Blending technology with immersive experiences, we empower learners to communicate fluently and confidently in a multilingual world.</p>
