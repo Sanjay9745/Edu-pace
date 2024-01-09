@@ -1113,3 +1113,26 @@ body{
     
   }
 
+.home-image{
+    padding: 2px !important;
+}
+.solidclosemark{
+    position: absolute;
+    top: 140px;
+    right: 500px;
+    font-size: 1.5rem;
+    transition: all 1s linear;
+    color: white;
+
+}
+.ad-image{
+  transition: all 1s linear;
+}
+.solidclosemark.active1{
+  transform: translateX(550px);
+}
+.ad-image.active1{
+    transform: translateX(500px);
+}
+
+

@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="css/about-mobile.css">
   
   <title>Nurses to germany</title>
+  <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
 </head>
 <body>
     

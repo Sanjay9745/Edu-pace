@@ -12,6 +12,7 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="./css/our-courses.css">
     <link rel="stylesheet" href="./css/index.css">
     <link rel="stylesheet" href="./css/study-abroad.css">

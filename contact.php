@@ -7,6 +7,7 @@
     <title>Contact Us</title>
     <link rel="stylesheet" href="./css/contact.css">
     <link rel="stylesheet" href="./css/index.css">
+    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
   </head>
   <body>
     <?php include("header/header.php") ?>
@@ -52,7 +53,7 @@
       </div>
       <div class="contact-info-container">
         <div class="contact-location">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.6196943971427!2d76.21907477481402!3d10.37226206651903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7f6fc5260cb43%3A0xeca28f4e46ca5694!2z4LSO4LSf4LWBIOC0quC1h-C0uOC1jSDgtJXgtYvgtJrgtY3gtJrgtL_gtILgtJfgtY0g4LS44LWG4LW74LWN4LSx4LW8!5e0!3m2!1sml!2sin!4v1700296679870!5m2!1sml!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15691.046962706998!2d76.2168823!3d10.5194229!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7ef94631b3851%3A0xf735dcfabd2d791c!2sEdu%20pace%20Language%20Academy!5e0!3m2!1sen!2sin!4v1704534971966!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="contact-address">
           <h4>Address</h4>
@@ -62,6 +63,8 @@
           <p><i class="fas fa-phone me-3" ></i> <a href="tel:+919072545002" style="text-decoration:none; color:black;">+91 9072545002</a></p>
         </div>
       </div>
+
+      
 <!-- <div id="footer"></div> -->
 <?php include("header/footer.php") ?>
     </div>

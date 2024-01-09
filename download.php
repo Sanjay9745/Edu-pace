@@ -12,6 +12,7 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
   
   <title>Edupace Language Academy Thrissur No-1</title>
 </head>

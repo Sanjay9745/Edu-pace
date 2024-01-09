@@ -10,6 +10,7 @@
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"> -->
   <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
   <link rel="stylesheet" href="./css/document.css">
+  <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
   <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
@@ -97,7 +98,10 @@
                         <p ><a href="HAAD.php">HAAD</a></p>
                         <p><a href="SAUDI_PROMETRIC.php">SAUDI PROMETRIC</a></p>
                         <p class="active"><a href="QATAR_PROMETRIC>php">QATAR PROMETRIC</a></p>
-                        <p><a href="OMAN_PROMETRIC.php">OMAN PROMETRIC</a></p>
+                        <p ><a href="OMAN_PROMETRIC.php">VUE - OMAN</a></p>
+                        <!-- <p ><a href="OET.php">OET</a></p> -->
+                        <p><a href="NHRA.php">NHRA - BAHRAIN</a></p>
+                        <p><a href="MOH.php">MOH</a></p>
                     </div>
                     <div class="ads-content-left">
                         <img src="assets/ads/Kerala Number one Web Development Company.jpeg">
@@ -110,7 +114,10 @@
                 <p><a href="HAAD.php">HAAD</a></p>
                 <p><a href="SAUDI_PROMETRIC.php">SAUDI PROMETRIC</a></p>
                 <p class="active"><a href="QATAR_PROMETRIC.php">QATAR PROMETRIC</a></p>
-                <p><a href="OMAN_PROMETRIC.php">OMAN PROMETRIC</a></p>
+                <p ><a href="OMAN_PROMETRIC.php">VUE - OMAN</a></p>
+                <!-- <p ><a href="OET.php">OET</a></p> -->
+                <p><a href="NHRA.php">NHRA - BAHRAIN</a></p>
+                <p><a href="MOH.php">MOH</a></p>
             </div>
             <div class="ads-content-right">
                 <img src="assets/ads/Kerala Number one Web Development Company.jpeg">

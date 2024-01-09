@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/nurse.css">
   <link rel="stylesheet" href="css/about.css">
   <link rel="stylesheet" href="css/about-mobile.css">
+  <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
   
   <title>Nurses to germany</title>
 </head>

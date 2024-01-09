@@ -11,7 +11,7 @@
     
     <meta property="og:type" content="website">
     <meta name="google-site-verification" content="b0kcgpDsVCYJX7SYm9XeBC2gHT9LdYynxSBtEm5OOSI" />
-    <meta name="description" content="German Language Course in Thrissur,Best German Language Institute in Thrissur for Online & Offline German Classes .Best Centre for A1 to C1.">
+    <meta name="description" content="Best German Language Coaching Center in Thrissur - Best German Language Institute in Thrissur for Online & Offline German Classes .Best Centre for A1 to C1.">
     
     <meta property="og:title" content="Edu Pace">
     <meta property="og:url" content="https://edupace.org/">
@@ -19,13 +19,13 @@
     <meta property="og:image" content="https://edupace.org/assets/images/hero-slider1 (2).jpeg">
     <meta property="og:image:alt" content="No-1 Best Study Abroad Academy In Thrissur">
     <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
-    <meta property="og:description" content="French, German, Spanish, and English are the languages that EduPace Language Academy specializes in teaching.  The faculty members are courteous, approachable, and have extensive experience in their respective fields. For students to fully acquire the language, our courses adhere to the highest standards. They also understand the diverse educational needs of our students. They employ a method that is both focused and enjoyable to teach our students how to learn a new language efficiently.">
+    <meta property="og:description" content="French, German, Spanish, and IELTS are the languages that EduPace Language Academy specializes in teaching.  The faculty members are courteous, approachable, and have extensive experience in their respective fields. For students to fully acquire the language, our courses adhere to the highest standards. They also understand the diverse educational needs of our students. They employ a method that is both focused and enjoyable to teach our students how to learn a new language efficiently.">
 
 
     
     <link rel="canonical" href="https://edupace.org/training/german_thrissur.php" />
 
-    <title>Best German Language Course in Thrissur</title>
+    <title>Best German Language Coaching Center in Thrissur</title>
      <!-- <link rel="canonical" href="https://edupace.org/" /> -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     
@@ -60,9 +60,9 @@
   </div>
   
   <!-- The slideshow/carousel -->
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="assets/slider/Spanish Language Academy Thrissur No-1.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style=" background-size: cover; width:100%; margin-top: 50px;" >
+  <div class="carousel-inner" style="position:relative;">
+    <div class="carousel-item active" >
+      <img src="assets/slider/Spanish Language Academy Thrissur No-1.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block" style=" background-size: cover; width:100%; margin-top: 50px;" >
     </div>
     <div class="carousel-item">
       <img src="assets/slider/Nurses To Spain Thrissur No-1 Language Academy.jpeg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block"  style="background-size: cover; width:100%; margin-top: 50px;">
@@ -71,7 +71,10 @@
       <img src="assets/slider/German Language Academy Thrissur No-1.jpg" alt="No-1 Best Study Abroad Academy In Thrissur" class="d-block"  style="background-size: cover; width:100%; margin-top: 50px;">
     </div>
   </div>
-  
+<img src="assets/ads/Best German Coaching Institute Kerala.jpeg" class="ad-image" id="ad-image1" style="position: absolute; top: 161px; width: 400px; height: 500px; right: 100px;">
+<span class="fa-solid fa-xmark solidclosemark" id="close-mark1"></span>
+<!-- <button class=" solidclosemark" id="close-mark1">Click me</button> -->
+ 
   <!-- Left and right controls/icons -->
   <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
     <span class="carousel-control-prev-icon"></span>
@@ -92,7 +95,7 @@
             <h2 style="color: red;">Welcome To Edupace Academy!</h2>
             <br>
             
-              <h3><span style="color: #101663; font-weight: 200px;">Best German Language Coaching Center in Thrissur</span></h3>
+              <h3><span style="color: #101663; font-weight: 200px;">Best Foreign Language Coaching Center in Thrissur</span></h3>
               <br>
               <p style="text-align: justify; font-family: PT-serif; font-size: 21px;">
               At our academy, we are dedicated to making the journey of learning German, Spanish, French, IELTS, OET as an inspiring one. Our passionate instructors provide high-quality lessons to help you master the German, Spanish,and French language with confidence. Whether you are a beginner or looking to deepen your knowledge, you'll find the perfect learning environment here. Explore the richness of  culture and language with us! 
@@ -101,7 +104,7 @@
           </p>
           <p style="text-align: justify; font-family: PT-serif; font-size: 21px;">We are committed to providing an immersive and enriching experience for language learners of all levels. Our team of experienced instructors is here to guide you on a journey of linguistic discovery, fostering a supportive environment that empowers you to embrace the beauty of diverse languages.</p>
           <p style="text-align: justify; font-family: PT-serif; font-size: 21px;">Join us in unlocking the doors to new cultures, connections, and possibilities through the power of language. Welcome to a world of words and endless possibilities!</p>
-          <p>We at Edupace Academy Thrissur, provide you German language training in Thrissur to help you to secure the best score to confirm your future prospects of working as a registered nurse , drivers or in selected healthcare departments.</p>
+          <p>We at Edupace Academy Thrissur, provide you Best German language training in Thrissur to help you to secure the best score to confirm your future prospects of working as a registered nurse , drivers or in selected healthcare departments.</p>
           </div>
 
 
@@ -131,7 +134,7 @@
     <div class="budhha-container-body container" id="budhha-container-body2">
     
     <div class="budhha-body-left">
-        <img src="assets/images/buddha.jpg"
+        <img src="assets/images/budha (1).png"
          alt="No-1 Best Study Abroad Academy In Thrissur">
       </div>
       <div class="budhha-body-right">
@@ -529,7 +532,7 @@
                   </div>
                   <div class="card-desc">
                       
-                      <p class="card-text" style="text-align:justify; font-family: PT-serif;">I had a great time getting my student visa for Germany through Edupace Language Academy in Thrissur. Everything went smoothly, and the team was really helpful and responsive to my questions. I want to thank the whole team for their support. I highly recommend Edupace Language Academy in Thrissur for an easy and hassle-free experience. Thanks, Team Edupace, for making my dream a reality!</p>
+                      <p class="card-text" style="text-align:justify; font-family: PT-serif;">I had a Best time getting my student visa for Germany through Edupace Language Academy in Thrissur. Everything went smoothly, and the team was really helpful and responsive to my questions. I want to thank the whole team for their support. I highly recommend Edupace Language Academy in Thrissur for an easy and hassle-free experience. Thanks, Team Edupace, for making my dream a reality!</p>
                   </div>
                 </div>
               </div>
@@ -626,193 +629,20 @@
       >
         <i class="fa-brands fa-whatsapp whatsapp-icon"></i>
       </a>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
-    <script>
-      
-   
-      fetch('./footer.html')
-      .then(response => response.text())
-      .then(html => document.getElementById('footer').innerHTML = html);
+      <script>
+       document.addEventListener("DOMContentLoaded", function() {
+       const closeMark = document.getElementById("close-mark1");
+    const adImage = document.getElementById("ad-image1");
 
-
-      const slider1 = document.querySelector(".slider1");
-        const card1 = document.querySelectorAll(".card1");
-        let card1Width = card1[0].offsetWidth;
-    
-        // Clone the slider1 content for continuous scrolling
-        slider1.innerHTML += slider1.innerHTML;
-    
-        function scrollslider1(direction) {
-            if (direction === 1) {
-                slider1.scrollBy({
-                    left: card1Width + 20,
-                    behavior: 'smooth'
-                });
-            } else if (direction === -1) {
-                slider1.scrollBy({
-                    left: -card1Width - 20,
-                    behavior: 'smooth'
-                });
-            } else {
-                slider1.scrollBy({
-                    left: card1Width + 20,
-                    behavior: 'smooth'
-                });
-            }
-    
-            // Reset scroll position to the beginning when it reaches the cloned set
-            if (slider1.scrollLeft >= slider1.scrollWidth / 2) {
-                slider1.scrollLeft = 0;
-            }
-        }
-    
-        // Automatic scroll every 3 seconds
-        setInterval(function() {scrollslider1(1)}, 3000);
-
-    </script>
-    <script>
-      const t1 = gsap.timeline();
-  
-gsap.from(".tri1",{
-  opacity:0,
-  top: 159,
-  left: 223,
-   scale: 0,
-
-  rotate:180,
-
-  ease: "power2.out",
-
-})
-      gsap.to(".tri1",{
-        opacity:1,
-        top: 159,
-        left: 223,
-         scale: 4,
-        duration:2,
-        rotate:0,
- 
-        ease: "power2.in",
-      })
-gsap.from(".tri3",{
-  opacity:0,
-  top: 259,
-  left: 223,
-   scale: 0,
-
-  rotate:180,
-
-  ease: "power2.out",
-
-})
-
-      gsap.to(".tri3",{
-        opacity:1,
-        top: 154,
-    left: 182,
-         scale: 4,
-        duration:2,
-      
-        rotate:0,
-        ease: "power2.in",
-      })
-gsap.from(".tri4",{
-  opacity:0,
-  top: 259,
-  left: 223,
-   scale: 0,
-
-  rotate:180,
-
-  ease: "power2.out",
-
-})
-
-      gsap.to(".tri4",{
-        opacity:1,
-        top: 154,
-    left: 400,
-         scale: 4,
-        duration:2,
-      
-        rotate:0,
-        ease: "power2.in",
-      })
-      gsap.to(".tri1",{
-       x:-5,
-       y:-5,
-       repeat:-1,
-       yoyo:true,
-      ease: "power2.in",
-      })
-      gsap.to(".tri3",{
-       x:5,
-       y:-5,
-       repeat:-1,
-       yoyo:true,
-      ease: "power2.in",
-      })
-      gsap.to(".tri4",{
-       x:5,
-       y:-5,
-       repeat:-1,
-       yoyo:true,
-      ease: "power2.in",
-      })
-
-      gsap.from(".hero-top-left",{
-            opacity:0,
-            duration:1.5,
-            x:-500
-        });
-  
+    closeMark.addEventListener("click", () => {
+        closeMark.classList.add("active1");
+        adImage.classList.add("active1");
+        console.log("hello");
+    });
+   });
   
 
     </script>
-<script>        // search-box open close js code
-  let navbar = document.querySelector(".navbar");
-  let searchBox = document.querySelector(".search-box .bx-search");
-  // let searchBoxCancel = document.querySelector(".search-box .bx-x");
-
-  searchBox.addEventListener("click", () => {
-    navbar.classList.toggle("showInput");
-    if (navbar.classList.contains("showInput")) {
-      searchBox.classList.replace("bx-search", "fa-bars");
-    } else {
-      searchBox.classList.replace("fa-bars", "bx-search");
-    }
-  });
-
-  // sidebar open close js code
-  let navLinks = document.querySelector(".nav-links");
-  let menuOpenBtn = document.querySelector(".navbar .open-bars");
-  let menuCloseBtn = document.querySelector(".nav-links .close-bars");
-  menuOpenBtn.onclick = function () {
-    navLinks.style.left = "0";
-    menuOpenBtn.style.opacity = "0";
-  };
-  menuCloseBtn.onclick = function () {
-    navLinks.style.left = "-100%";
-    menuOpenBtn.style.opacity = "1";
-  };
-
-  // sidebar submenu open close js code
-  let htmlcssArrow = document.querySelector(".htmlcss-arrow");
-  htmlcssArrow.onclick = function () {
-    navLinks.classList.toggle("show1");
-  };
-
-  // let moreArrow = document.querySelector(".more-arrow");
-  // moreArrow.onclick = function () {
-  //   navLinks.classList.toggle("show2");
-  // };
-  let jsArrow = document.querySelector(".js-arrow");
-  jsArrow.onclick = function () {
-    navLinks.classList.toggle("show3");
-  };
-  let nodeArrow = document.querySelector(".node-arrow");
-  nodeArrow.onclick = function () {
-    navLinks.classList.toggle("show4");
-  }</script>
-  </body>
+</body>
 </html>
+  

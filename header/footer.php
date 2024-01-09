@@ -35,8 +35,6 @@
   </head>
     
   <body>
-
-    <!-- Footer -->
         <footer class="text-center text-lg-start text-muted" style="background-color: #0d1252; color: white;">
           <!-- Section: Social media -->
           <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
@@ -78,7 +76,230 @@
               <!-- Grid row -->
               <div class="row mt-3">
                 <!-- Grid column -->
-                <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+                <div class="col-md-3 col-lg-4 col-xl-4 mx-auto mb-4">
+                  <!-- Content -->
+                  <!-- <h6 class="text-uppercase fw-bold mb-4">
+                    <i class="fas fa-gem me-3"></i>Edupace Academy
+                  </h6> -->
+                  <img src="assets/images/edupace.png" class="mb-4" style="width: 260px; height:auto;">
+                  <p style="text-align:justify; color: white;">
+                    Welcome to Edupace Academy, where talent meets opportunity and careers are crafted with precision. We are architects of professional success, dedicated to connecting exceptional talent with thriving organizations.
+                  </p>
+                  <br>
+                  <div class="row ">
+                    <div class="col-6">
+                      <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">QUICK LINKS</h6>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">Home</a>
+                      </p>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">About Us</a>
+                      </p>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">Coaching</a>
+                      </p>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">Study Abroad</a>
+                      </p>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">Career Abroad</a>
+                      </p>
+                    </div>
+                    <div class="col-6">
+                      <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">LANGUAGE TRAINING</h6>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">IELTS</a>
+                      </p>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">OET</a>
+                      </p>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">PTE</a>
+                      </p>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">Frensh</a>
+                      </p>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">Germany</a>
+                      </p>
+                      <p>
+                        <a href="" class="nav-link" style="color:white;">Spanish</a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Grid column -->
+        
+                <!-- Grid column -->
+                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                  <!-- Links -->
+                  <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
+                    DOCUMENTATIONS
+                  </h6>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Data Flow</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Eligiblity</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Credentials</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Good Standing</a>
+                  </p>
+                  <p>
+                    <a href="" class="nav-link" style="color: white;">Embassy Attestation</a>
+                  </p>
+                  <p>
+                    <a href="" class="nav-link" style="color:white;">HRD Attestation</a>
+                  </p>
+                  <p>
+                    <a href="" class="nav-link" style="color:white;">Exam Registration</a>
+                  </p>
+                  <p>
+                    <a href="" class="nav-link" style="color:white;">Foreign Verification</a>
+                  </p>
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">STUDY MATERIALS</h6>
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">ONLINE TRAINING</h6>
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">PLACEMENTS</h6>
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">CAREERS</h6>
+                </div>
+                <!-- Grid column -->
+                <div class="col-md-7 col-lg-6 col-xl-6 mx-auto mb-4">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15691.046962706998!2d76.2168823!3d10.5194229!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7ef94631b3851%3A0xf735dcfabd2d791c!2sEdu%20pace%20Language%20Academy!5e0!3m2!1sen!2sin!4v1704536931367!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                <!-- Grid column -->
+                
+                <!-- Grid column -->
+              </div>
+              <!-- Grid row -->
+              <div class="row mt-3">
+                <!-- Grid column -->
+                <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4">
+                  <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
+                    SPAIN PATHWAY PROGRAM 
+                  </h6>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Doctors</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Engineers</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Student</a>
+                  </p>
+                </div>
+                <div class="col-md-3 col-lg-2 col-xl-3 mx-auto mb-4">
+                  <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
+                    GERMAN PATHWAY PROGRAM
+                  </h6>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Nurses</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Ausbildung</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Professionals</a>
+                  </p>
+                </div>
+                <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4">
+                  <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
+                    FOR MEDICAL PROFESSIONALS
+                  </h6>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">DHA</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">HAAD</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">PROMETRIC</a>
+                  </p>
+                </div>
+                <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4">
+                  <h6 class="text-uppercase fw-bold mb-4" style="color: white;">
+                    Quick Links
+                  </h6>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Home</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">About Us</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Coaching</a>
+                  </p>
+                  <p>
+                    <a href="#!" class="nav-link" style="color: white;">Study Abroad</a>
+                  </p>
+                  <p>
+                    <a href="" class="nav-link" style="color: white;">Career Abroad</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+          <!-- Section: Links  -->
+        
+          <!-- Copyright -->
+          <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05); color: white;">
+            © 2023 Copyright:
+            <a class="text-reset fw-bold" style="text-decoration: none; color: white;" href="https://plusitpark.com/">Plus IT Business Park</a>
+          </div>
+          <!-- Copyright -->
+        </footer>
+
+
+    <!-- Footer -->
+        <footer class="text-center text-lg-start text-muted" style="background-color: #0d1252; color: white;">
+          <!-- Section: Social media -->
+          <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+            <!-- Left -->
+            <div class="me-5 d-none d-lg-block">
+              <span style="color: white;">Get connected with us on social networks:</span>
+            </div>
+            <!-- Left -->
+        
+            <!-- Right -->
+            <div>
+              <a href="https://www.facebook.com/profile.php?id=61551154866442" target="-blank" class="me-4 text-reset">
+                <i class="fab fa-facebook-f" style="color: white; font-size: 30px;"></i>
+              </a>
+              <!-- <a href="" class="me-4 text-reset">
+                <i class="fab fa-twitter" style="color: white;"></i>
+              </a> -->
+              <a href="tel:+919072543056" target="-blank" class="me-4 text-reset">
+                <i class="fab fa-whatsapp" style="color: white; font-size: 30px;"></i>
+              </a>
+              <a href="https://www.instagram.com/edu_paceacademy/" target="-blank" class="me-4 text-reset">
+                <i class="fab fa-instagram" style="color: white; font-size: 30px;"></i>
+              </a>
+              <!-- <a href="" class="me-4 text-reset">
+                <i class="fab fa-linkedin" style="color: white;"></i>
+              </a> -->
+              <a href="https://youtube.com/@EduPaceLanguageAcademy?si=zIIQyCIqBHHu1sh8" target="-blank" class="me-4 text-reset">
+                <i class="fab fa-youtube" style="color: white; font-size: 30px;"></i>
+              </a>
+            </div>
+            
+            <!-- Right -->
+          </section>
+          <!-- Section: Social media -->
+        
+
+
+
+
+
+          <!-- Section: Links  -->
+          <section class="">
+            <div class="container text-center text-md-start mt-5">
+              <!-- Grid row -->
+              <div class="row mt-3">
+                <!-- Grid column -->
+                <div class="col-md-2 col-lg-2 col-xl-3 mx-auto mb-2">
                   <!-- Content -->
                   <!-- <h6 class="text-uppercase fw-bold mb-4">
                     <i class="fas fa-gem me-3"></i>Edupace Academy
@@ -106,12 +327,30 @@
                   <p>
                     <a href="nursestogerman.php" class="nav-link" style="color: white;">Career Abroad</a>
                   </p>
+
+                  
                 </div>
+
+
                 <!-- Grid column -->
         
                 <!-- Grid column -->
-                <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
                   <!-- Links -->
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">
+                    Spain Language Pathway Program
+                  </h6>
+                  <p style="color:white;">
+                    Doctors
+                  </p>
+                  <p style="color:white;">
+                    Engineers</a>
+                  </p>
+                  <p style="color:white;">
+                    Student
+                  </p>
+                  <br>
+                  
                   <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
                     Documentations
                   </h6>
@@ -140,6 +379,29 @@
                     Foreign Verification
                   </p>
                   <br>
+
+                </div>
+                <!-- Grid column -->
+                <br>
+                <div class="col-md-6">
+               <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15691.046962706998!2d76.2168823!3d10.5194229!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba7ef94631b3851%3A0xf735dcfabd2d791c!2sEdu%20pace%20Language%20Academy!5e0!3m2!1sen!2sin!4v1704536931367!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                <!-- Grid column -->
+                <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4" style="color: white;">
+                  <!-- Links -->
+                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">
+                    German Language Pathway Program
+                  </h6>
+                  <p>
+                    <a href="nursetogerman.php" class="nav-link" style="color: white;">Nurses</a>
+                  </p>
+                  <p>
+                    <a href="ausbildung.php" class="nav-link" style="color: white;">Ausbildung</a>
+                  </p>
+                  <p>
+                    Professionals
+                  </p>
+                  <br>
                   <h6 class="text-uppercase fw-bold mb-4" style="color: yellow;">
                     Language Training
                   </h6>
@@ -154,37 +416,6 @@
                   </p>
                   <p>
                     <a href="training/german.php" class="nav-link" style="color: white;">German</a>
-                  </p>
-                </div>
-                <!-- Grid column -->
-        
-                <!-- Grid column -->
-                <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4" style="color: white;">
-                  <!-- Links -->
-                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">
-                    German Program
-                  </h6>
-                  <p>
-                    <a href="nursetogerman.php" class="nav-link" style="color: white;">Nurses</a>
-                  </p>
-                  <p>
-                    <a href="ausbildung.php" class="nav-link" style="color: white;">Ausbildung</a>
-                  </p>
-                  <p>
-                    Professionals
-                  </p>
-                  <br>
-                  <h6 class="text-uppercase fw-bold mb-4" style="color:yellow;">
-                    Spain Program
-                  </h6>
-                  <p>
-                    Doctors
-                  </p>
-                  <p>
-                    Engineers</a>
-                  </p>
-                  <p>
-                    Student
                   </p>
                   <br>
                   <h6 class="text-uppercase fw-bold mb-4">
@@ -202,7 +433,7 @@
                   
                 </div>
                 <!-- Grid column -->
-        
+                
                 <!-- Grid column -->
                 <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4" style="color: white;">
                   <!-- Links -->
@@ -242,16 +473,38 @@
                 </div>
                 <!-- Grid column -->
               </div>
+              <div class="row mt-3">
+                <!-- Grid column -->
+                <div class="col-md-2 col-lg-2 col-xl-3 mx-auto mb-2">
+                </div>
               <!-- Grid row -->
             </div>
           </section>
           <!-- Section: Links  -->
         <br>
           <!-- Copyright -->
+          <div class="text-center p-4">
+            <!-- <span style="color:white; margin-right: 10px;"><b>Follow Us</b> </span> -->
+            <a href="tel:+919072543056" target="-blank"><span style="color: white; font-size: 25px; top: 0px; margin-right: 10px;" class="fab fa-whatsapp" ></span></a>
+            
+            <a href="https://www.facebook.com/people/Plus-IT-Park/100094438314339/" target="-blank"><span style="color: white; font-size: 25px; top: 0px; margin-right: 10px;" class="fab fa-facebook-f" ></span></a>
+
+            <a href="https://www.linkedin.com/company/plusitpark" target="-blank"><span style="color: white; font-size: 25px; top: 0px; margin-right: 10px;" class="fab fa-linkedin" ></span></a>
+
+            <a href="https://www.instagram.com/plusitpark/" target="-blank"><span style="color: white; font-size: 25px; top: 0px; margin-right: 10px;" class="fab fa-instagram" ></span></a>
+
+            <a href="https://youtube.com/@EduPaceLanguageAcademy?si=zIIQyCIqBHHu1sh8" target="-blank"><span style="color: white; font-size: 25px; top: 0px; margin-right: 10px;" class="fab fa-youtube" ></span></a>
+            
+            
+            
+          </div>
           <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05); color: white;">
             © 2023 Copyright:
             <a class="text-reset fw-bold" style="text-decoration: none; color: white;" href="https://plusitpark.com/">Plus IT Business Park</a>
+            
           </div>
+          
+          
           <!-- Copyright -->
         </footer>
   

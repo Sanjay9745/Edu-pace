@@ -7,6 +7,7 @@
     <title>Study Abroad</title>
     <link rel="stylesheet" href="./css/index.css" />
     <link rel="stylesheet" href="./css/study-abroad.css" />
+    <link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"

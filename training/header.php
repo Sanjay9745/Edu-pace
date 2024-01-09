@@ -53,6 +53,9 @@
           <ul class="dropdown-menu">
             <li><a class="dropdown-item nav-link" href="../HAAD.php" style="color: #101663; font-weight: bold; font-size: 17px;">HAAD</a></li>
             <li><a class="dropdown-item nav-link" href="../DHA.php" style="color: #101663; font-weight: bold; font-size: 17px;">DHA</a></li>
+            <li><a class="dropdown-item nav-link" href="../MOH.php" style="color: #101663; font-weight: bold; font-size: 17px;">MOH</a></li>
+            <!-- <li><a class="dropdown-item nav-link" href="OET.php" style="color: #101663; font-weight: bold; font-size: 17px;">OET</a></li> -->
+            <li><a class="dropdown-item nav-link" href="../NHRA.php" style="color: #101663; font-weight: bold; font-size: 17px;">NHRA - BAHRAIN</a></li>
             <li><a class="dropdown-item nav-link" href="../SAUDI_PROMETRIC.php" style="color: #101663; font-weight: bold; font-size: 17px;">SAUDI PROMETRIC</a></li>
             <li><a class="dropdown-item nav-link" href="../QATAR_PROMETRIC.php" style="color: #101663; font-weight: bold; font-size: 17px;">QATAR PROMETRIC</a></li>
             <li><a class="dropdown-item nav-link" href="../OMAN_PROMETRIC.php" style="color: #101663; font-weight: bold; font-size: 17px;">OMAN PROMETRIC</a></li>
@@ -64,7 +67,9 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="color: #101663; font-weight: bold; font-size: 17px;">Language Training</a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item nav-link" href="ielts.php" style="color: #101663; font-weight: bold; font-size: 17px;">English</a></li>
+            <li><a class="dropdown-item nav-link" href="ielts.php" style="color: #101663; font-weight: bold; font-size: 17px;">IELTS</a></li>
+            <li><a class="dropdown-item nav-link" href="oet.php" style="color: #101663; font-weight: bold; font-size: 17px;">OET</a></li>
+            <li><a class="dropdown-item nav-link" href="pte.php" style="color: #101663; font-weight: bold; font-size: 17px;">PTE</a></li>
             <li><a class="dropdown-item nav-link" href="german.php" style="color: #101663; font-weight: bold; font-size: 17px;">German</a></li>
             <li><a class="dropdown-item nav-link" href="spanish.php" style="color: #101663; font-weight: bold; font-size: 17px;">Spanish</a></li>
             <li><a class="dropdown-item nav-link" href="french.php" style="color: #101663; font-weight: bold; font-size: 17px;">French</a></li>
